@@ -31,11 +31,12 @@ A curated list of awesome about Network Automation
 - [cidrblock](https://cidrblock.github.io) - The Network Automation thoughts of Bradley A. Thornton
 - [Coding Networker](https://codingnetworker.com) - The Network Automation thoughts of Henry Ölsner
 - [Jason Edelman](http://www.jedelman.com/) - The Network Automation thoughts of Jason Edelman
+- [Napalm-automation](https://napalm-automation.net) - News and updates about the NAPALM project
+- [Networklore](https://networklore.com/blog) - The Network Automation thoughts of Patrick Ogenstad
+- [Network OP](http://networkop.co.uk/) - The Network Automation thoughts of Michael Kashin
 - [Packet Life](http://packetlife.net/) - The Network Automation thoughts of Jeremy Strech
 - [Project 10](https://projectme10.wordpress.com) - The Network Automation thoughts of Gabriele Gerbino
 - [Scott Lowe](http://blog.scottlowe.org) - The Network Automation thoughts of Scott Lowe
-- [Networklore](https://networklore.com/blog) - The Network Automation thoughts of Patrick Ogenstad
-- [Network OP](http://networkop.co.uk/) - The Network Automation thoughts of Michael Kashin
 
 # Programming Topics
 
@@ -191,7 +192,6 @@ A curated list of awesome about Network Automation
 
 # Network Vendor Products
 - [Cisco Merkai](https://meraki.cisco.com/) - Cisco Meraki is the leader in cloud controlled WiFi, routing, and security. Secure and scalable, Cisco Meraki enterprise networks simply work
-- [Viptela]
 - [Talari]
 
 # Podcast
