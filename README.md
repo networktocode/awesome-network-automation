@@ -14,9 +14,9 @@ A curated list of awesome about Network Automation
   - [IPAM](#ipam)
   - [Configuration Management](#configuration-management)
   - [Books](#books)
-  - [Vendor Agnoistic Products](#vendor-agnostic-products)
+  - [Vendor Agnostic Products](#vendor-agnostic-products)
   - [Network Vendor Products](#network-vendor-products)
-  - [Podcast](#podcasts)
+  - [Podcasts](#podcasts)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -200,7 +200,7 @@ A curated list of awesome about Network Automation
 - [Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do) - Skills for the Next-Generation Network Engineer
 - [Ansible: Up and Running](http://shop.oreilly.com/product/0636920035626.do) - Automating Configuration Management and Deployment the Easy Way
 
-# Vendor Agnoistic Products
+# Vendor Agnostic Products
 
 - [Apstra](http://www.apstra.com/products/) - The Apstra Operating System (AOS) is a vendor-agnostic distributed operating system for the data center network that enables business agility, dramatically scales operational efficiency, and reduces downtime.
 - [Glue](http://gluenetworks.com/about-us-the-glue-team/) - With Gluware, the Glue Networks vision and team are continuing to trail-blaze at the forefront of the networking industry with multi-vendor orchestration solutions for Data Center, WAN and LAN networks.
@@ -211,7 +211,7 @@ A curated list of awesome about Network Automation
 - [Talari](https://www.talari.com/) - Talari Networks SD-WAN technology 
 
 
-# Podcast
+# Podcasts
 
 - [Software Gone Wild](https://www.ipspace.net/Podcast/Software_Gone_Wild) - Software Gone Wild is focusing on architectures, solutions and technologies that real networking engineers use in production networks.
 
