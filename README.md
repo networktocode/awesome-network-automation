@@ -3,10 +3,22 @@
 A curated list of awesome about Network Automation
 
 - [Awesome Network Automation](#awesome-network-automation)
-  - [Introduction](#introduction)
   - [Community](#community)
   - [Training](#training)
   - [Events / Meetup](#events--meetup)
+  - [Blogs](#blogs)
+  - [Programming Topics](#programming-topics)
+  - [Open Source Projects](#open-source-projects)
+  - [Hypervisor's](#hypervisors)
+  - [Backups](#backups)
+  - [IPAM](#ipam)
+  - [Configuration Management](#configuration-management)
+  - [Books](#books)
+  - [Vendor Agnoistic Products](#vendor-agnostic-products)
+  - [Network Vendor Products](#network-vendor-products)
+  - [Podcast](#podcasts)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 # Community
 
@@ -14,7 +26,7 @@ A curated list of awesome about Network Automation
 - [IRC Ansible](http://docs.ansible.com/ansible/community.html#irc-channel) - Ansible IRC Channels
 - [Ansbile Google Groups](https://groups.google.com/forum/#!forum/ansible-project) - Welcome to Ansible's mailing list / forum! 
 
-## Events / Meetup
+# Events / Meetup
 
 - [Ansible Fest](https://www.ansible.com/ansiblefest) - AnsibleFest is a day-long conference bringing together Ansible users, developers and industry partners to share best practices, case studies and Ansible news.
 - [Tech Field Day](http://techfieldday.com/) - Field Day events bring together innovative IT product vendors and independent thought leaders to share information and opinions in a presentation and discussion format.
@@ -30,7 +42,9 @@ A curated list of awesome about Network Automation
 
 - [cidrblock](https://cidrblock.github.io) - The Network Automation thoughts of Bradley A. Thornton
 - [Coding Networker](https://codingnetworker.com) - The Network Automation thoughts of Henry Ölsner
+- [Coding Packets](https://codingpackets.com) - The Network Automation thoughts of Brad Searle
 - [Jason Edelman](http://www.jedelman.com/) - The Network Automation thoughts of Jason Edelman
+- [mirceaulinic](https://mirceaulinic.net/) - The Network Automation thoughts of Mircea Ulinic
 - [Napalm-automation](https://napalm-automation.net) - News and updates about the NAPALM project
 - [Networklore](https://networklore.com/blog) - The Network Automation thoughts of Patrick Ogenstad
 - [Network OP](http://networkop.co.uk/) - The Network Automation thoughts of Michael Kashin
@@ -137,10 +151,11 @@ A curated list of awesome about Network Automation
  - [Napalm](https://github.com/napalm-automation/napalm) - NAPALM (Network Automation and Programmability Abstraction Layer with Multivendor support) is a Python library that implements a set of functions to interact with different router vendor devices using a unified API.
  - [Netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices
  - [NTC Ansible](https://github.com/networktocode/ntc-ansible) - Multi-vendor Ansible Modules for Network Automation
- - [Jtable]()
- - [ciscoconfparse]()
- - [TextFSM]()
- - [JINJA2]()
+ - [py-junos-exnc](https://github.com/Juniper/py-junos-eznc) - Python library for Junos automation
+ - [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations
+ - [TextFSM](https://github.com/google/textfsm) - Python module for parsing semi-structured text into python tables.
+ - [JINJA2](http://jinja.pocoo.org/) - Jinja2 is a full featured template engine for Python
+ - [Condoor](https://github.com/kstaniek/condoor) - This is a python module providing access to Cisco devices over Telnet and SSH
 
 ## Tools
 
@@ -192,19 +207,19 @@ A curated list of awesome about Network Automation
 
 # Network Vendor Products
 - [Cisco Merkai](https://meraki.cisco.com/) - Cisco Meraki is the leader in cloud controlled WiFi, routing, and security. Secure and scalable, Cisco Meraki enterprise networks simply work
-- [Talari]
+- [Viptela](http://viptela.com/) - Viptela provides Software-Defined Wide Area Network (SD-WAN) technology that allows global companies to build cost-effective WANs
+- [Talari](https://www.talari.com/) - Talari Networks SD-WAN technology 
+
 
 # Podcast
 
 - [Software Gone Wild](https://www.ipspace.net/Podcast/Software_Gone_Wild) - Software Gone Wild is focusing on architectures, solutions and technologies that real networking engineers use in production networks.
 
-
 # Contributing
 
-Contributions are most welcome!
+Contributions about network automation are most welcome!
 
 This list is just getting started, please contribute to make it super awesome.
-
 
 # License
 
