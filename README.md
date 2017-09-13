@@ -189,6 +189,7 @@ A curated list of awesome about Network Automation
 - [infoblox](https://www.infoblox.com/) - Industry leader in DNS, DHCP, and IP address management, the category known as DDI
 - [haci](http://haci.larsux.de/) - HaCi is an IP Address / Network Administration (IPAM) Tool with IPv6 support.
 - [bluecat](https://www.bluecatnetworks.com/products/ip-address-management/) - BlueCat provides network intelligence and insight into the relationship between devices, users and IP addresses that can be put into action to improve security and ensure reliable, always-on business connectivity.
+- [nipap](http://spritelink.github.io/NIPAP/) - nipap is a sleek, intuitive and powerful IP address management system built to handle large amounts of IP addresses.
 
 # Configuration Management
  - www.solarwinds.com/network-configuration-manager
