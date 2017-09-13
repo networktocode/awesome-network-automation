@@ -159,6 +159,7 @@ A curated list of awesome about Network Automation
  - [Condoor](https://github.com/kstaniek/condoor) - This is a python module providing access to Cisco devices over Telnet and SSH
  - [EasySNMP](https://github.com/kamakazikamikaze/easysnmp) - Easy to use and very fast SNMP library that uses Net-SNMP
  - [netaddr](https://github.com/drkjam/netaddr) - Network address manipulation that supports a number of techniques (supernetting and subnetting)
+ - [Capirca](https://github.com/google/capirca) - Multi-platform ACL generation system; can output Juniper/IOS/etc ACLs from the same policy
 
 ## Tools
 
