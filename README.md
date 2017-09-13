@@ -158,6 +158,7 @@ A curated list of awesome about Network Automation
  - [JINJA2](http://jinja.pocoo.org/) - Jinja2 is a full featured template engine for Python
  - [Condoor](https://github.com/kstaniek/condoor) - This is a python module providing access to Cisco devices over Telnet and SSH
  - [EasySNMP](https://github.com/kamakazikamikaze/easysnmp) - Easy to use and very fast SNMP library that uses Net-SNMP
+ - [netaddr](https://github.com/drkjam/netaddr) - Network address manipulation that supports a number of techniques (supernetting and subnetting)
 
 ## Tools
 
