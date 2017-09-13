@@ -145,6 +145,7 @@ A curated list of awesome about Network Automation
  - [Trigger](https://github.com/trigger/trigger) - Trigger is a robust network automation toolkit written in Python that was designed for interfacing with network devices and managing network configuration and security policy.
  - [NSOT](https://github.com/dropbox/nsot) - Network Source of Truth (NSoT) a source of truth database and repository for tracking inventory and metadata of network entities to ease management and automation of network infrastructure
  - [ToDD](https://github.com/toddproject/todd) - ToDD is an extensible framework for providing natively distributed testing on demand.
+ - [pyNMS](https://github.com/afourmy/pyNMS) - pyNMS is a vendor-agnostic Network Management System for network visualization, inventory and graphical automation. 
 
 ## Library
 
