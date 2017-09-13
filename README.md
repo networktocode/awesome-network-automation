@@ -170,7 +170,7 @@ A curated list of awesome about Network Automation
 
  - Docker
  - Vagrant
- - Kubrneteis
+ - Kubernetes
  - VirtualBox
  - ESX
 
