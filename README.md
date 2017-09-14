@@ -200,6 +200,7 @@ A curated list of awesome about Network Automation
 - [Oxidized](https://github.com/ytti/oxidized) - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
 - [RANCID](www.shrubbery.net/rancid) - RANCID monitors a router's (or more generally a device's) configuration, including software and hardware (cards, serial numbers, etc) and uses CVS (Concurrent Version System), Subversion or Git to maintain history of changes
 - [Sweet](https://github.com/AppliedTrust/sweet) - Network device configuration backups and change alerts for the 21st century - inspired by RANCID!
+- [Unimus](https://unimus.net) - Configuration backup with an easy to use Web GUI. From nothing to backing-up 1000 routers in 15 minutes.
 
 # IPAM
 
@@ -215,6 +216,7 @@ A curated list of awesome about Network Automation
  - [Solarwinds](www.solarwinds.com/network-configuration-manager)
  - [ManageEngine](https://www.manageengine.com/network-configuration-manager/)
  - [Rconfig](http://www.rconfig.com/)
+ - [Unimus](https://unimus.net) - Network-wide configuration search and config diff over time in an easy to use web GUI.
 
 # Books
 
