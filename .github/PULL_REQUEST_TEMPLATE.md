@@ -1,7 +1,7 @@
 
 # Network vs Network Automation
 
-The intention is to keep this Network Automation related, and not Network related. The line is blurry, and subject to change if the community so desires.
+The intention is to keep this Network Automation related, and not Network related. The line is blurry, and subject to change if the community so desires. If you wish to add a link that may be a bit Network leaning, but you feel it offers enough content, or has been previously denied, please open an Issue. If said Issue receives enough upvotes/attention, then it shall be included.
 
 # Vendor Submissions
 
