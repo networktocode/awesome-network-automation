@@ -99,17 +99,20 @@ A curated list of awesome about Network Automation
 
 ## Python
 
-
  - Getting Started and Basics
  - Examples
  - Advanced and Tools
 
 ## Go
 
-
  - Getting Started and Basics
  - Examples
  - Advanced and Tools
+
+## Vendor API Docs
+
+ - [Cisco IOSXR](https://www.cisco.com/c/en/us/td/docs/ios_xr_sw/iosxr_r4-1/xml/programming/guide/xl41apidoc.html) - Cisco IOS-XR API Docs
+ - [Infoblox](https://ipam.illinois.edu/api/doc/) - Externally hosted Infoblox API docs
 
 # Open Source Projects
 
@@ -148,14 +151,14 @@ A curated list of awesome about Network Automation
 ## Library
 
  - [Capirca](https://github.com/google/capirca) - Multi-platform ACL generation system; can output Juniper/IOS/etc ACLs from the same policy
+ - [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations
  - [Condoor](https://github.com/kstaniek/condoor) - This is a python module providing access to Cisco devices over Telnet and SSH
  - [EasySNMP](https://github.com/kamakazikamikaze/easysnmp) - Easy to use and very fast SNMP library that uses Net-SNMP
  - [JINJA2](http://jinja.pocoo.org/) - Jinja2 is a full featured template engine for Python
  - [Napalm](https://github.com/napalm-automation/napalm) - NAPALM (Network Automation and Programmability Abstraction Layer with Multivendor support) is a Python library that implements a set of functions to interact with different router vendor devices using a unified API.
+ - [netaddr](https://github.com/drkjam/netaddr) - Network address manipulation that supports a number of techniques (supernetting and subnetting)
  - [Netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices
  - [TextFSM](https://github.com/google/textfsm) - Python module for parsing semi-structured text into python tables.
- - [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations
- - [netaddr](https://github.com/drkjam/netaddr) - Network address manipulation that supports a number of techniques (supernetting and subnetting)
 
 ## Non-Core Ansible Modules
 
@@ -246,5 +249,5 @@ This list is just getting started, please contribute to make it super awesome.
 
 # License
 
-
+Licensed under the Apache License, Version 2.0, see LICENSE file for more detail
 
