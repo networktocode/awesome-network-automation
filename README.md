@@ -244,6 +244,8 @@ A curated list of awesome about Network Automation
 
 # Podcasts
 
+- [Packet Pushers](http://packetpushers.net/series/weekly-show/) - An unabashedly nerdy swan dive into networking technology. Weekly episodes feature industry experts, real-life network engineers and vendors sharing useful information to keep your professional knowledge sharp. 
+
 - [Software Gone Wild](https://www.ipspace.net/Podcast/Software_Gone_Wild) - Software Gone Wild is focusing on architectures, solutions and technologies that real networking engineers use in production networks.
 
 # Contributing
