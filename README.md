@@ -47,6 +47,7 @@ A curated list of awesome about Network Automation
 - [mirceaulinic](https://mirceaulinic.net/) - The Network Automation thoughts of Mircea Ulinic
 - [Napalm-automation](https://napalm-automation.net) - News and updates about the NAPALM project
 - [Networklore](https://networklore.com/blog) - The Network Automation thoughts of Patrick Ogenstad
+- [Networker and Coder](https://networkerandcoder.wordpress.com/) - The Network Automation thoughts of Csilla Bessenyei
 - [Network OP](http://networkop.co.uk/) - The Network Automation thoughts of Michael Kashin
 - [Packet Life](http://packetlife.net/) - The Network Automation thoughts of Jeremy Strech
 - [Project 10](https://projectme10.wordpress.com) - The Network Automation thoughts of Gabriele Gerbino
@@ -58,87 +59,83 @@ A curated list of awesome about Network Automation
 
 ### Yaml
 
-##### Getting Started and Basics
-##### Examples
-##### Advanced and Tools
+ - Getting Started and Basics
+ - Examples
+ - Advanced and Tools
 
 ### JSON
 
-##### Getting Started and Basics
-##### Examples
-##### Advanced and Tools
+ - Getting Started and Basics
+ - Examples
+ - Advanced and Tools
 
 ### XML
 
-##### Getting Started and Basics
-##### Examples
-##### Advanced and Tools
+ - Getting Started and Basics
+ - Examples
+ - Advanced and Tools
 
 ### Yang
 
 
-##### Getting Started and Basics
-##### Examples
-##### Advanced and Tools
+ - Getting Started and Basics
+ - Examples
+ - Advanced and Tools
 
 ## API
 
 ### RestConf
 
 
-##### Getting Started and Basics
-##### Examples
-##### Advanced and Tools
+ - Getting Started and Basics
+ - Examples
+ - Advanced and Tools
 
 ### NETCONF
 
-##### Getting Started and Basics
-##### Examples
-##### Advanced and Tools
-
-### 
+ - Getting Started and Basics
+ - Examples
+ - Advanced and Tools
 
 ## Python
 
 
-##### Getting Started and Basics
-##### Examples
-##### Advanced and Tools
+ - Getting Started and Basics
+ - Examples
+ - Advanced and Tools
 
 ## Go
 
 
-##### Getting Started and Basics
-##### Examples
-##### Advanced and Tools
+ - Getting Started and Basics
+ - Examples
+ - Advanced and Tools
 
 # Open Source Projects
 
-
 ## Ansible
 
-
-##### Getting Started and Basics
-##### Examples
-##### Advanced and Tools
+ - Getting Started and Basics
+ - Examples
+ - Advanced and Tools
 
 ## Salt
 
-##### Getting Started and Basics
-##### Examples
-##### Advanced and Tools
+ - Getting Started and Basics
+ - Examples
+ - Advanced and Tools
 
 ## Puppet
 
-##### Getting Started and Basics
-##### Examples
-##### Advanced and Tools
+ - Getting Started and Basics
+ - Examples
+ - Advanced and Tools
 
 ## Chef
 
-##### Getting Started and Basics
-##### Examples
-##### Advanced and Tools
+ - Getting Started and Basics
+ - Examples
+ - Advanced and Tools
 
 ## Products
 
@@ -153,12 +150,29 @@ A curated list of awesome about Network Automation
  - [Condoor](https://github.com/kstaniek/condoor) - This is a python module providing access to Cisco devices over Telnet and SSH
  - [EasySNMP](https://github.com/kamakazikamikaze/easysnmp) - Easy to use and very fast SNMP library that uses Net-SNMP
  - [JINJA2](http://jinja.pocoo.org/) - Jinja2 is a full featured template engine for Python
- - [NTC Ansible](https://github.com/networktocode/ntc-ansible) - Multi-vendor Ansible Modules for Network Automation
  - [Napalm](https://github.com/napalm-automation/napalm) - NAPALM (Network Automation and Programmability Abstraction Layer with Multivendor support) is a Python library that implements a set of functions to interact with different router vendor devices using a unified API.
  - [Netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices
  - [TextFSM](https://github.com/google/textfsm) - Python module for parsing semi-structured text into python tables.
  - [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations
  - [netaddr](https://github.com/drkjam/netaddr) - Network address manipulation that supports a number of techniques (supernetting and subnetting)
+
+## Non-Core Ansible Modules
+
+ - [ansible-junos-stdlib](https://github.com/Juniper/ansible-junos-stdlib) - Junos modules for Ansible
+ - [Fortimanager-Ansible](https://github.com/networktocode/fortimanager-ansible) - Ansible Module to work with Fortimanager
+ - [Infoblox-Ansible](https://github.com/infobloxopen/infoblox-ansible) - A new Ansible Module to work with Infoblox.
+ - [Napalm-Ansible](https://github.com/napalm-automation/napalm-ansible) - Collection of ansible modules that use napalm to retrieve data or modify configuration on networking devices.
+ - [Netscaler-Ansible](https://github.com/networktocode/netscaler-ansible) - Ansible Module to work with Netscalers
+ - [NTC Ansible](https://github.com/networktocode/ntc-ansible) - Multi-vendor Ansible Modules for Network Automation
+
+## Vendor Abstraction Library
+
+ - [infoblox](https://github.com/infobloxopen/infoblox-client) - Python library for Infoblox
+ - [pandevice](https://github.com/PaloAltoNetworks/pandevice) - Python library for Palo Alto
+ - [pyeapi](https://github.com/arista-eosplus/pyeapi) - Python library for Arista EOS
+ - [pyfg](https://github.com/spotify/pyfg) - Python library for Fortinet
+ - [pyiosxr](https://github.com/fooelisa/pyiosxr) - Python library for Cisco IOSXR
+ - [pynxos](https://github.com/networktocode/pynxos) - Python library for Cisco NXOS
  - [py-junos-exnc](https://github.com/Juniper/py-junos-eznc) - Python library for Junos automation
 
 ## Tools
@@ -196,9 +210,10 @@ A curated list of awesome about Network Automation
 - [phpipam](https://phpipam.net/) - phpipam is an open-source web IP address management application (IPAM). Its goal is to provide light, modern and useful IP address management.
 
 # Configuration Management
- - www.solarwinds.com/network-configuration-manager
- - https://www.manageengine.com/network-configuration-manager/
- - http://www.rconfig.com/
+
+ - [Solarwinds](www.solarwinds.com/network-configuration-manager)
+ - [ManageEngine](https://www.manageengine.com/network-configuration-manager/)
+ - [Rconfig](http://www.rconfig.com/)
 
 # Books
 
