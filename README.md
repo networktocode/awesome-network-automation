@@ -22,9 +22,9 @@ A curated list of awesome about Network Automation
 
 # Community
 
-- [Ansbile Google Groups](https://groups.google.com/forum/#!forum/ansible-project) - Welcome to Ansible's mailing list / forum! 
+- [Ansbile Google Groups](https://groups.google.com/forum/#!forum/ansible-project) - Welcome to Ansible's mailing list / forum!
 - [IRC Ansible](http://docs.ansible.com/ansible/community.html#irc-channel) - Ansible IRC Channels
-- [NTC Slack](http://slack.networktocode.com) - Slack community around Network Automation 
+- [NTC Slack](http://slack.networktocode.com) - Slack community around Network Automation
 
 # Events / Meetup
 
@@ -52,6 +52,7 @@ A curated list of awesome about Network Automation
 - [Packet Life](http://packetlife.net/) - The Network Automation thoughts of Jeremy Strech
 - [Project 10](https://projectme10.wordpress.com) - The Network Automation thoughts of Gabriele Gerbino
 - [Scott Lowe](http://blog.scottlowe.org) - The Network Automation thoughts of Scott Lowe
+- [IPEngineer - David Gee](http://ipengineer.net) - Network automation, softwarenetworking and musings from David Gee
 
 # Programming Topics
 
@@ -142,7 +143,7 @@ A curated list of awesome about Network Automation
  - [NSOT](https://github.com/dropbox/nsot) - Network Source of Truth (NSoT) a source of truth database and repository for tracking inventory and metadata of network entities to ease management and automation of network infrastructure
  - [ToDD](https://github.com/toddproject/todd) - ToDD is an extensible framework for providing natively distributed testing on demand.
  - [Trigger](https://github.com/trigger/trigger) - Trigger is a robust network automation toolkit written in Python that was designed for interfacing with network devices and managing network configuration and security policy.
- - [pyNMS](https://github.com/afourmy/pyNMS) - pyNMS is a vendor-agnostic Network Management System for network visualization, inventory and graphical automation. 
+ - [pyNMS](https://github.com/afourmy/pyNMS) - pyNMS is a vendor-agnostic Network Management System for network visualization, inventory and graphical automation.
 
 ## Library
 
@@ -155,6 +156,7 @@ A curated list of awesome about Network Automation
  - [TextFSM](https://github.com/google/textfsm) - Python module for parsing semi-structured text into python tables.
  - [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations
  - [netaddr](https://github.com/drkjam/netaddr) - Network address manipulation that supports a number of techniques (supernetting and subnetting)
+
 
 ## Non-Core Ansible Modules
 
@@ -174,6 +176,7 @@ A curated list of awesome about Network Automation
  - [pyiosxr](https://github.com/fooelisa/pyiosxr) - Python library for Cisco IOSXR
  - [pynxos](https://github.com/networktocode/pynxos) - Python library for Cisco NXOS
  - [py-junos-exnc](https://github.com/Juniper/py-junos-eznc) - Python library for Junos automation
+ - [clicrud](https://github.com/davidjohngee/clicrud) - Brocade specific (MLX/VDX/ICX/CER/CES) CLI driver (Telnet & SSH)
 
 ## Tools
 
@@ -228,7 +231,7 @@ A curated list of awesome about Network Automation
 # Network Vendor Products
 - [Cisco Merkai](https://meraki.cisco.com/) - Cisco Meraki is the leader in cloud controlled WiFi, routing, and security. Secure and scalable, Cisco Meraki enterprise networks simply work
 - [Viptela](http://viptela.com/) - Viptela provides Software-Defined Wide Area Network (SD-WAN) technology that allows global companies to build cost-effective WANs
-- [Talari](https://www.talari.com/) - Talari Networks SD-WAN technology 
+- [Talari](https://www.talari.com/) - Talari Networks SD-WAN technology
 
 
 # Podcasts
