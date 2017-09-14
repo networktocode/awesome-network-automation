@@ -44,6 +44,7 @@ A curated list of awesome about Network Automation
 - [Coding Networker](https://codingnetworker.com) - The Network Automation thoughts of Henry Ölsner
 - [Coding Packets](https://codingpackets.com) - The Network Automation thoughts of Brad Searle
 - [Jason Edelman](http://www.jedelman.com/) - The Network Automation thoughts of Jason Edelman
+- [IPEngineer - David Gee](http://ipengineer.net) - Network automation, software-networking and musings from David Gee
 - [mirceaulinic](https://mirceaulinic.net/) - The Network Automation thoughts of Mircea Ulinic
 - [Napalm-automation](https://napalm-automation.net) - News and updates about the NAPALM project
 - [Networklore](https://networklore.com/blog) - The Network Automation thoughts of Patrick Ogenstad
@@ -52,7 +53,7 @@ A curated list of awesome about Network Automation
 - [Packet Life](http://packetlife.net/) - The Network Automation thoughts of Jeremy Strech
 - [Project 10](https://projectme10.wordpress.com) - The Network Automation thoughts of Gabriele Gerbino
 - [Scott Lowe](http://blog.scottlowe.org) - The Network Automation thoughts of Scott Lowe
-- [IPEngineer - David Gee](http://ipengineer.net) - Network automation, softwarenetworking and musings from David Gee
+
 
 # Programming Topics
 
@@ -169,6 +170,7 @@ A curated list of awesome about Network Automation
 
 ## Vendor Abstraction Library
 
+ - [clicrud](https://github.com/davidjohngee/clicrud) - Brocade specific (MLX/VDX/ICX/CER/CES) CLI driver (Telnet & SSH)
  - [infoblox](https://github.com/infobloxopen/infoblox-client) - Python library for Infoblox
  - [pandevice](https://github.com/PaloAltoNetworks/pandevice) - Python library for Palo Alto
  - [pyeapi](https://github.com/arista-eosplus/pyeapi) - Python library for Arista EOS
@@ -176,7 +178,7 @@ A curated list of awesome about Network Automation
  - [pyiosxr](https://github.com/fooelisa/pyiosxr) - Python library for Cisco IOSXR
  - [pynxos](https://github.com/networktocode/pynxos) - Python library for Cisco NXOS
  - [py-junos-exnc](https://github.com/Juniper/py-junos-eznc) - Python library for Junos automation
- - [clicrud](https://github.com/davidjohngee/clicrud) - Brocade specific (MLX/VDX/ICX/CER/CES) CLI driver (Telnet & SSH)
+
 
 ## Tools
 
