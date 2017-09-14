@@ -113,7 +113,7 @@ A curated list of awesome about Network Automation
 
 ## Vendor API Docs
 
- - [Cisco IOSXR](https://www.cisco.com/c/en/us/td/docs/ios_xr_sw/iosxr_r4-1/xml/programming/guide/xl41apidoc.html) - Cisco IOS-XR API Docs
+ - [Cisco IOSXR](xrdocs.github.io) - Cisco IOS-XR Docs
  - [Infoblox](https://ipam.illinois.edu/api/doc/) - Externally hosted Infoblox API docs
 
 # Open Source Projects
