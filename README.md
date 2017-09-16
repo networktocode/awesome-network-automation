@@ -25,18 +25,24 @@ A curated list of awesome about Network Automation
 - [Ansbile Google Groups](https://groups.google.com/forum/#!forum/ansible-project) - Welcome to Ansible's mailing list / forum!
 - [IRC Ansible](http://docs.ansible.com/ansible/community.html#irc-channel) - Ansible IRC Channels
 - [NTC Slack](http://slack.networktocode.com) - Slack community around Network Automation
+- [Salt Users](https://groups.google.com/forum/#!forum/salt-users) - The official forum of the Salt community.
+- [Salt Networks](https://groups.google.com/forum/#!forum/salt-networks) - The goal of this group is to have a central place to communicate goals about network device automation with SaltStack.
+- [Salt Formulas](https://groups.google.com/forum/#!forum/salt-formulas) - The SaltStack formulas working group.
 
 # Events / Meetup
 
 - [AWS Reinvent](https://reinvent.awsevents.com/) - AWS re:Invent Central is designed to facilitate connections between sponsors and attendees.
 - [Ansible Fest](https://www.ansible.com/ansiblefest) - AnsibleFest is a day-long conference bringing together Ansible users, developers and industry partners to share best practices, case studies and Ansible news.
 - [Tech Field Day](http://techfieldday.com/) - Field Day events bring together innovative IT product vendors and independent thought leaders to share information and opinions in a presentation and discussion format.
+- [London Network Automation Meetup](https://www.meetup.com/London-Network-Automation-Meetup/) - A community of network engineers, who have interest in the new buzz of network automation.
+- [SaltConf](http://saltconf.com/) - A 4 days event including two days of SaltStack customer case studies and SaltStack technical deep dives.
 
 # Training
 
 - [IP Space](http://www.ipspace.net/Training) - On ipSpace.net you'll find numerous courses, webinars, and videos covering SDN, cloud computing, virtualization technologies, IPv6 and VPNs.
 - [NTC](http://networktocode.com/products/training/) - Network Automation Training including Python, Ansible, DevOps, and much more.
 - [Python for Network Engineers](https://pynet.twb-tech.com/class.html) - You will learn skills that make you better at network automation and that improve your capability to use programming to scale your work.
+- [Mircea Ulinic](http://mirceaulinic.us14.list-manage1.com/subscribe?u=4d3e65e9c470a62dc341ce797&id=bd27d97b29) - Learn more about cross-vendor event-driven network automation and orchestration.
 
 # Blogs
 
@@ -45,7 +51,7 @@ A curated list of awesome about Network Automation
 - [Coding Packets](https://codingpackets.com) - The Network Automation thoughts of Brad Searle
 - [Jason Edelman](http://www.jedelman.com/) - The Network Automation thoughts of Jason Edelman
 - [IPEngineer - David Gee](http://ipengineer.net) - Network automation, software-networking and musings from David Gee
-- [mirceaulinic](https://mirceaulinic.net/) - The Network Automation thoughts of Mircea Ulinic
+- [Mircea Ulinic](https://mirceaulinic.net/) - Random thoughts of Mircea Ulinic. May include event-driven network automation, vendor bashing or machine learning (TBD).
 - [Napalm-automation](https://napalm-automation.net) - News and updates about the NAPALM project
 - [Networklore](https://networklore.com/blog) - The Network Automation thoughts of Patrick Ogenstad
 - [Networker and Coder](https://networkerandcoder.wordpress.com/) - The Network Automation thoughts of Csilla Bessenyei
@@ -59,9 +65,10 @@ A curated list of awesome about Network Automation
 
 ## Structured Data
 
-### Yaml
+### YAML
 
  - Getting Started and Basics
+ - [Online Validator](http://yaml-online-parser.appspot.com/)
  - Examples
  - Advanced and Tools
 
@@ -77,7 +84,7 @@ A curated list of awesome about Network Automation
  - Examples
  - Advanced and Tools
 
-### Yang
+### YANG
 
 
  - Getting Started and Basics
@@ -126,9 +133,16 @@ A curated list of awesome about Network Automation
 
 ## Salt
 
- - Getting Started and Basics
- - Examples
- - Advanced and Tools
+ - [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html)
+ - [SaltStack fundamentals](https://docs.saltstack.com/en/getstarted/fundamentals/)
+ - [SaltStack configuration management](https://docs.saltstack.com/en/getstarted/config/)
+ - [SaltStack Network Automation](https://docs.saltstack.com/en/develop/topics/network_automation/index.html)
+ - [The napalm-salt repository](https://github.com/napalm-automation/napalm-salt)
+ - [Event-driven network automation using Salt: up and running in 60 minutes](https://ripe74.ripe.net/presentations/18-RIPE-74-Network-automation-at-scale-up-and-running-in-60-minutes.pdf)
+ - [Salt 2016.11 (Carbon) release notes](https://docs.saltstack.com/en/develop/topics/releases/2016.11.0.html#network-automation-napalm)
+ - [Salt 2017.7 (Nitrogen) release notes](https://docs.saltstack.com/en/develop/topics/releases/2017.7.0.html#network-automation)
+ - [Using Salt at scale](https://docs.saltstack.com/en/latest/topics/tutorials/intro_scale.html)
+ - [Salt high availability and fault tolerance](https://docs.saltstack.com/en/latest/topics/highavailability/index.html)
 
 ## Puppet
 
@@ -172,6 +186,11 @@ A curated list of awesome about Network Automation
  - [Netscaler-Ansible](https://github.com/networktocode/netscaler-ansible) - Ansible Module to work with Netscalers
  - [NTC Ansible](https://github.com/networktocode/ntc-ansible) - Multi-vendor Ansible Modules for Network Automation
 
+## Pre-written Salt States (Formulas)
+
+ - [napalm-install-formula](https://github.com/saltstack-formulas/napalm-install-formula) - Salt formula to simplify the installation of the necessary packages and system dependencies for NAPALM.
+ - [napalm-ntp-formula](https://github.com/saltstack-formulas/napalm-ntp-formula) - Formula to manage the NTP configuration on network devices, following the OpenConfig system YANG model.
+
 ## Vendor Abstraction Library
 
  - [clicrud](https://github.com/davidjohngee/clicrud) - Brocade specific (MLX/VDX/ICX/CER/CES) CLI driver (Telnet & SSH)
@@ -187,6 +206,7 @@ A curated list of awesome about Network Automation
 ## Tools
 
 - [BGP-Dashboard](https://github.com/rhicks/bgp-dashboard) - BGP Dashboard and Monitoring Web Application
+- [napalm-logs](https://github.com/napalm-automation/napalm-logs) - Cross-vendor normalisation for network syslog messages, following the OpenConfig and IETF YANG models.
 - [Net-Config](https://github.com/SLAC/net-config/) - Automation framework for network devices
 - [NetSpark-Scripts](https://github.com/admiralspark/NetSpark-Scripts) - Netmiko-based scripts to assist the Network Administrators and Engineers of the world!
 - [NetTools](https://github.com/crisponions/NetTools) - Simple network python scripts
@@ -197,6 +217,7 @@ A curated list of awesome about Network Automation
  - Docker
  - Vagrant
  - Kubernetes
+ - Marathon
  - VirtualBox
  - ESX
 
@@ -217,6 +238,7 @@ A curated list of awesome about Network Automation
 - [infoblox](https://www.infoblox.com/) - Industry leader in DNS, DHCP, and IP address management, the category known as DDI
 - [netbox](https://github.com/digitalocean/netbox) - NetBox is an IP address management (IPAM) and data center infrastructure management (DCIM) tool.
 - [nipap](http://spritelink.github.io/NIPAP/) - nipap is a sleek, intuitive and powerful IP address management system built to handle large amounts of IP addresses.
+- [NSoT](https://github.com/dropbox/nsot) - Network Source of Truth is an open source IPAM and network inventory database.
 - [phpipam](https://phpipam.net/) - phpipam is an open-source web IP address management application (IPAM). Its goal is to provide light, modern and useful IP address management.
 
 # Configuration Management
@@ -245,6 +267,7 @@ A curated list of awesome about Network Automation
 # Podcasts
 
 - [Software Gone Wild](https://www.ipspace.net/Podcast/Software_Gone_Wild) - Software Gone Wild is focusing on architectures, solutions and technologies that real networking engineers use in production networks.
+- [Packet Pushers](http://packetpushers.net/podcast/) - A network of technology podcasts where real engineers get into the weeds about networking, data centers, and enterprise IT.
 
 # Contributing
 
