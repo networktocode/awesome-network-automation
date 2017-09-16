@@ -186,7 +186,7 @@ A curated list of awesome about Network Automation
  - [Netscaler-Ansible](https://github.com/networktocode/netscaler-ansible) - Ansible Module to work with Netscalers
  - [NTC Ansible](https://github.com/networktocode/ntc-ansible) - Multi-vendor Ansible Modules for Network Automation
 
- # Pre-written Salt States (Formulas)
+## Pre-written Salt States (Formulas)
 
  - [napalm-install-formula](https://github.com/saltstack-formulas/napalm-install-formula) - Salt formula to simplify the installation of the necessary packages and system dependencies for NAPALM.
  - [napalm-ntp-formula](https://github.com/saltstack-formulas/napalm-ntp-formula) - Formula to manage the NTP configuration on network devices, following the OpenConfig system YANG model.
