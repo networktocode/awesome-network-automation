@@ -267,8 +267,17 @@ A curated list of awesome about Network Automation
 
 # Podcasts
 
+## Podcasts Feeds
+
 - [Software Gone Wild](https://www.ipspace.net/Podcast/Software_Gone_Wild) - Software Gone Wild is focusing on architectures, solutions and technologies that real networking engineers use in production networks.
-- [Packet Pushers](http://packetpushers.net/podcast/) - A network of technology podcasts where real engineers get into the weeds about networking, data centers, and enterprise IT.
+
+## Podcasts Episodes
+
+- [Network Collective EPISODE 10 – GRASSROOTS AUTOMATION](http://thenetworkcollective.com/2017/08/ep10-grassroots-automation/)
+- [Packet Pushers Show 353: The Business Impact Of Network Automation](http://packetpushers.net/podcast/podcasts/show-353-business-impact-network-automation/)
+- [Packet Pushers PQ Show 116: Practical YANG For Network Automation](http://packetpushers.net/podcast/podcasts/pq-show-116-practical-yang-network-automation/)
+- [Podcast__init Episode 117: NAPALM with David Barroso and Mircea Ulinic](https://www.podcastinit.com/napalm-with-david-barosso-and-mircea-ulinic-episode-117/)
+- [Talk Pytho to me #128: Pythonic Networks with NAPALM](https://talkpython.fm/episodes/embed_details/128)
 
 # Contributing
 
