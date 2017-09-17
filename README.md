@@ -22,7 +22,7 @@ A curated list of awesome about Network Automation
 
 # Community
 
-- [Ansbile Google Groups](https://groups.google.com/forum/#!forum/ansible-project) - Welcome to Ansible's mailing list / forum!
+- [Ansible Google Groups](https://groups.google.com/forum/#!forum/ansible-project) - Welcome to Ansible's mailing list / forum!
 - [IRC Ansible](http://docs.ansible.com/ansible/community.html#irc-channel) - Ansible IRC Channels
 - [Network to Code Slack](http://slack.networktocode.com) - NTC Slack is the home/pseudo-home to many popular repo's (NAPALM/netmiko/netbox/nsot) and over 3000 members around Network Automation.
 - [Salt Users](https://groups.google.com/forum/#!forum/salt-users) - The official forum of the Salt community.
@@ -39,7 +39,7 @@ A curated list of awesome about Network Automation
 
 # Training
 
-- [IP Space](http://www.ipspace.net/Training) - On ipSpace.net you'll find numerous courses, webinars, and videos covering SDN, cloud computing, virtualization technologies, IPv6 and VPNs.
+- [IP Space](http://www.ipspace.net/Training) - On ipSpace.net you'll find numerous courses, webinars, and videos covering SDN, network automation, cloud computing, virtualization technologies, IPv6 and VPNs.
 - [NTC](http://networktocode.com/products/training/) - Network Automation Training including Python, Ansible, DevOps, and much more.
 - [Python for Network Engineers](https://pynet.twb-tech.com/class.html) - You will learn skills that make you better at network automation and that improve your capability to use programming to scale your work.
 - [Mircea Ulinic](http://mirceaulinic.us14.list-manage1.com/subscribe?u=4d3e65e9c470a62dc341ce797&id=bd27d97b29) - Learn more about cross-vendor event-driven network automation and orchestration.
@@ -51,6 +51,7 @@ A curated list of awesome about Network Automation
 - [Coding Packets](https://codingpackets.com) - The Network Automation thoughts of Brad Searle
 - [Jason Edelman](http://www.jedelman.com/) - The Network Automation thoughts of Jason Edelman
 - [IPEngineer - David Gee](http://ipengineer.net) - Network automation, software-networking and musings from David Gee
+- [ipSpace.net - Ivan Pepelnjak](https://blog.ipspace.net/search/label/Automation) - Network automation blog posts by Ivan Pepelnjak
 - [Mircea Ulinic](https://mirceaulinic.net/) - Random thoughts of Mircea Ulinic. May include event-driven network automation, vendor bashing or machine learning (TBD).
 - [Napalm-automation](https://napalm-automation.net) - News and updates about the NAPALM project
 - [Networklore](https://networklore.com/blog) - The Network Automation thoughts of Patrick Ogenstad
@@ -69,8 +70,9 @@ A curated list of awesome about Network Automation
 
  - Getting Started and Basics
  - [Online Validator](http://yaml-online-parser.appspot.com/)
- - Examples
+ - [Sample YAML documents describing common data structures](https://github.com/ipspace/NetOpsWorkshop/tree/master/YAML)
  - Advanced and Tools
+   - [YAML syntax validator](https://yamllint.readthedocs.io/en/latest/)
 
 ### JSON
 
@@ -86,10 +88,15 @@ A curated list of awesome about Network Automation
 
 ### YANG
 
-
  - Getting Started and Basics
  - Examples
  - Advanced and Tools
+
+ ### Jinja2
+
+ - [Documentation]()
+ - [Online rendering tool](http://jinja2test.tk/)
+ - [Sample Jinja2 templates](https://github.com/ipspace/NetOpsWorkshop/tree/master/Jinja2)
 
 ## API
 
@@ -129,7 +136,7 @@ A curated list of awesome about Network Automation
 ## Ansible
 
  - Getting Started and Basics
- - Examples
+ - [Sample network automation Ansible playbooks](https://github.com/ipspace/ansible-examples)
  - Advanced and Tools
 
 ## Salt
@@ -164,6 +171,7 @@ A curated list of awesome about Network Automation
  - [Nuts](https://github.com/HSRNetwork/Nuts) - Network Unit Testing System automates tests in the network similar to unit tests.
  - [Trigger](https://github.com/trigger/trigger) - Trigger is a robust network automation toolkit written in Python that was designed for interfacing with network devices and managing network configuration and security policy.
  - [pyNMS](https://github.com/afourmy/pyNMS) - pyNMS is a vendor-agnostic Network Management System for network visualization, inventory and graphical automation.
+ - [Rundeck](http://rundeck.org/) - Job scheduler and runbook (and Ansible playbook) automation
 
 ## Library
 
@@ -177,10 +185,11 @@ A curated list of awesome about Network Automation
  - [Netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices
  - [TextFSM](https://github.com/google/textfsm) - Python module for parsing semi-structured text into python tables.
 
-
 ## Non-Core Ansible Modules
 
  - [ansible-junos-stdlib](https://github.com/Juniper/ansible-junos-stdlib) - Junos modules for Ansible
+ - [ansible-mysql-query](https://github.com/zauberpony/ansible-mysql-query) - Ansible module to modify MySQL database records
+ - [ara](https://github.com/openstack/ara) - Ansible Runtime Analysis
  - [Fortimanager-Ansible](https://github.com/networktocode/fortimanager-ansible) - Ansible Module to work with Fortimanager
  - [Infoblox-Ansible](https://github.com/infobloxopen/infoblox-ansible) - A new Ansible Module to work with Infoblox.
  - [Napalm-Ansible](https://github.com/napalm-automation/napalm-ansible) - Collection of ansible modules that use napalm to retrieve data or modify configuration on networking devices.
@@ -207,11 +216,14 @@ A curated list of awesome about Network Automation
 ## Tools
 
 - [BGP-Dashboard](https://github.com/rhicks/bgp-dashboard) - BGP Dashboard and Monitoring Web Application
+- [Drawthe.net](https://github.com/cidrblock/drawthe.net) - Draw network diagrams described in YAML files
 - [napalm-logs](https://github.com/napalm-automation/napalm-logs) - Cross-vendor normalisation for network syslog messages, following the OpenConfig and IETF YANG models.
 - [Net-Config](https://github.com/SLAC/net-config/) - Automation framework for network devices
+- [NetCopa](https://github.com/cidrblock/netcopa) - Network device configuration parser ("industry standard" -> YAML converter)
 - [NetSpark-Scripts](https://github.com/admiralspark/NetSpark-Scripts) - Netmiko-based scripts to assist the Network Administrators and Engineers of the world!
 - [NetTools](https://github.com/crisponions/NetTools) - Simple network python scripts
 - [Network-CI](https://github.com/networkop/network-ci) - Proof of Concept of CI/CD methodology applied to traditional non-SDN network topologies
+- [NetGrph](https://github.com/yantisj/netgrph) - Network graph modeling database
 
 # Hypervisor's
 
