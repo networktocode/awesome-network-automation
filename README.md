@@ -25,24 +25,24 @@ A curated list of awesome about Network Automation
 - [Ansbile Google Groups](https://groups.google.com/forum/#!forum/ansible-project) - Welcome to Ansible's mailing list / forum!
 - [IRC Ansible](http://docs.ansible.com/ansible/community.html#irc-channel) - Ansible IRC Channels
 - [Network to Code Slack](http://slack.networktocode.com) - NTC Slack is the home/pseudo-home to many popular repo's (NAPALM/netmiko/netbox/nsot) and over 3000 members around Network Automation.
-- [Salt Users](https://groups.google.com/forum/#!forum/salt-users) - The official forum of the Salt community.
-- [Salt Networks](https://groups.google.com/forum/#!forum/salt-networks) - The goal of this group is to have a central place to communicate goals about network device automation with SaltStack.
 - [Salt Formulas](https://groups.google.com/forum/#!forum/salt-formulas) - The SaltStack formulas working group.
+- [Salt Networks](https://groups.google.com/forum/#!forum/salt-networks) - The goal of this group is to have a central place to communicate goals about network device automation with SaltStack.
+- [Salt Users](https://groups.google.com/forum/#!forum/salt-users) - The official forum of the Salt community.
 
 # Events / Meetup
 
 - [AWS Reinvent](https://reinvent.awsevents.com/) - AWS re:Invent Central is designed to facilitate connections between sponsors and attendees.
 - [Ansible Fest](https://www.ansible.com/ansiblefest) - AnsibleFest is a day-long conference bringing together Ansible users, developers and industry partners to share best practices, case studies and Ansible news.
-- [Tech Field Day](http://techfieldday.com/) - Field Day events bring together innovative IT product vendors and independent thought leaders to share information and opinions in a presentation and discussion format.
 - [London Network Automation Meetup](https://www.meetup.com/London-Network-Automation-Meetup/) - A community of network engineers, who have interest in the new buzz of network automation.
+- [Tech Field Day](http://techfieldday.com/) - Field Day events bring together innovative IT product vendors and independent thought leaders to share information and opinions in a presentation and discussion format.
 - [SaltConf](http://saltconf.com/) - A 4 days event including two days of SaltStack customer case studies and SaltStack technical deep dives.
 
 # Training
 
 - [IP Space](http://www.ipspace.net/Training) - On ipSpace.net you'll find numerous courses, webinars, and videos covering SDN, cloud computing, virtualization technologies, IPv6 and VPNs.
-- [NTC](http://networktocode.com/products/training/) - Network Automation Training including Python, Ansible, DevOps, and much more.
-- [Python for Network Engineers](https://pynet.twb-tech.com/class.html) - You will learn skills that make you better at network automation and that improve your capability to use programming to scale your work.
+- [Network to Code](http://networktocode.com/products/training/) - Network Automation Training including Python, Ansible, DevOps, and much more.
 - [Mircea Ulinic](http://mirceaulinic.us14.list-manage1.com/subscribe?u=4d3e65e9c470a62dc341ce797&id=bd27d97b29) - Learn more about cross-vendor event-driven network automation and orchestration.
+- [Python for Network Engineers](https://pynet.twb-tech.com/class.html) - You will learn skills that make you better at network automation and that improve your capability to use programming to scale your work.
 
 # Blogs
 
@@ -244,9 +244,9 @@ A curated list of awesome about Network Automation
 
 # Configuration Management
 
- - [Solarwinds](www.solarwinds.com/network-configuration-manager)
- - [ManageEngine](https://www.manageengine.com/network-configuration-manager/)
- - [Rconfig](http://www.rconfig.com/)
+ - [Solarwinds](www.solarwinds.com/network-configuration-manager) - Automated network configuration and compliance management
+ - [ManageEngine](https://www.manageengine.com/network-configuration-manager/) - Network Configuration Manager is a multi vendor network change, configuration and compliance management (NCCCM) solution for switches, routers, firewalls and other network devices
+ - [Rconfig](http://www.rconfig.com/) - A free, open source network device configuration management tool, customizable to your needs!
  - [Unimus](https://unimus.net) - Network-wide configuration search and config diff over time in an easy to use web GUI.
 
 # Books
@@ -269,15 +269,19 @@ A curated list of awesome about Network Automation
 
 ## Podcasts Feeds
 
+- [Packet Pushers Full Stack](http://packetpushers.net/series/full-stack-journey/) - The Journey To Full Stack
 - [Software Gone Wild](https://www.ipspace.net/Podcast/Software_Gone_Wild) - Software Gone Wild is focusing on architectures, solutions and technologies that real networking engineers use in production networks.
 
 ## Podcasts Episodes
 
-- [Network Collective EPISODE 10 – GRASSROOTS AUTOMATION](http://thenetworkcollective.com/2017/08/ep10-grassroots-automation/)
-- [Packet Pushers Show 353: The Business Impact Of Network Automation](http://packetpushers.net/podcast/podcasts/show-353-business-impact-network-automation/)
-- [Packet Pushers PQ Show 116: Practical YANG For Network Automation](http://packetpushers.net/podcast/podcasts/pq-show-116-practical-yang-network-automation/)
-- [Podcast__init Episode 117: NAPALM with David Barroso and Mircea Ulinic](https://www.podcastinit.com/napalm-with-david-barosso-and-mircea-ulinic-episode-117/)
-- [Talk Pytho to me #128: Pythonic Networks with NAPALM](https://talkpython.fm/episodes/embed_details/128)
+- [Network Collective EPISODE 10](http://thenetworkcollective.com/2017/08/ep10-grassroots-automation/) - GRASSROOTS AUTOMATION
+- [Packet Pushers Datanauts 080](http://packetpushers.net/podcast/podcasts/datanauts-080-network-automation-telemetry/) - The Current State Of Network Automation & Telemetry
+- [Packet Pushers Show 353](http://packetpushers.net/podcast/podcasts/show-353-business-impact-network-automation/) - The Business Impact Of Network Automation
+- [Packet Pushers PQ Show 99](http://packetpushers.net/podcast/podcasts/pq-show-99-netmiko-napalm-network-automation/) - Netmiko & NAPALM For Network Automation
+- [Packet Pushers PQ Show 116](http://packetpushers.net/podcast/podcasts/pq-show-116-practical-yang-network-automation/) - Practical YANG For Network Automation
+- [Packet Pushers PQ Show 198](http://packetpushers.net/podcast/podcasts/show-198-kirk-byers-network-automation-python-ansible/) - Kirk Byers on Network Automation with Python & Ansible
+- [Podcast__init Episode 117](https://www.podcastinit.com/napalm-with-david-barosso-and-mircea-ulinic-episode-117/) - NAPALM with David Barroso and Mircea Ulinic
+- [Talk Pytho to me #128](https://talkpython.fm/episodes/embed_details/128) - Pythonic Networks with NAPALM
 
 # Contributing
 
