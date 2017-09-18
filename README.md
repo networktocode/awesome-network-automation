@@ -69,8 +69,10 @@ A curated list of awesome about Network Automation
 ### YAML
 
  - Getting Started and Basics
- - [Online Validator](http://yaml-online-parser.appspot.com/)
+ - [Online Validator](http://yaml-online-parser.appspot.com/) - An Online YAML Parser
  - [Sample YAML documents describing common data structures](https://github.com/ipspace/NetOpsWorkshop/tree/master/YAML)
+ - Examples
+
  - Advanced and Tools
    - [YAML syntax validator](https://yamllint.readthedocs.io/en/latest/)
 
@@ -141,16 +143,16 @@ A curated list of awesome about Network Automation
 
 ## Salt
 
- - [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html)
- - [SaltStack fundamentals](https://docs.saltstack.com/en/getstarted/fundamentals/)
- - [SaltStack configuration management](https://docs.saltstack.com/en/getstarted/config/)
- - [SaltStack Network Automation](https://docs.saltstack.com/en/develop/topics/network_automation/index.html)
- - [The napalm-salt repository](https://github.com/napalm-automation/napalm-salt)
- - [Event-driven network automation using Salt: up and running in 60 minutes](https://ripe74.ripe.net/presentations/18-RIPE-74-Network-automation-at-scale-up-and-running-in-60-minutes.pdf)
- - [Salt 2016.11 (Carbon) release notes](https://docs.saltstack.com/en/develop/topics/releases/2016.11.0.html#network-automation-napalm)
- - [Salt 2017.7 (Nitrogen) release notes](https://docs.saltstack.com/en/develop/topics/releases/2017.7.0.html#network-automation)
- - [Using Salt at scale](https://docs.saltstack.com/en/latest/topics/tutorials/intro_scale.html)
- - [Salt high availability and fault tolerance](https://docs.saltstack.com/en/latest/topics/highavailability/index.html)
+ - [Napalm-Salt Repository](https://github.com/napalm-automation/napalm-salt) - The Napalm-Salt Repository
+ - [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - Salt in 10 minutes
+ - [Salt high availability and fault tolerance](https://docs.saltstack.com/en/latest/topics/highavailability/index.html) - Salt high availability and fault tolerance
+ - [Salt RIPE-74](https://ripe74.ripe.net/presentations/18-RIPE-74-Network-automation-at-scale-up-and-running-in-60-minutes.pdf) - Event-driven network automation using Salt: up and running in 60 minutes
+ - [Salt 2016.11](https://docs.saltstack.com/en/develop/topics/releases/2016.11.0.html#network-automation-napalm) - Salt 2016.11 (Carbon) release notes
+ - [Salt 2017.7](https://docs.saltstack.com/en/develop/topics/releases/2017.7.0.html#network-automation) - Salt 2017.7 (Nitrogen) release notes
+ - [SaltStack fundamentals](https://docs.saltstack.com/en/getstarted/fundamentals/) - Getting Started Guide walks you through the fundamental concepts you need to learn as you start using SaltStack.
+ - [SaltStack configuration management](https://docs.saltstack.com/en/getstarted/config/) - SaltStack Configuration Management
+ - [SaltStack Network Automation](https://docs.saltstack.com/en/develop/topics/network_automation/index.html) - SaltStack Network Automation Overview
+ - [Using Salt at scale](https://docs.saltstack.com/en/latest/topics/tutorials/intro_scale.html) - Using Salt at scale
 
 ## Puppet
 
@@ -256,10 +258,10 @@ A curated list of awesome about Network Automation
 
 # Configuration Management
 
- - [Solarwinds](www.solarwinds.com/network-configuration-manager) - Automated network configuration and compliance management
- - [ManageEngine](https://www.manageengine.com/network-configuration-manager/) - Network Configuration Manager is a multi vendor network change, configuration and compliance management (NCCCM) solution for switches, routers, firewalls and other network devices
- - [Rconfig](http://www.rconfig.com/) - A free, open source network device configuration management tool, customizable to your needs!
- - [Unimus](https://unimus.net) - Network-wide configuration search and config diff over time in an easy to use web GUI.
+- [Solarwinds](www.solarwinds.com/network-configuration-manager) - Automated network configuration and compliance management
+- [ManageEngine](https://www.manageengine.com/network-configuration-manager/) - Network Configuration Manager is a multi vendor network change, configuration and compliance management (NCCCM) solution for switches, routers, firewalls and other network devices
+- [Rconfig](http://www.rconfig.com/) - A free, open source network device configuration management tool, customizable to your needs!
+- [Unimus](https://unimus.net) - Network-wide configuration search and config diff over time in an easy to use web GUI.
 
 # Books
 
@@ -287,13 +289,16 @@ A curated list of awesome about Network Automation
 ## Podcasts Episodes
 
 - [Network Collective EPISODE 10](http://thenetworkcollective.com/2017/08/ep10-grassroots-automation/) - GRASSROOTS AUTOMATION
-- [Packet Pushers Datanauts 080](http://packetpushers.net/podcast/podcasts/datanauts-080-network-automation-telemetry/) - The Current State Of Network Automation & Telemetry
+- [Packet Pushers Datanauts 80](http://packetpushers.net/podcast/podcasts/datanauts-080-network-automation-telemetry/) - The Current State Of Network Automation & Telemetry
+- [Packet Pushers Show 176](http://packetpushers.net/podcast/podcasts/show-176-intro-to-python-automation-for-network-engineers/) - Intro to Python & Automation for Network Engineers
+- [Packet Pushers Show 333](http://packetpushers.net/podcast/podcasts/show-333-orchestration-vs-automation/) - Automation & Orchestration In Networking
 - [Packet Pushers Show 353](http://packetpushers.net/podcast/podcasts/show-353-business-impact-network-automation/) - The Business Impact Of Network Automation
+- [Packet Pushers PQ Show 81](http://packetpushers.net/podcast/podcasts/pq-show-81-network-testing-todd/) - Network Testing With ToDD
 - [Packet Pushers PQ Show 99](http://packetpushers.net/podcast/podcasts/pq-show-99-netmiko-napalm-network-automation/) - Netmiko & NAPALM For Network Automation
 - [Packet Pushers PQ Show 116](http://packetpushers.net/podcast/podcasts/pq-show-116-practical-yang-network-automation/) - Practical YANG For Network Automation
 - [Packet Pushers PQ Show 198](http://packetpushers.net/podcast/podcasts/show-198-kirk-byers-network-automation-python-ansible/) - Kirk Byers on Network Automation with Python & Ansible
 - [Podcast__init Episode 117](https://www.podcastinit.com/napalm-with-david-barosso-and-mircea-ulinic-episode-117/) - NAPALM with David Barroso and Mircea Ulinic
-- [Talk Pytho to me #128](https://talkpython.fm/episodes/embed_details/128) - Pythonic Networks with NAPALM
+- [Talk Python to me #128](https://talkpython.fm/episodes/embed_details/128) - Pythonic Networks with NAPALM
 
 # Contributing
 
