@@ -61,7 +61,6 @@ A curated list of awesome about Network Automation
 - [Project 10](https://projectme10.wordpress.com) - The Network Automation thoughts of Gabriele Gerbino
 - [Scott Lowe](http://blog.scottlowe.org) - The Network Automation thoughts of Scott Lowe
 
-
 # Programming Topics
 
 ## Structured Data
@@ -103,7 +102,6 @@ A curated list of awesome about Network Automation
 ## API
 
 ### RestConf
-
 
  - Getting Started and Basics
  - Examples
@@ -214,7 +212,6 @@ A curated list of awesome about Network Automation
  - [pynxos](https://github.com/networktocode/pynxos) - Python library for Cisco NXOS
  - [py-junos-exnc](https://github.com/Juniper/py-junos-eznc) - Python library for Junos automation
 
-
 ## Tools
 
 - [BGP-Dashboard](https://github.com/rhicks/bgp-dashboard) - BGP Dashboard and Monitoring Web Application
@@ -266,6 +263,7 @@ A curated list of awesome about Network Automation
 # Books
 
 - [Ansible: Up and Running](http://shop.oreilly.com/product/0636920035626.do) - Automating Configuration Management and Deployment the Easy Way
+- [Mastering Python Networking](https://www.packtpub.com/networking-and-servers/mastering-python-networking?utm_source=github&utm_medium=repository&utm_campaign=9781784397005) - Become an expert in implementing advanced, network-related tasks with Python.
 - [Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do) - Skills for the Next-Generation Network Engineer
 
 # Vendor Agnostic Products
@@ -277,7 +275,6 @@ A curated list of awesome about Network Automation
 - [Cisco Merkai](https://meraki.cisco.com/) - Cisco Meraki is the leader in cloud controlled WiFi, routing, and security. Secure and scalable, Cisco Meraki enterprise networks simply work
 - [Cisco Viptela](http://viptela.com/) - Viptela provides Software-Defined Wide Area Network (SD-WAN) technology that allows global companies to build cost-effective WANs
 - [Talari](https://www.talari.com/) - Talari Networks SD-WAN technology
-
 
 # Podcasts
 
