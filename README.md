@@ -127,8 +127,10 @@ A curated list of awesome about Network Automation
 
 ## Vendor API Docs
 
+ - [Arista EAPI](https://eos.arista.com/arista-eapi-101/) - The Arista Command eAPI is a simple and complete API that allows you to configure and monitor your Arista switches
  - [Cisco IOS-XR](https://www.cisco.com/c/en/us/td/docs/ios_xr_sw/iosxr_r4-1/xml/programming/guide/xl41apidoc.html) - Cisco IOS-XR API Docs only
    - [XR-Docs](https://xrdocs.github.io) - Documentation Blogs and Tutorials on all things IOS-XR An Open, Extensible and Stable Cloud-Scale Network Operating System
+ - [F5](https://devcentral.f5.com/d/icontrolr-rest-api-user-guide-version-1300-241) - REST API User Guide, Version 13.0.0
  - [Infoblox](https://ipam.illinois.edu/api/doc/) - Externally hosted Infoblox API docs
 
 # Open Source Projects
@@ -204,6 +206,7 @@ A curated list of awesome about Network Automation
 ## Vendor Abstraction Library
 
  - [clicrud](https://github.com/davidjohngee/clicrud) - Brocade specific (MLX/VDX/ICX/CER/CES) CLI driver (Telnet & SSH)
+ - [f5-common-python](https://github.com/F5Networks/f5-common-python) - Python SDK for configuration and monitoring of F5 BIG-IP devices via the iControl REST API.
  - [infoblox](https://github.com/infobloxopen/infoblox-client) - Python library for Infoblox
  - [pandevice](https://github.com/PaloAltoNetworks/pandevice) - Python library for Palo Alto
  - [pyeapi](https://github.com/arista-eosplus/pyeapi) - Python library for Arista EOS
