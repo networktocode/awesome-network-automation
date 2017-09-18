@@ -265,6 +265,7 @@ A curated list of awesome about Network Automation
 - [Ansible: Up and Running](http://shop.oreilly.com/product/0636920035626.do) - Automating Configuration Management and Deployment the Easy Way
 - [Mastering Python Networking](https://www.packtpub.com/networking-and-servers/mastering-python-networking?utm_source=github&utm_medium=repository&utm_campaign=9781784397005) - Become an expert in implementing advanced, network-related tasks with Python.
 - [Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do) - Skills for the Next-Generation Network Engineer
+- [Mastering Python Networking](https://www.amazon.com/Mastering-Python-Networking-Eric-Chou/dp/1784397008/ref=mt_paperback?_encoding=UTF8&me=) - Use Python for network device automation, DevOps, and software-defined networking.
 
 # Vendor Agnostic Products
 
