@@ -44,6 +44,15 @@ A curated list of awesome about Network Automation
 - [Mircea Ulinic](http://mirceaulinic.us14.list-manage1.com/subscribe?u=4d3e65e9c470a62dc341ce797&id=bd27d97b29) - Learn more about cross-vendor event-driven network automation and orchestration.
 - [Python for Network Engineers](https://pynet.twb-tech.com/class.html) - You will learn skills that make you better at network automation and that improve your capability to use programming to scale your work.
 
+# Presentations
+
+- [Network automation at scale](https://www.youtube.com/watch?v=99jHvkVM0Dk), Mircea Ulinic, NANOG 69, February 2017 [slide deck](https://www.nanog.org/sites/default/files/1_Ulinic_Network_Automation_At_v1.pdf)
+- [NAPALM](https://www.youtube.com/watch?v=93q-dHC0u0I), David Barroso, Elisa Jasinska, NANOG 64, June 2015 [slide deck](https://www.nanog.org/sites/default/files/meetings/NANOG64/1043/20150601_Jasinska_Network_Automation_And_v1.pdf)
+- [How Facebook Learned to Stop Worrying and Love the Network](https://ripe71.ripe.net/archives/video/152/), Jose Leitao, David Rothera, RIPE71, November 2015 [slide deck](https://ripe71.ripe.net/wp-content/uploads/presentations/4-DR-NMS-ng-v2.pdf)
+- [What Is NetDevOps](https://ripe71.ripe.net/archives/video/154/), Leslie Carr, RIPE71, November 2015 [slide deck](https://ripe71.ripe.net/wp-content/uploads/presentations/54-LeslieCarr_What_is_NetDevOps_Why_RIPE71.pdf)
+- [Abstract all the things](https://www.youtube.com/watch?v=Ym5kFJhCLJc), David Barroso, SDN and Network Automation Meetup, Stockholm, June 2016 [presentation](https://www.dravetech.com/presos/abstraction.html)
+- [Securing Network Automation](https://www.youtube.com/watch?v=EXvJMv13t3A), Ivan Pepelnjak, Troopers 2017, March 2017 [slide deck](https://www.troopers.de/downloads/troopers17/TR17_Securing_Network_Automation.pdf)
+
 # Blogs
 
 - [cidrblock](https://cidrblock.github.io) - The Network Automation thoughts of Bradley A. Thornton
