@@ -4,8 +4,9 @@ A curated list of awesome about Network Automation
 
 - [Awesome Network Automation](#awesome-network-automation)
   - [Community](#community)
-  - [Training](#training)
   - [Events / Meetup](#events--meetup)
+  - [Training](#training)
+  - [Presentations](#presentations)
   - [Blogs](#blogs)
   - [Programming Topics](#programming-topics)
   - [Open Source Projects](#open-source-projects)
