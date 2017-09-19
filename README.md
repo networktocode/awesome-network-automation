@@ -43,6 +43,7 @@ A curated list of awesome about Network Automation
 - [Network to Code](http://networktocode.com/products/training/) - Network Automation Training including Python, Ansible, DevOps, and much more.
 - [Mircea Ulinic](http://mirceaulinic.us14.list-manage1.com/subscribe?u=4d3e65e9c470a62dc341ce797&id=bd27d97b29) - Learn more about cross-vendor event-driven network automation and orchestration.
 - [Python for Network Engineers](https://pynet.twb-tech.com/class.html) - You will learn skills that make you better at network automation and that improve your capability to use programming to scale your work.
+- [GNS3 Academy - Instructor David Bombal](http://academy.gns3.com/courses/author/12794) - A number of courses, but offer an inexpensive (<$50) set of intros to Ansible for Network Engineers and Python for Network Engineers.
 
 # Blogs
 
@@ -249,12 +250,14 @@ A curated list of awesome about Network Automation
 # IPAM
 
 - [bluecat](https://www.bluecatnetworks.com/products/ip-address-management/) - BlueCat provides network intelligence and insight into the relationship between devices, users and IP addresses that can be put into action to improve security and ensure reliable, always-on business connectivity.
+- [Device42](https://www.device42.com) - DAutomatically maintain an up-to-date inventory of your physical, virtual, and cloud servers and containers, network components, software, services, applications, and their inter-relationships and inter-dependencies. Integrations, REST APIs and webhooks to automate your workflows with a modern CMDB as a single source of truth. Comes with powerful Data Center Infrastructure Management, IP Address Management and Application Mappings.  Mostly leverages SNMP or vendor provided APIs that are well adopted/documented.
 - [haci](http://haci.larsux.de/) - HaCi is an IP Address / Network Administration (IPAM) Tool with IPv6 support.
 - [infoblox](https://www.infoblox.com/) - Industry leader in DNS, DHCP, and IP address management, the category known as DDI
 - [netbox](https://github.com/digitalocean/netbox) - NetBox is an IP address management (IPAM) and data center infrastructure management (DCIM) tool.
 - [nipap](http://spritelink.github.io/NIPAP/) - nipap is a sleek, intuitive and powerful IP address management system built to handle large amounts of IP addresses.
 - [NSoT](https://github.com/dropbox/nsot) - Network Source of Truth is an open source IPAM and network inventory database.
 - [phpipam](https://phpipam.net/) - phpipam is an open-source web IP address management application (IPAM). Its goal is to provide light, modern and useful IP address management.
+- [TeemIP](https://sourceforge.net/projects/teemip/) - TeemIp is an open source, WEB based, IP Adress Management (IPAM) tool that provides comprehensive IP Management capabilities. It allows you to manage your IPv4 and IPv6 spaces through a simple and powerful user interface: track user requests, discover and allocate IPs, manage your IP plan and your subnet space in accordance with best in class IP Management practices.
 
 # Configuration Management
 
@@ -266,6 +269,7 @@ A curated list of awesome about Network Automation
 # Books
 
 - [Ansible: Up and Running](http://shop.oreilly.com/product/0636920035626.do) - Automating Configuration Management and Deployment the Easy Way
+- [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561) - This pocket guide is the perfect on-the-job companion to Git, the distributed version control system. It provides a compact, readable introduction to Git for new users, as well as a reference to common commands and procedures for those of you with Git experience.
 - [Mastering Python Networking](https://www.packtpub.com/networking-and-servers/mastering-python-networking?utm_source=github&utm_medium=repository&utm_campaign=9781784397005) - Become an expert in implementing advanced, network-related tasks with Python.
 - [Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do) - Skills for the Next-Generation Network Engineer
 
