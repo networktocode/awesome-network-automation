@@ -67,13 +67,14 @@ A curated list of awesome about Network Automation
 
 ### YAML
 
- - Getting Started and Basics
+ - [Getting Started and Basics](http://www.yaml.org/start.html)
  - [Online Validator](http://yaml-online-parser.appspot.com/) - An Online YAML Parser
  - [Sample YAML documents describing common data structures](https://github.com/ipspace/NetOpsWorkshop/tree/master/YAML)
  - Examples
 
  - Advanced and Tools
    - [YAML syntax validator](https://yamllint.readthedocs.io/en/latest/)
+   - [YAML idiosyncrasies](https://docs.saltstack.com/en/latest/topics/troubleshooting/yaml_idiosyncrasies.html) -- A good document with the most common YAML idiosyncrasies, hosted under the SaltStack docs, but not specific to Salt or any other tool.
 
 ### JSON
 
@@ -292,6 +293,7 @@ A curated list of awesome about Network Automation
 - [Packet Pushers Datanauts 80](http://packetpushers.net/podcast/podcasts/datanauts-080-network-automation-telemetry/) - The Current State Of Network Automation & Telemetry
 - [Packet Pushers Show 176](http://packetpushers.net/podcast/podcasts/show-176-intro-to-python-automation-for-network-engineers/) - Intro to Python & Automation for Network Engineers
 - [Packet Pushers Show 333](http://packetpushers.net/podcast/podcasts/show-333-orchestration-vs-automation/) - Automation & Orchestration In Networking
+- [Packet Pushers Show 351](http://packetpushers.net/podcast/podcasts/show-351-design-build-13-network-orchestration-salt/) -  Design & Build 13: Network Orchestration with Salt
 - [Packet Pushers Show 353](http://packetpushers.net/podcast/podcasts/show-353-business-impact-network-automation/) - The Business Impact Of Network Automation
 - [Packet Pushers PQ Show 81](http://packetpushers.net/podcast/podcasts/pq-show-81-network-testing-todd/) - Network Testing With ToDD
 - [Packet Pushers PQ Show 99](http://packetpushers.net/podcast/podcasts/pq-show-99-netmiko-napalm-network-automation/) - Netmiko & NAPALM For Network Automation
