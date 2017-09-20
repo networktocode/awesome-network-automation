@@ -142,6 +142,18 @@ A curated list of awesome about Network Automation
  - [Sample network automation Ansible playbooks](https://github.com/ipspace/ansible-examples)
  - Advanced and Tools
 
+## Chef
+
+ - Getting Started and Basics
+ - Examples
+ - Advanced and Tools
+
+## Puppet
+
+ - Getting Started and Basics
+ - Examples
+ - Advanced and Tools
+
 ## Salt
 
  - [Napalm-Salt Repository](https://github.com/napalm-automation/napalm-salt) - The Napalm-Salt Repository
@@ -155,17 +167,13 @@ A curated list of awesome about Network Automation
  - [SaltStack Network Automation](https://docs.saltstack.com/en/develop/topics/network_automation/index.html) - SaltStack Network Automation Overview
  - [Using Salt at scale](https://docs.saltstack.com/en/latest/topics/tutorials/intro_scale.html) - Using Salt at scale
 
-## Puppet
+## StackStorm
+ - [StackStorm Repository](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation commonly used for auto-remediation, security responses, facilitated troubleshooting, complex deployments, and more. Includes rules engine, workflow, 1800+ integrations, native ChatOps and so forth.
+ - [StackStorm Installer](http://docs.stackstorm.com/install/index.html) - 
+ - [StackStorm Youtube](https://www.youtube.com/channel/UCColc5CuBJ8-1SnALnkDz8Q) - Various intro, marketing, interviews, and technical product talks.
+ - [Stackstorm Docs](https://docs.stackstorm.com) - Latest Version Documentation
+ - [StackStorm Intro on Software Gone Wild](http://blog.ipspace.net/2016/11/stackstorm-101-on-software-gone-wild.html) - SGW team talk with StackStorm (including Matt Oswalt) to discuss StackStorm
 
- - Getting Started and Basics
- - Examples
- - Advanced and Tools
-
-## Chef
-
- - Getting Started and Basics
- - Examples
- - Advanced and Tools
 
 ## Products
 
@@ -175,6 +183,7 @@ A curated list of awesome about Network Automation
  - [Trigger](https://github.com/trigger/trigger) - Trigger is a robust network automation toolkit written in Python that was designed for interfacing with network devices and managing network configuration and security policy.
  - [pyNMS](https://github.com/afourmy/pyNMS) - pyNMS is a vendor-agnostic Network Management System for network visualization, inventory and graphical automation.
  - [Rundeck](http://rundeck.org/) - Job scheduler and runbook (and Ansible playbook) automation
+ - [Apstra's Aeon-ZTPS](https://github.com/Apstra/aeon-ztps) - Aeon-ZTPS is a universal Zero-Touch-Provisioning server for data center infrastructure systems at b.  Currently supports the bootstraping of Arista EOS, Cisco NX-OS, and Cumulus Linux
 
 ## Library
 
