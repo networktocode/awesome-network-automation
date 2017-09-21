@@ -34,7 +34,11 @@ A curated list of awesome about Network Automation
 
 - [AWS Reinvent](https://reinvent.awsevents.com/) - AWS re:Invent Central is designed to facilitate connections between sponsors and attendees.
 - [Ansible Fest](https://www.ansible.com/ansiblefest) - AnsibleFest is a day-long conference bringing together Ansible users, developers and industry partners to share best practices, case studies and Ansible news.
+- [Ansible NYC Meetup](https://www.meetup.com/Ansible-NYC/) - Local NYC Ansible user meetup
 - [London Network Automation Meetup](https://www.meetup.com/London-Network-Automation-Meetup/) - A community of network engineers, who have interest in the new buzz of network automation.
+- [NANOG](https://www.nanog.org) - North American Network Operators' Group with fair share of automation presentations/discussions
+- [Network to Coders Meetup](https://www.meetup.com/Network-to-Coders/) - Maybe this can pressure NTC to finally setup an event for the 140+ NTC meetup members
+- [SaltStack NYC Meetup](https://www.meetup.com/SaltStack-NYC/) - Local NYC SatlStack user meetup
 - [Tech Field Day](http://techfieldday.com/) - Field Day events bring together innovative IT product vendors and independent thought leaders to share information and opinions in a presentation and discussion format.
 - [SaltConf](http://saltconf.com/) - A 4 days event including two days of SaltStack customer case studies and SaltStack technical deep dives.
 
@@ -60,6 +64,7 @@ A curated list of awesome about Network Automation
 - [cidrblock](https://cidrblock.github.io) - The Network Automation thoughts of Bradley A. Thornton
 - [Coding Networker](https://codingnetworker.com) - The Network Automation thoughts of Henry Ölsner
 - [Coding Packets](https://codingpackets.com) - The Network Automation thoughts of Brad Searle
+- [dravetech.com](https://www.dravetech.com) - The Network Automation thoughts of David Barroso
 - [Jason Edelman](http://www.jedelman.com/) - The Network Automation thoughts of Jason Edelman
 - [IPEngineer - David Gee](http://ipengineer.net) - Network automation, software-networking and musings from David Gee
 - [ipSpace.net - Ivan Pepelnjak](https://blog.ipspace.net/search/label/Automation) - Network automation blog posts by Ivan Pepelnjak
@@ -105,7 +110,7 @@ A curated list of awesome about Network Automation
  - Examples
  - Advanced and Tools
 
- ### Jinja2
+### Jinja2
 
  - [Documentation]()
  - [Online rendering tool](http://jinja2test.tk/)
@@ -140,10 +145,14 @@ A curated list of awesome about Network Automation
 ## Vendor API Docs
 
  - [Arista EAPI](https://eos.arista.com/arista-eapi-101/) - The Arista Command eAPI is a simple and complete API that allows you to configure and monitor your Arista switches
+ - [Cisco IOS XE CSR1000V](https://www.cisco.com/c/en/us/td/docs/routers/csr1000/software/restapi/restapi/RESTAPIintro.html) - Cisco IOS XE REST API Management Reference Guide
  - [Cisco IOS-XR](https://www.cisco.com/c/en/us/td/docs/ios_xr_sw/iosxr_r4-1/xml/programming/guide/xl41apidoc.html) - Cisco IOS-XR API Docs only
    - [XR-Docs](https://xrdocs.github.io) - Documentation Blogs and Tutorials on all things IOS-XR An Open, Extensible and Stable Cloud-Scale Network Operating System
+ - [Cisco NX-API](https://developer.cisco.com/site/nx-api/) - Main DEVNET page for NX-API docs
+ - [Cumulus Networks HTTP API](https://docs.cumulusnetworks.com/display/DOCS/HTTP+API) - Documents focused on Cumulus 3.4.1
  - [F5](https://devcentral.f5.com/d/icontrolr-rest-api-user-guide-version-1300-241) - REST API User Guide, Version 13.0.0
  - [Infoblox](https://ipam.illinois.edu/api/doc/) - Externally hosted Infoblox API docs
+ - [Juniper JUNOS API](https://www.juniper.net/documentation/en_US/junos/information-products/pathway-pages/rest-api/rest-api.html) - REST API Guide
 
 # Open Source Projects
 
@@ -251,11 +260,13 @@ A curated list of awesome about Network Automation
 # Hypervisor's
 
  - Docker
- - Vagrant
+ - ESX
  - Kubernetes
  - Marathon
+ - OpenStack
+ - oVirt
+ - Vagrant
  - VirtualBox
- - ESX
 
 # Backups
 
