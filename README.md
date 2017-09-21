@@ -48,7 +48,7 @@ A curated list of awesome about Network Automation
 - [Network to Code](http://networktocode.com/products/training/) - Network Automation Training including Python, Ansible, DevOps, and much more.
 - [Mircea Ulinic](http://mirceaulinic.us14.list-manage1.com/subscribe?u=4d3e65e9c470a62dc341ce797&id=bd27d97b29) - Learn more about cross-vendor event-driven network automation and orchestration.
 - [Python for Network Engineers](https://pynet.twb-tech.com/class.html) - You will learn skills that make you better at network automation and that improve your capability to use programming to scale your work.
-- [GNS3 Academy - Instructor David Bombal](http://academy.gns3.com/courses/author/12794) - A number of courses, but offer an inexpensive (<$50) set of intros to Ansible for Network Engineers and Python for Network Engineers.
+- [GNS3 Academy - Instructor David Bombal](http://academy.gns3.com/courses/author/12794) - A number of courses, but offer an inexpensive set of intros to Ansible for Network Engineers and Python for Network Engineers.
 
 # Presentations
 
@@ -148,7 +148,8 @@ A curated list of awesome about Network Automation
  - [Cisco IOS XE CSR1000V](https://www.cisco.com/c/en/us/td/docs/routers/csr1000/software/restapi/restapi/RESTAPIintro.html) - Cisco IOS XE REST API Management Reference Guide
  - [Cisco IOS-XR](https://www.cisco.com/c/en/us/td/docs/ios_xr_sw/iosxr_r4-1/xml/programming/guide/xl41apidoc.html) - Cisco IOS-XR API Docs only
    - [XR-Docs](https://xrdocs.github.io) - Documentation Blogs and Tutorials on all things IOS-XR An Open, Extensible and Stable Cloud-Scale Network Operating System
- - [Cisco NX-API](https://developer.cisco.com/site/nx-api/) - Main DEVNET page for NX-API docs
+ - [NX_API Coming soon]() - Coming Soon
+   - [Cisco NX-API](https://developer.cisco.com/site/nx-api/) - Main DEVNET page for NX-API docs
  - [Cumulus Networks HTTP API](https://docs.cumulusnetworks.com/display/DOCS/HTTP+API) - Documents focused on Cumulus 3.4.1
  - [F5](https://devcentral.f5.com/d/icontrolr-rest-api-user-guide-version-1300-241) - REST API User Guide, Version 13.0.0
  - [Infoblox](https://ipam.illinois.edu/api/doc/) - Externally hosted Infoblox API docs
@@ -203,10 +204,10 @@ A curated list of awesome about Network Automation
  - [Trigger](https://github.com/trigger/trigger) - Trigger is a robust network automation toolkit written in Python that was designed for interfacing with network devices and managing network configuration and security policy.
  - [pyNMS](https://github.com/afourmy/pyNMS) - pyNMS is a vendor-agnostic Network Management System for network visualization, inventory and graphical automation.
  - [Rundeck](http://rundeck.org/) - Job scheduler and runbook (and Ansible playbook) automation
- - [Apstra's Aeon-ZTPS](https://github.com/Apstra/aeon-ztps) - Aeon-ZTPS is a universal Zero-Touch-Provisioning server for data center infrastructure systems at b.  Currently supports the bootstraping of Arista EOS, Cisco NX-OS, and Cumulus Linux
 
 ## Library
 
+ - [Apstra's Aeon-ZTPS](https://github.com/Apstra/aeon-ztps) - Aeon-ZTPS is a universal Zero-Touch-Provisioning server for data center infrastructure systems at b.  Currently supports the bootstraping of Arista EOS, Cisco NX-OS, and Cumulus Linux
  - [Capirca](https://github.com/google/capirca) - Multi-platform ACL generation system; can output Juniper/IOS/etc ACLs from the same policy
  - [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations
  - [Condoor](https://github.com/kstaniek/condoor) - This is a python module providing access to Cisco devices over Telnet and SSH
