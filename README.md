@@ -309,6 +309,7 @@ A curated list of awesome about Network Automation
 
 - [Apstra](http://www.apstra.com/products/) - The Apstra Operating System (AOS) is a vendor-agnostic distributed operating system for the data center network that enables business agility, dramatically scales operational efficiency, and reduces downtime.
 - [Glue](http://gluenetworks.com/about-us-the-glue-team/) - With Gluware, the Glue Networks vision and team are continuing to trail-blaze at the forefront of the networking industry with multi-vendor orchestration solutions for Data Center, WAN and LAN networks.
+- [PacketFront](https://pfsw.com/resources/network-orchestration/) - PacketFront BECS and BBE is a vendor-agnostic network, service and resource orcestration system for residential, enterprise and data center networks.
 
 # Network Vendor Products
 - [Cisco Merkai](https://meraki.cisco.com/) - Cisco Meraki is the leader in cloud controlled WiFi, routing, and security. Secure and scalable, Cisco Meraki enterprise networks simply work
