@@ -294,7 +294,7 @@ A curated list of awesome about Network Automation
 - [Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do) - Skills for the Next-Generation Network Engineer
 
 # Vendor Agnostic Products
-
+- [Anuta Networks] (http://www.anutanetworks.com/ncx-overview/) - Anuta NCX delivers network service orchestration for greenfield and brownfield deployments. NCX is an intent-driven platform with YANG service models for multiple domains such as Branch/CPE, Data Center, Virtual MPLS, Carrier Core Networks and Cloud Interconnects. NCX has built-in YANG device models for PNFs and VNFs from 35+ industry leading vendors supporting hundreds of L2-L7 network functions using CLI, NETCONF, YANG, REST and SNMP. For a complete list: (http://www.anutanetworks.com/managed-devices/).
 - [Apstra](http://www.apstra.com/products/) - The Apstra Operating System (AOS) is a vendor-agnostic distributed operating system for the data center network that enables business agility, dramatically scales operational efficiency, and reduces downtime.
 - [Glue](http://gluenetworks.com/about-us-the-glue-team/) - With Gluware, the Glue Networks vision and team are continuing to trail-blaze at the forefront of the networking industry with multi-vendor orchestration solutions for Data Center, WAN and LAN networks.
 
