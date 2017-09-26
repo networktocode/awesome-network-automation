@@ -34,7 +34,11 @@ A curated list of awesome about Network Automation
 
 - [AWS Reinvent](https://reinvent.awsevents.com/) - AWS re:Invent Central is designed to facilitate connections between sponsors and attendees.
 - [Ansible Fest](https://www.ansible.com/ansiblefest) - AnsibleFest is a day-long conference bringing together Ansible users, developers and industry partners to share best practices, case studies and Ansible news.
+- [Ansible NYC Meetup](https://www.meetup.com/Ansible-NYC/) - Local NYC Ansible user meetup
 - [London Network Automation Meetup](https://www.meetup.com/London-Network-Automation-Meetup/) - A community of network engineers, who have interest in the new buzz of network automation.
+- [NANOG](https://www.nanog.org) - North American Network Operators' Group with fair share of automation presentations/discussions
+- [Network to Coders Meetup](https://www.meetup.com/Network-to-Coders/) - Maybe this can pressure NTC to finally setup an event for the 140+ NTC meetup members
+- [SaltStack NYC Meetup](https://www.meetup.com/SaltStack-NYC/) - Local NYC SatlStack user meetup
 - [Tech Field Day](http://techfieldday.com/) - Field Day events bring together innovative IT product vendors and independent thought leaders to share information and opinions in a presentation and discussion format.
 - [SaltConf](http://saltconf.com/) - A 4 days event including two days of SaltStack customer case studies and SaltStack technical deep dives.
 
@@ -44,7 +48,7 @@ A curated list of awesome about Network Automation
 - [Network to Code](http://networktocode.com/products/training/) - Network Automation Training including Python, Ansible, DevOps, and much more.
 - [Mircea Ulinic](http://mirceaulinic.us14.list-manage1.com/subscribe?u=4d3e65e9c470a62dc341ce797&id=bd27d97b29) - Learn more about cross-vendor event-driven network automation and orchestration.
 - [Python for Network Engineers](https://pynet.twb-tech.com/class.html) - You will learn skills that make you better at network automation and that improve your capability to use programming to scale your work.
-- [GNS3 Academy - Instructor David Bombal](http://academy.gns3.com/courses/author/12794) - A number of courses, but offer an inexpensive (<$50) set of intros to Ansible for Network Engineers and Python for Network Engineers.
+- [GNS3 Academy - Instructor David Bombal](http://academy.gns3.com/courses/author/12794) - A number of courses, but offer an inexpensive set of intros to Ansible for Network Engineers and Python for Network Engineers.
 
 # Presentations
 
@@ -60,6 +64,7 @@ A curated list of awesome about Network Automation
 - [cidrblock](https://cidrblock.github.io) - The Network Automation thoughts of Bradley A. Thornton
 - [Coding Networker](https://codingnetworker.com) - The Network Automation thoughts of Henry Ölsner
 - [Coding Packets](https://codingpackets.com) - The Network Automation thoughts of Brad Searle
+- [dravetech.com](https://www.dravetech.com) - The Network Automation thoughts of David Barroso
 - [Jason Edelman](http://www.jedelman.com/) - The Network Automation thoughts of Jason Edelman
 - [IPEngineer - David Gee](http://ipengineer.net) - Network automation, software-networking and musings from David Gee
 - [ipSpace.net - Ivan Pepelnjak](https://blog.ipspace.net/search/label/Automation) - Network automation blog posts by Ivan Pepelnjak
@@ -105,7 +110,7 @@ A curated list of awesome about Network Automation
  - Examples
  - Advanced and Tools
 
- ### Jinja2
+### Jinja2
 
  - [Documentation]()
  - [Online rendering tool](http://jinja2test.tk/)
@@ -140,10 +145,15 @@ A curated list of awesome about Network Automation
 ## Vendor API Docs
 
  - [Arista EAPI](https://eos.arista.com/arista-eapi-101/) - The Arista Command eAPI is a simple and complete API that allows you to configure and monitor your Arista switches
+ - [Cisco IOS XE CSR1000V](https://www.cisco.com/c/en/us/td/docs/routers/csr1000/software/restapi/restapi/RESTAPIintro.html) - Cisco IOS XE REST API Management Reference Guide
  - [Cisco IOS-XR](https://www.cisco.com/c/en/us/td/docs/ios_xr_sw/iosxr_r4-1/xml/programming/guide/xl41apidoc.html) - Cisco IOS-XR API Docs only
    - [XR-Docs](https://xrdocs.github.io) - Documentation Blogs and Tutorials on all things IOS-XR An Open, Extensible and Stable Cloud-Scale Network Operating System
+ - [NX_API Coming soon]() - Coming Soon
+   - [Cisco NX-API](https://developer.cisco.com/site/nx-api/) - Main DEVNET page for NX-API docs
+ - [Cumulus Networks HTTP API](https://docs.cumulusnetworks.com/display/DOCS/HTTP+API) - Documents focused on Cumulus 3.4.1
  - [F5](https://devcentral.f5.com/d/icontrolr-rest-api-user-guide-version-1300-241) - REST API User Guide, Version 13.0.0
  - [Infoblox](https://ipam.illinois.edu/api/doc/) - Externally hosted Infoblox API docs
+ - [Juniper JUNOS API](https://www.juniper.net/documentation/en_US/junos/information-products/pathway-pages/rest-api/rest-api.html) - REST API Guide
 
 # Open Source Projects
 
@@ -189,15 +199,15 @@ A curated list of awesome about Network Automation
 ## Products
 
  - [NSOT](https://github.com/dropbox/nsot) - Network Source of Truth (NSoT) a source of truth database and repository for tracking inventory and metadata of network entities to ease management and automation of network infrastructure
- - [ToDD](https://github.com/toddproject/todd) - ToDD is an extensible framework for providing natively distributed testing on demand.
  - [Nuts](https://github.com/HSRNetwork/Nuts) - Network Unit Testing System automates tests in the network similar to unit tests.
- - [Trigger](https://github.com/trigger/trigger) - Trigger is a robust network automation toolkit written in Python that was designed for interfacing with network devices and managing network configuration and security policy.
  - [pyNMS](https://github.com/afourmy/pyNMS) - pyNMS is a vendor-agnostic Network Management System for network visualization, inventory and graphical automation.
  - [Rundeck](http://rundeck.org/) - Job scheduler and runbook (and Ansible playbook) automation
- - [Apstra's Aeon-ZTPS](https://github.com/Apstra/aeon-ztps) - Aeon-ZTPS is a universal Zero-Touch-Provisioning server for data center infrastructure systems at b.  Currently supports the bootstraping of Arista EOS, Cisco NX-OS, and Cumulus Linux
+ - [ToDD](https://github.com/toddproject/todd) - ToDD is an extensible framework for providing natively distributed testing on demand.
+ - [Trigger](https://github.com/trigger/trigger) - Trigger is a robust network automation toolkit written in Python that was designed for interfacing with network devices and managing network configuration and security policy.
 
 ## Library
 
+ - [Apstra's Aeon-ZTPS](https://github.com/Apstra/aeon-ztps) - Aeon-ZTPS is a universal Zero-Touch-Provisioning server for data center infrastructure systems at b.  Currently supports the bootstraping of Arista EOS, Cisco NX-OS, and Cumulus Linux
  - [Capirca](https://github.com/google/capirca) - Multi-platform ACL generation system; can output Juniper/IOS/etc ACLs from the same policy
  - [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations
  - [Condoor](https://github.com/kstaniek/condoor) - This is a python module providing access to Cisco devices over Telnet and SSH
@@ -251,11 +261,13 @@ A curated list of awesome about Network Automation
 # Hypervisor's
 
  - Docker
- - Vagrant
+ - ESX
  - Kubernetes
  - Marathon
+ - OpenStack
+ - oVirt
+ - Vagrant
  - VirtualBox
- - ESX
 
 # Backups
 
@@ -297,6 +309,7 @@ A curated list of awesome about Network Automation
 - [Anuta Networks](http://www.anutanetworks.com/ncx-overview/) - Anuta NCX delivers network service orchestration for greenfield and brownfield deployments. NCX is an intent-driven platform with YANG service models for multiple domains such as Branch/CPE, Data Center, Virtual MPLS, Carrier Core Networks and Cloud Interconnects. NCX has built-in YANG device models for PNFs and VNFs from 35+ industry leading vendors supporting hundreds of L2-L7 network functions using CLI, NETCONF, YANG, REST and SNMP. See the complete [list](http://www.anutanetworks.com/managed-devices/).
 - [Apstra](http://www.apstra.com/products/) - The Apstra Operating System (AOS) is a vendor-agnostic distributed operating system for the data center network that enables business agility, dramatically scales operational efficiency, and reduces downtime.
 - [Glue](http://gluenetworks.com/about-us-the-glue-team/) - With Gluware, the Glue Networks vision and team are continuing to trail-blaze at the forefront of the networking industry with multi-vendor orchestration solutions for Data Center, WAN and LAN networks.
+- [PacketFront](https://pfsw.com/resources/network-orchestration/) - PacketFront BECS and BBE is a vendor-agnostic network, service and resource orcestration system for residential, enterprise and data center networks.
 
 # Network Vendor Products
 - [Cisco Merkai](https://meraki.cisco.com/) - Cisco Meraki is the leader in cloud controlled WiFi, routing, and security. Secure and scalable, Cisco Meraki enterprise networks simply work
