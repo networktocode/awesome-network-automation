@@ -198,6 +198,7 @@ A curated list of awesome about Network Automation
 
 ## Products
 
+ - [Netshot](http://www.netfishers.onl/netshot) - Network Configuration and Compliance Management Software
  - [NSOT](https://github.com/dropbox/nsot) - Network Source of Truth (NSoT) a source of truth database and repository for tracking inventory and metadata of network entities to ease management and automation of network infrastructure
  - [Nuts](https://github.com/HSRNetwork/Nuts) - Network Unit Testing System automates tests in the network similar to unit tests.
  - [pyNMS](https://github.com/afourmy/pyNMS) - pyNMS is a vendor-agnostic Network Management System for network visualization, inventory and graphical automation.
