@@ -327,8 +327,7 @@ A curated list of awesome about Network Automation
 - [Packet Pushers Full Stack](http://packetpushers.net/series/full-stack-journey/) - The Journey To Full Stack
 - [Software Gone Wild](https://www.ipspace.net/Podcast/Software_Gone_Wild) - Software Gone Wild is focusing on architectures, solutions and technologies that real networking engineers use in production networks.
 
-<<<<<<< HEAD
-=======
+
 ## Podcasts Episodes
 
 - [Network Collective EPISODE 10](http://thenetworkcollective.com/2017/08/ep10-grassroots-automation/) - GRASSROOTS AUTOMATION
@@ -343,7 +342,7 @@ A curated list of awesome about Network Automation
 - [Packet Pushers PQ Show 198](http://packetpushers.net/podcast/podcasts/show-198-kirk-byers-network-automation-python-ansible/) - Kirk Byers on Network Automation with Python & Ansible
 - [Podcast__init Episode 117](https://www.podcastinit.com/napalm-with-david-barosso-and-mircea-ulinic-episode-117/) - NAPALM with David Barroso and Mircea Ulinic
 - [Talk Python to me #128](https://talkpython.fm/episodes/embed_details/128) - Pythonic Networks with NAPALM
->>>>>>> upstream/master
+
 
 # Contributing
 
