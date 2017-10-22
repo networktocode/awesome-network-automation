@@ -103,9 +103,10 @@ A curated list of awesome about Network Automation
 ##### Getting Started and Basics
 [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
 [Python for Network Engineers](http://networktocode.com/labs/tutorials/netmiko-quickstart/)
+[Python Programming Guides and Tutorials - Python Central](http://pythoncentral.io/)
 
 ##### Examples
-[Python Programming Guides and Tutorials - Python Central](http://pythoncentral.io/)
+
 ##### Advanced and Tools
 
 ## Go
@@ -217,8 +218,6 @@ A curated list of awesome about Network Automation
 # Podcasts
 
 - [Software Gone Wild](https://www.ipspace.net/Podcast/Software_Gone_Wild) - Software Gone Wild is focusing on architectures, solutions and technologies that real networking engineers use in production networks.
-- [Network Collective](http://thenetworkcollective.com/) - The Network Collective is a round table discuusion of a variety of networking topics with a core panel and guests.
-- [Datanauts](http://packetpushers.net/datanauts-podcast/) - The Datanauts is focused on exploring current and emerging Data Center technologies.  These include compute, storage, networking, automation, and everything in betwenn.
 
 
 # Contributing
