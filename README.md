@@ -133,6 +133,8 @@ A curated list of awesome about Network Automation
 ## Python
 
  - Getting Started and Basics
+  - [Python for Network Engineers](http://networktocode.com/labs/tutorials/netmiko-quickstart/)
+  - [Python Programming Guides and Tutorials - Python Central](http://pythoncentral.io/)
  - Examples
  - Advanced and Tools
 
