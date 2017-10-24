@@ -294,7 +294,7 @@ A curated list of awesome about Network Automation
 
 # Configuration Management
 
-- [Solarwinds](www.solarwinds.com/network-configuration-manager) - Automated network configuration and compliance management
+- [Solarwinds](http://www.solarwinds.com/network-configuration-manager) - Automated network configuration and compliance management
 - [ManageEngine](https://www.manageengine.com/network-configuration-manager/) - Network Configuration Manager is a multi vendor network change, configuration and compliance management (NCCCM) solution for switches, routers, firewalls and other network devices
 - [Rconfig](http://www.rconfig.com/) - A free, open source network device configuration management tool, customizable to your needs!
 - [Unimus](https://unimus.net) - Network-wide configuration search and config diff over time in an easy to use web GUI.
