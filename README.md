@@ -75,6 +75,7 @@ A curated list of awesome about Network Automation
 - [Network OP](http://networkop.co.uk/) - The Network Automation thoughts of Michael Kashin
 - [Packet Life](http://packetlife.net/) - The Network Automation thoughts of Jeremy Strech
 - [Project 10](https://projectme10.wordpress.com) - The Network Automation thoughts of Gabriele Gerbino
+- [Python for Network Engineers](https://pynet.twb-tech.com/) - Articles on Netmiko, NAPALM, and Ansible by Kirk Byers
 - [Scott Lowe](http://blog.scottlowe.org) - The Network Automation thoughts of Scott Lowe
 
 # Programming Topics
@@ -133,6 +134,7 @@ A curated list of awesome about Network Automation
 ## Python
 
  - Getting Started and Basics
+  - [Python Programming Guides and Tutorials - Python Central](http://pythoncentral.io/) 
  - Examples
  - Advanced and Tools
 
