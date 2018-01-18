@@ -158,6 +158,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
  - [F5](https://devcentral.f5.com/d/icontrolr-rest-api-user-guide-version-1300-241) - REST API User Guide, Version 13.0.0.
  - [Infoblox](https://ipam.illinois.edu/api/doc/) - Externally hosted Infoblox API docs.
  - [Juniper JUNOS API](https://www.juniper.net/documentation/en_US/junos/information-products/pathway-pages/rest-api/rest-api.html) - JUNOS REST API Guide.
+ - [Palo Alto Networks PAN-OS API](https://www.paloaltonetworks.com/documentation/80/pan-os/xml-api) - PAN-OS 8.0 XML API Reference.
 
 # Open Source Projects
 
@@ -233,6 +234,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
  - [Napalm-Ansible](https://github.com/napalm-automation/napalm-ansible) - Collection of ansible modules that use napalm to retrieve data or modify configuration on networking devices.
  - [Netscaler-Ansible](https://github.com/networktocode/netscaler-ansible) - Ansible Module to work with Netscalers.
  - [NTC Ansible](https://github.com/networktocode/ntc-ansible) - Multi-vendor Ansible Modules for Network Automation.
+ - [ansible-pan](https://github.com/PaloAltoNetworks/ansible-pan) - Ansible modules for working with Palo Alto Networks PAN-OS.
 
 ## Pre-written Salt States (Formulas)
 
@@ -244,7 +246,8 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
  - [clicrud](https://github.com/davidjohngee/clicrud) - Brocade specific (MLX/VDX/ICX/CER/CES) CLI driver (Telnet & SSH).
  - [f5-common-python](https://github.com/F5Networks/f5-common-python) - Python SDK for configuration and monitoring of F5 BIG-IP devices via the iControl REST API.
  - [infoblox](https://github.com/infobloxopen/infoblox-client) - Python library for Infoblox.
- - [pandevice](https://github.com/PaloAltoNetworks/pandevice) - Python library for Palo Alto.
+ - [pan-python](https://github.com/kevinsteves/pan-python) - Multi-tool set for Palo Alto Networks PAN-OS, Panorama, WildFire and AutoFocus.
+ - [pandevice](https://github.com/PaloAltoNetworks/pandevice) - Device framework for interacting with Palo Alto Networks devices.
  - [pyeapi](https://github.com/arista-eosplus/pyeapi) - Python library for Arista EOS.
  - [pyfg](https://github.com/spotify/pyfg) - Python library for Fortinet.
  - [pyiosxr](https://github.com/fooelisa/pyiosxr) - Python library for Cisco IOSXR.
