@@ -86,14 +86,11 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 
 ### YAML
 
- - [Getting Started and Basics](http://www.yaml.org/start.html)
+ - [Getting Started and Basics](http://www.yaml.org/start.html) - Introduction to YAML
  - [Online Validator](http://yaml-online-parser.appspot.com/) - Online YAML Parser.
- - [Sample YAML documents describing common data structures](https://github.com/ipspace/NetOpsWorkshop/tree/master/YAML)
- - Examples
-
- - Advanced and Tools
-   - [YAML syntax validator](https://yamllint.readthedocs.io/en/latest/)
-   - [YAML idiosyncrasies](https://docs.saltstack.com/en/latest/topics/troubleshooting/yaml_idiosyncrasies.html) -- Document with the most common YAML idiosyncrasies, hosted under the SaltStack docs, but not specific to Salt or any other tool.
+ - [Sample YAML documents describing common data structures](https://github.com/ipspace/NetOpsWorkshop/tree/master/YAML) - YAML examples curtosey of Ivan Pepelnjak.
+ - [YAML syntax validator](https://yamllint.readthedocs.io/en/latest/) - YAML online parser.
+ - [YAML idiosyncrasies](https://docs.saltstack.com/en/latest/topics/troubleshooting/yaml_idiosyncrasies.html) -- Document with the most common YAML idiosyncrasies, hosted under the SaltStack docs, but not specific to Salt or any other tool.
 
 ### JSON
 
@@ -115,9 +112,10 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 
 ### Jinja2
 
- - [Documentation]()
- - [Online rendering tool](http://jinja2test.tk/)
- - [Sample Jinja2 templates](https://github.com/ipspace/NetOpsWorkshop/tree/master/Jinja2)
+ - [Documentation](http://jinja.pocoo.org/docs/2.10/templates/) - Base documentation for Jinja2
+ - [TD4a](td4a.now.sh) - Advanced online rendering tool
+ - [Online rendering tool](http://jinja2test.tk/) - Simple online rendering tool
+ - [Sample Jinja2 templates](https://github.com/ipspace/NetOpsWorkshop/tree/master/Jinja2) - Jinja examples curtosey of Ivan Pepelnjak.
 
 ## API
 
@@ -136,7 +134,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 ## Python
 
  - Getting Started and Basics
-  - [Python Programming Guides and Tutorials - Python Central](http://pythoncentral.io/) 
+  - [Python Programming Guides and Tutorials - Python Central](http://pythoncentral.io/) - The site's blog authors are experienced Python programmers and enthusiasts from all over the globe, eager to share their know-how about the scripting language.
  - Examples
  - Advanced and Tools
 
@@ -165,7 +163,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 ## Ansible
 
  - Getting Started and Basics
- - [Sample network automation Ansible playbooks](https://github.com/ipspace/ansible-examples)
+ - [Sample network automation Ansible playbooks](https://github.com/ipspace/ansible-examples) - Ansible playbooks geared torwards network engineers, curtosey of Ivan Pepelnjak.
  - Advanced and Tools
 
 ## Chef
@@ -340,9 +338,11 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 - [Packet Pushers Show 333](http://packetpushers.net/podcast/podcasts/show-333-orchestration-vs-automation/) - Automation & Orchestration In Networking.
 - [Packet Pushers Show 351](http://packetpushers.net/podcast/podcasts/show-351-design-build-13-network-orchestration-salt/) -  Design & Build 13: Network Orchestration with Salt.
 - [Packet Pushers Show 353](http://packetpushers.net/podcast/podcasts/show-353-business-impact-network-automation/) - The Business Impact Of Network Automation.
+- [Packet Pushers Show 368](http://packetpushers.net/podcast/podcasts/show-368-radical-change-devops-automation/) - Show 368: Radical Change, DevOps & Automation
 - [Packet Pushers PQ Show 81](http://packetpushers.net/podcast/podcasts/pq-show-81-network-testing-todd/) - Network Testing With ToDD.
 - [Packet Pushers PQ Show 99](http://packetpushers.net/podcast/podcasts/pq-show-99-netmiko-napalm-network-automation/) - Netmiko & NAPALM For Network Automation.
 - [Packet Pushers PQ Show 116](http://packetpushers.net/podcast/podcasts/pq-show-116-practical-yang-network-automation/) - Practical YANG For Network Automation.
+- [Packet Pushers PQ Show 135](http://packetpushers.net/podcast/podcasts/pq-135-mastering-python-networking-book/) - Mastering Python Networking – The Book
 - [Packet Pushers PQ Show 198](http://packetpushers.net/podcast/podcasts/show-198-kirk-byers-network-automation-python-ansible/) - Kirk Byers on Network Automation with Python & Ansible.
 - [Podcast__init Episode 117](https://www.podcastinit.com/napalm-with-david-barosso-and-mircea-ulinic-episode-117/) - NAPALM with David Barroso and Mircea Ulinic.
 - [Talk Python to me #128](https://talkpython.fm/episodes/embed_details/128) - Pythonic Networks with NAPALM.
