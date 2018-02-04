@@ -153,6 +153,10 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
  - [NX_API Coming soon]() - Coming Soon.
    - [Cisco NX-API](https://developer.cisco.com/site/nx-api/) - Main DEVNET page for NX-API docs.
  - [Cumulus Networks HTTP API](https://docs.cumulusnetworks.com/display/DOCS/HTTP+API) - Documents focused on Cumulus 3.4.1.
+ - Extreme Networks
+   - [EXOS REST API](https://github.com/extremenetworks/EXOS_Apps/tree/master/REST) - Documentation and examples for ExtremeSwitching ExtremeXOS RESTCONF API
+   - [EXOS JSONRPC Interface](https://github.com/extremenetworks/EXOS_Apps/tree/master/JSONRPC) - Documentation and examples for ExtremeSwitching ExtremeXOS JSONRPC API
+   - [EXOS Python API](https://documentation.extremenetworks.com/python/) - Documentation for writing Python applications that run on ExtremeXOS based switches
  - [F5](https://devcentral.f5.com/d/icontrolr-rest-api-user-guide-version-1300-241) - REST API User Guide, Version 13.0.0.
  - [Infoblox](https://ipam.illinois.edu/api/doc/) - Externally hosted Infoblox API docs.
  - [Juniper JUNOS API](https://www.juniper.net/documentation/en_US/junos/information-products/pathway-pages/rest-api/rest-api.html) - JUNOS REST API Guide.
