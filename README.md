@@ -229,7 +229,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
  - [ara](https://github.com/openstack/ara) - Ansible Runtime Analysis.
  - [Fortimanager-Ansible](https://github.com/networktocode/fortimanager-ansible) - Ansible Module to work with Fortimanager.
  - [Infoblox-Ansible](https://github.com/infobloxopen/infoblox-ansible) - Ansible Module to work with Infoblox.
- - [IP Infusion OcNOS Ansible module](https://github.com/IPInfusion/OcNOS) - Ansible module, SNMP MIB files, and YANG files for OcNOS (you need to select the branch that corresponds to your OcNOS version to get to the files)
+ - [IP Infusion OcNOS Ansible module](https://github.com/IPInfusion/OcNOS) - Ansible module, SNMP MIB files, and YANG files for OcNOS
  - [Napalm-Ansible](https://github.com/napalm-automation/napalm-ansible) - Collection of ansible modules that use napalm to retrieve data or modify configuration on networking devices.
  - [Netscaler-Ansible](https://github.com/networktocode/netscaler-ansible) - Ansible Module to work with Netscalers.
  - [NTC Ansible](https://github.com/networktocode/ntc-ansible) - Multi-vendor Ansible Modules for Network Automation.
