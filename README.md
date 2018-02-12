@@ -283,6 +283,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 # Backups
 
 - [Cidr](https://github.com/renard/cidr) - Cidr Is not as Dumb as Rancid.
+- [fetchconfig](https://github.com/udhos/fetchconfig) - fetchconfig is a Perl script for retrieving configuration of multiple devices
 - [Gerty](https://github.com/ssinyagin/gerty) - Universal framework for device management automation. Eventually a replacement for RANCID... and much more.
 - [Jazigo](https://github.com/udhos/jazigo) - Jazigo is a tool written in Go for retrieving configuration for multiple devices, similar to rancid, fetchconfig, oxidized, Sweet.
 - [Oxidized](https://github.com/ytti/oxidized) - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
