@@ -273,6 +273,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 
  - Docker
  - ESX
+ - [GNS3](https://www.gns3.com/) - Graphical Network Simulator 3 allows to build virtual networks using emulated network devices, with comprehensive support for different emulation technologies
  - Kubernetes
  - Marathon
  - OpenStack
