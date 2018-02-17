@@ -13,6 +13,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
   - [Programming Topics](#programming-topics)
   - [Open Source Projects](#open-source-projects)
   - [Hypervisor's](#hypervisors)
+  - [Network Emulators](#network-emulators)
   - [Backups](#backups)
   - [IPAM](#ipam)
   - [Configuration Management](#configuration-management)
@@ -279,6 +280,14 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
  - oVirt
  - Vagrant
  - VirtualBox
+
+# Network Emulators
+
+ - [EVE-NG](http://www.eve-ng.com/) - The Emulated Virtual Environment for Network, Security and DevOps professionals.
+ - [GNS3](https://www.gns3.com/) - Graphical Network Simulator-3.
+ - [Mininet](http://mininet.org/) - Mininet creates a realistic virtual network, running real kernel, switch and application code, on a single machine (VM, cloud or native), in seconds, with a single command.
+ - [UNetLab](http://www.routereflector.com/unetlab/) - Unified Networking Lab.
+ - VIRL - Cisco Virtual Internet Routing Lab.
 
 # Backups
 
