@@ -30,7 +30,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 
 - [Chef Community](https://www.chef.io/community/) - The complete offical list of Chef Community resources.
 - [IRC Ansible](http://docs.ansible.com/ansible/community.html#irc-channel) - Ansible IRC Channels.
-- [Network to Code Slack](http://slack.networktocode.com) - NTC Slack is the home/pseudo-home to many popular repo's (NAPALM/netmiko/netbox/nsot) and over 3000 members around Network Automation.
+- [Network to Code Slack](http://slack.networktocode.com) - NTC Slack is the home/pseudo-home to many popular repo's (NAPALM/netmiko/netbox/nsot) and over 4000 members around Network Automation.
 - [Puppet Community](https://puppet.com/community) - The complete offical list of Puppet Community resources.
 - [Salt Formulas](https://groups.google.com/forum/#!forum/salt-formulas) - The SaltStack formulas working group.
 - [Salt Networks](https://groups.google.com/forum/#!forum/salt-networks) - The goal of this group is to have a central place to communicate goals about network device automation with SaltStack.
@@ -110,7 +110,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 
 ### YANG
 
- - [IETF RFC](https://tools.ietf.org/html/rfc6020) - IETF RFC.
+ - [IETF RFC](https://tools.ietf.org/html/rfc6020) - The IETF RFC on YANG.
  - [Cisco Labs YANG - 101](https://learninglabs.cisco.com/lab/yang-101/step/1) - Cisco yang introduction.
  - [YANG for dummies](https://napalm-automation.net/yang-for-dummies/) - NAPALM YANG introduction.
 
@@ -133,14 +133,14 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 
 ## Python
 
- - [Learn Python the Hardway](https://learnpythonthehardway.org)
- - [Python at CodeAcademy](https://www.codecademy.com/learn/learn-python)
+ - [Learn Python the Hardway](https://learnpythonthehardway.org) - Learn Python The Hard Way takes you from absolute zero to able to read and write basic Python to then understand other books on Python. 
+ - [Python at CodeAcademy](https://www.codecademy.com/learn/learn-python) - Learn Python by Codecademy.
  - [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
  - [Python Programming Guides and Tutorials - Python Central](http://pythoncentral.io/) - The site's blog authors are experienced Python programmers and enthusiasts from all over the globe, eager to share their know-how about the scripting language.
 
 ## Go
 
- - [Getting Started and Basics](https://tour.golang.org/welcome)
+ - [Getting Started and Basics](https://tour.golang.org/welcome) - Introduction to programming with Go.
  - [Awesome Go](https://github.com/vinta/awesome-go) - A curated list of awesome Go frameworks, libraries, software and resources.
 
 ## Vendor API Docs
