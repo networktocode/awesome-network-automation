@@ -28,10 +28,10 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 
 - [Ansible Google Groups](https://groups.google.com/forum/#!forum/ansible-project) - Welcome to Ansible's mailing list / forum!
 
-- [Chef Community](https://www.chef.io/community/) - The complete offical list of Chef Community resources
-- [IRC Ansible](http://docs.ansible.com/ansible/community.html#irc-channel) - Ansible IRC Channels
+- [Chef Community](https://www.chef.io/community/) - The complete offical list of Chef Community resources.
+- [IRC Ansible](http://docs.ansible.com/ansible/community.html#irc-channel) - Ansible IRC Channels.
 - [Network to Code Slack](http://slack.networktocode.com) - NTC Slack is the home/pseudo-home to many popular repo's (NAPALM/netmiko/netbox/nsot) and over 3000 members around Network Automation.
-- [Puppet Community](https://puppet.com/community) - The complete offical list of Puppet Community resources
+- [Puppet Community](https://puppet.com/community) - The complete offical list of Puppet Community resources.
 - [Salt Formulas](https://groups.google.com/forum/#!forum/salt-formulas) - The SaltStack formulas working group.
 - [Salt Networks](https://groups.google.com/forum/#!forum/salt-networks) - The goal of this group is to have a central place to communicate goals about network device automation with SaltStack.
 - [Salt Users](https://groups.google.com/forum/#!forum/salt-users) - The official forum of the Salt community.
@@ -40,13 +40,13 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 
 - [AWS Reinvent](https://reinvent.awsevents.com/) - AWS re:Invent Central is designed to facilitate connections between sponsors and attendees.
 - [Ansible Fest](https://www.ansible.com/ansiblefest) - AnsibleFest is a day-long conference bringing together Ansible users, developers and industry partners to share best practices, case studies and Ansible news.
-- [Ansible NYC Meetup](https://www.meetup.com/Ansible-NYC/) - Local NYC Ansible user meetup
-- [Chef Summits](https://www.chef.io/summits/) - Chef community summit schedule
+- [Ansible NYC Meetup](https://www.meetup.com/Ansible-NYC/) - Local NYC Ansible user meetup.
+- [Chef Summits](https://www.chef.io/summits/) - Chef community summit schedule.
 - [London Network Automation Meetup](https://www.meetup.com/London-Network-Automation-Meetup/) - A community of network engineers, who have interest in the new buzz of network automation.
-- [NANOG](https://www.nanog.org) - North American Network Operators' Group with fair share of automation presentations/discussions
-- [Network to Coders Meetup](https://www.meetup.com/Network-to-Coders/) - Maybe this can pressure NTC to finally setup an event for the 140+ NTC meetup members
-- [puppetconf](https://puppet.com/puppetconf) - A 3 day event including community discussions, presentations, and training
-- [SaltStack NYC Meetup](https://www.meetup.com/SaltStack-NYC/) - Local NYC SatlStack user meetup
+- [NANOG](https://www.nanog.org) - North American Network Operators' Group with fair share of automation presentations/discussions.
+- [Network to Coders Meetup](https://www.meetup.com/Network-to-Coders/) - Maybe this can pressure NTC to finally setup an event for the 140+ NTC meetup members.
+- [puppetconf](https://puppet.com/puppetconf) - A 3 day event including community discussions, presentations, and training.
+- [SaltStack NYC Meetup](https://www.meetup.com/SaltStack-NYC/) - Local NYC SatlStack user meetup.
 - [Tech Field Day](http://techfieldday.com/) - Field Day events bring together innovative IT product vendors and independent thought leaders to share information and opinions in a presentation and discussion format.
 - [SaltConf](http://saltconf.com/) - 4 days event including two days of SaltStack customer case studies and SaltStack technical deep dives.
 
@@ -100,7 +100,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 
 ### JSON
 
- - [Getting Started and Basics](https://www.codecademy.com/courses/javascript-beginner-en-xTAfX/0/1) - placeholder for now
+ - [Getting Started and Basics](https://www.codecademy.com/courses/javascript-beginner-en-xTAfX/0/1) - JSON Basics.
  - [Awesome JSON](https://github.com/burningtree/awesome-json) - A curated list of awesome JSON libraries and resources.
  - [JSON 2 YAML](json2yaml.com) - An online JSON to YAML conversion tool.
 
@@ -110,7 +110,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 
 ### YANG
 
- - [Intro](https://tools.ietf.org/html/rfc6020) - ietf placeholder
+ - [IETF RFC](https://tools.ietf.org/html/rfc6020) - IETF RFC.
  - [Cisco Labs YANG - 101](https://learninglabs.cisco.com/lab/yang-101/step/1) - Cisco yang introduction.
  - [YANG for dummies](https://napalm-automation.net/yang-for-dummies/) - NAPALM YANG introduction.
 
