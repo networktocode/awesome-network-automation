@@ -27,7 +27,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 # Community
 
 - [Ansible Google Groups](https://groups.google.com/forum/#!forum/ansible-project) - Welcome to Ansible's mailing list / forum!
-- [IRC Ansible](http://docs.ansible.com/ansible/community.html#irc-channel) - Ansible IRC Channels
+- [IRC Ansible](http://docs.ansible.com/ansible/community.html#irc-channel) - Ansible IRC Channels.
 - [Network to Code Slack](http://slack.networktocode.com) - NTC Slack is the home/pseudo-home to many popular repo's (NAPALM/netmiko/netbox/nsot) and over 3000 members around Network Automation.
 - [Salt Formulas](https://groups.google.com/forum/#!forum/salt-formulas) - The SaltStack formulas working group.
 - [Salt Networks](https://groups.google.com/forum/#!forum/salt-networks) - The goal of this group is to have a central place to communicate goals about network device automation with SaltStack.
@@ -96,39 +96,33 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 ### JSON
 
  - [Awesome JSON](https://github.com/burningtree/awesome-json) - A curated list of awesome JSON libraries and resources.
- - [JSON 2 YAML](json2yaml.com) - An online JSON to YAML conversion tool
+ - [JSON 2 YAML](json2yaml.com) - An online JSON to YAML conversion tool.
 
 ### XML
 
- - Getting Started and Basics
- - Examples
- - Advanced and Tools
+ - [XML to JSON converter online](http://www.utilities-online.info/xmltojson/) - XML to JSON and JSON to XML converter online.
 
 ### YANG
 
- - [Cisco Labs YANG - 101](https://learninglabs.cisco.com/lab/yang-101/step/1) - Cisco yang introduction
- - [YANG for dummies](https://napalm-automation.net/yang-for-dummies/) - NAPALM YANG introduction
+ - [Cisco Labs YANG - 101](https://learninglabs.cisco.com/lab/yang-101/step/1) - Cisco yang introduction.
+ - [YANG for dummies](https://napalm-automation.net/yang-for-dummies/) - NAPALM YANG introduction.
 
 ### Jinja2
 
- - [Documentation](http://jinja.pocoo.org/docs/2.10/templates/) - Base documentation for Jinja2
- - [TD4a](td4a.now.sh) - Advanced online rendering tool
- - [Online rendering tool](http://jinja2test.tk/) - Simple online rendering tool
+ - [Documentation](http://jinja.pocoo.org/docs/2.10/templates/) - Base documentation for Jinja2.
+ - [TD4a](td4a.now.sh) - Advanced online rendering tool.
+ - [Online rendering tool](http://jinja2test.tk/) - Simple online rendering tool.
  - [Sample Jinja2 templates](https://github.com/ipspace/NetOpsWorkshop/tree/master/Jinja2) - Jinja examples curtosey of Ivan Pepelnjak.
 
 ## API
 
-### RestConf
+### RESTCONF
 
- - Getting Started and Basics
- - Examples
- - Advanced and Tools
+ - [What Is RESTCONF](http://sdntutorials.com/what-is-restconf/) - Overview of RESTCONF.
 
 ### NETCONF
 
- - Getting Started and Basics
- - Examples
- - Advanced and Tools
+ - [What Is NETCONF](http://sdntutorials.com/what-is-netconf/) - Overview of NETCONF.
 
 ## Python
 
@@ -148,10 +142,10 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
  - [NX_API Coming soon]() - Coming Soon.
    - [Cisco NX-API](https://developer.cisco.com/site/nx-api/) - Main DEVNET page for NX-API docs.
  - [Cumulus Networks HTTP API](https://docs.cumulusnetworks.com/display/DOCS/HTTP+API) - Documents focused on Cumulus 3.4.1.
- - Extreme Networks
-   - [EXOS REST API](https://github.com/extremenetworks/EXOS_Apps/tree/master/REST) - Documentation and examples for ExtremeSwitching ExtremeXOS RESTCONF API
-   - [EXOS JSONRPC Interface](https://github.com/extremenetworks/EXOS_Apps/tree/master/JSONRPC) - Documentation and examples for ExtremeSwitching ExtremeXOS JSONRPC API
-   - [EXOS Python API](https://documentation.extremenetworks.com/python/) - Documentation for writing Python applications that run on ExtremeXOS based switches
+ - Extreme Networks:
+   - [EXOS REST API](https://github.com/extremenetworks/EXOS_Apps/tree/master/REST) - Documentation and examples for ExtremeSwitching ExtremeXOS RESTCONF API.
+   - [EXOS JSONRPC Interface](https://github.com/extremenetworks/EXOS_Apps/tree/master/JSONRPC) - Documentation and examples for ExtremeSwitching ExtremeXOS JSONRPC API.
+   - [EXOS Python API](https://documentation.extremenetworks.com/python/) - Documentation for writing Python applications that run on ExtremeXOS based switches.
  - [F5](https://devcentral.f5.com/d/icontrolr-rest-api-user-guide-version-1300-241) - REST API User Guide, Version 13.0.0.
  - [Infoblox](https://ipam.illinois.edu/api/doc/) - Externally hosted Infoblox API docs.
  - [Juniper JUNOS API](https://www.juniper.net/documentation/en_US/junos/information-products/pathway-pages/rest-api/rest-api.html) - JUNOS REST API Guide.
@@ -161,21 +155,16 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 
 ## Ansible
 
- - Getting Started and Basics
+ - [Getting Started with the ios_config Ansible Module](https://www.youtube.com/watch?v=WXLUgDmvHDI) - Getting Started with the ios_config Ansible Module.
  - [Sample network automation Ansible playbooks](https://github.com/ipspace/ansible-examples) - Ansible playbooks geared torwards network engineers, curtosey of Ivan Pepelnjak.
- - Advanced and Tools
 
 ## Chef
 
- - Getting Started and Basics
- - Examples
- - Advanced and Tools
+ - [Using Chef Client with Cisco NX-OS](https://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus9000/sw/7-x/programmability/guide/b_Cisco_Nexus_9000_Series_NX-OS_Programmability_Guide_7x/b_Cisco_Nexus_9000_Series_NX-OS_Programmability_Guide_7x_chapter_01110.html) - Using Chef Client with Cisco NX-OS
 
 ## Puppet
 
- - Getting Started and Basics
- - Examples
- - Advanced and Tools
+ - [Managing a Cisco switch with Puppet](http://www.scottyob.com/2012/12/08/my-experiences-of-managing-a-cisco-switch-with-puppet/) - My experiences of managing a Cisco switch with Puppet.
 
 ## Salt
 
@@ -228,7 +217,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
  - [ara](https://github.com/openstack/ara) - Ansible Runtime Analysis.
  - [Fortimanager-Ansible](https://github.com/networktocode/fortimanager-ansible) - Ansible Module to work with Fortimanager.
  - [Infoblox-Ansible](https://github.com/infobloxopen/infoblox-ansible) - Ansible Module to work with Infoblox.
- - [IP Infusion OcNOS Ansible module](https://github.com/IPInfusion/OcNOS) - Ansible module, SNMP MIB files, and YANG files for OcNOS
+ - [IP Infusion OcNOS Ansible module](https://github.com/IPInfusion/OcNOS) - Ansible module, SNMP MIB files, and YANG files for OcNOS.
  - [Napalm-Ansible](https://github.com/napalm-automation/napalm-ansible) - Collection of ansible modules that use napalm to retrieve data or modify configuration on networking devices.
  - [Netscaler-Ansible](https://github.com/networktocode/netscaler-ansible) - Ansible Module to work with Netscalers.
  - [NTC Ansible](https://github.com/networktocode/ntc-ansible) - Multi-vendor Ansible Modules for Network Automation.
@@ -264,16 +253,12 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 - [Network-CI](https://github.com/networkop/network-ci) - Proof of Concept of CI/CD methodology applied to traditional non-SDN network topologies.
 - [NetGrph](https://github.com/yantisj/netgrph) - Network graph modeling database.
 
-# Hypervisor's
+# Hypervisors and Containers
 
- - Docker
- - ESX
- - Kubernetes
- - Marathon
- - OpenStack
- - oVirt
- - Vagrant
- - VirtualBox
+ - [Docker](https://www.docker.com/) - Docker is a software technology providing operating-system-level virtualization also known as containers, promoted by the company Docker, Inc.
+ - [Vagrant](https://www.vagrantup.com/) - Vagrant enables users to create and configure lightweight, reproducible, and portable development environments.
+ - [VirtualBox](https://www.virtualbox.org/) - VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
+ - [Vmware ESXi](https://www.vmware.com/products/esxi-and-esx.html) - VMware ESXi is a purpose-built bare-metal hypervisor that installs directly onto a physical server.
 
 # Network Emulators
 
@@ -281,12 +266,12 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
  - [GNS3](https://www.gns3.com/) - Graphical Network Simulator-3.
  - [Mininet](http://mininet.org/) - Mininet creates a realistic virtual network, running real kernel, switch and application code, on a single machine (VM, cloud or native), in seconds, with a single command.
  - [UNetLab](http://www.routereflector.com/unetlab/) - Unified Networking Lab.
- - VIRL - Cisco Virtual Internet Routing Lab.
+ - [VIRL](https://learningnetwork.cisco.com/groups/virl) - Cisco Virtual Internet Routing Lab.
 
 # Backups
 
 - [Cidr](https://github.com/renard/cidr) - Cidr Is not as Dumb as Rancid.
-- [fetchconfig](https://github.com/udhos/fetchconfig) - fetchconfig is a Perl script for retrieving configuration of multiple devices
+- [fetchconfig](https://github.com/udhos/fetchconfig) - fetchconfig is a Perl script for retrieving configuration of multiple devices.
 - [Gerty](https://github.com/ssinyagin/gerty) - Universal framework for device management automation. Eventually a replacement for RANCID... and much more.
 - [Jazigo](https://github.com/udhos/jazigo) - Jazigo is a tool written in Go for retrieving configuration for multiple devices, similar to rancid, fetchconfig, oxidized, Sweet.
 - [Oxidized](https://github.com/ytti/oxidized) - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
@@ -315,10 +300,10 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 
 # Books
 
-- [Ansible: Up and Running](http://shop.oreilly.com/product/0636920035626.do) - Automating Configuration Management and Deployment the Easy Way
+- [Ansible: Up and Running](http://shop.oreilly.com/product/0636920035626.do) - Automating Configuration Management and Deployment the Easy Way.
 - [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561) - This pocket guide is the perfect on-the-job companion to Git, the distributed version control system. It provides a compact, readable introduction to Git for new users, as well as a reference to common commands and procedures for those of you with Git experience.
 - [Mastering Python Networking](https://www.packtpub.com/networking-and-servers/mastering-python-networking?utm_source=github&utm_medium=repository&utm_campaign=9781784397005) - Become an expert in implementing advanced, network-related tasks with Python.
-- [Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do) - Skills for the Next-Generation Network Engineer
+- [Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do) - Skills for the Next-Generation Network Engineer.
 
 # Vendor Agnostic Products
 - [Anuta Networks](http://www.anutanetworks.com/ncx-overview/) - Anuta NCX delivers network service orchestration for greenfield and brownfield deployments. NCX is an intent-driven platform with YANG service models for multiple domains such as Branch/CPE, Data Center, Virtual MPLS, Carrier Core Networks and Cloud Interconnects. NCX has built-in YANG device models for PNFs and VNFs from 35+ industry leading vendors supporting hundreds of L2-L7 network functions using CLI, NETCONF, YANG, REST and SNMP. See the complete [list](http://www.anutanetworks.com/managed-devices/).
@@ -347,11 +332,11 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 - [Packet Pushers Show 333](http://packetpushers.net/podcast/podcasts/show-333-orchestration-vs-automation/) - Automation & Orchestration In Networking.
 - [Packet Pushers Show 351](http://packetpushers.net/podcast/podcasts/show-351-design-build-13-network-orchestration-salt/) -  Design & Build 13: Network Orchestration with Salt.
 - [Packet Pushers Show 353](http://packetpushers.net/podcast/podcasts/show-353-business-impact-network-automation/) - The Business Impact Of Network Automation.
-- [Packet Pushers Show 368](http://packetpushers.net/podcast/podcasts/show-368-radical-change-devops-automation/) - Show 368: Radical Change, DevOps & Automation
+- [Packet Pushers Show 368](http://packetpushers.net/podcast/podcasts/show-368-radical-change-devops-automation/) - Show 368: Radical Change, DevOps & Automation.
 - [Packet Pushers PQ Show 81](http://packetpushers.net/podcast/podcasts/pq-show-81-network-testing-todd/) - Network Testing With ToDD.
 - [Packet Pushers PQ Show 99](http://packetpushers.net/podcast/podcasts/pq-show-99-netmiko-napalm-network-automation/) - Netmiko & NAPALM For Network Automation.
 - [Packet Pushers PQ Show 116](http://packetpushers.net/podcast/podcasts/pq-show-116-practical-yang-network-automation/) - Practical YANG For Network Automation.
-- [Packet Pushers PQ Show 135](http://packetpushers.net/podcast/podcasts/pq-135-mastering-python-networking-book/) - Mastering Python Networking – The Book
+- [Packet Pushers PQ Show 135](http://packetpushers.net/podcast/podcasts/pq-135-mastering-python-networking-book/) - Mastering Python Networking – The Book.
 - [Packet Pushers PQ Show 198](http://packetpushers.net/podcast/podcasts/show-198-kirk-byers-network-automation-python-ansible/) - Kirk Byers on Network Automation with Python & Ansible.
 - [Podcast__init Episode 117](https://www.podcastinit.com/napalm-with-david-barosso-and-mircea-ulinic-episode-117/) - NAPALM with David Barroso and Mircea Ulinic.
 - [Talk Python to me #128](https://talkpython.fm/episodes/embed_details/128) - Pythonic Networks with NAPALM.
@@ -364,5 +349,5 @@ This list is just getting started, please contribute to make it super awesome.
 
 # License
 
-Licensed under the Apache License, Version 2.0, see LICENSE file for more detail
+Licensed under the Apache License, Version 2.0, see LICENSE file for more detail.
 
