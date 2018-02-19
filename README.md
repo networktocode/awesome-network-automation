@@ -190,7 +190,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 
 ## StackStorm
  - [StackStorm Repository](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation commonly used for auto-remediation, security responses, facilitated troubleshooting, complex deployments, and more. Includes rules engine, workflow, 1800+ integrations, native ChatOps and so forth.
- - [StackStorm Installer](http://docs.stackstorm.com/install/index.html) - 
+ - [StackStorm Installer](http://docs.stackstorm.com/install/index.html) - Ready to install StackStorm? Here’s an overview of how to get your system up and running.
  - [StackStorm Youtube](https://www.youtube.com/channel/UCColc5CuBJ8-1SnALnkDz8Q) - Various intro, marketing, interviews, and technical product talks.
  - [Stackstorm Docs](https://docs.stackstorm.com) - Latest Version Documentation.
  - [StackStorm Intro on Software Gone Wild](http://blog.ipspace.net/2016/11/stackstorm-101-on-software-gone-wild.html) - SGW team talk with StackStorm (including Matt Oswalt) to discuss StackStorm.
