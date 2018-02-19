@@ -27,7 +27,6 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 # Community
 
 - [Ansible Google Groups](https://groups.google.com/forum/#!forum/ansible-project) - Welcome to Ansible's mailing list / forum!
-
 - [Chef Community](https://www.chef.io/community/) - The complete offical list of Chef Community resources.
 - [IRC Ansible](http://docs.ansible.com/ansible/community.html#irc-channel) - Ansible IRC Channels.
 - [Network to Code Slack](http://slack.networktocode.com) - NTC Slack is the home/pseudo-home to many popular repo's (NAPALM/netmiko/netbox/nsot) and over 4000 members around Network Automation.
