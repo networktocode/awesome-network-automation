@@ -284,7 +284,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 - [Gerty](https://github.com/ssinyagin/gerty) - Universal framework for device management automation. Eventually a replacement for RANCID... and much more.
 - [Jazigo](https://github.com/udhos/jazigo) - Jazigo is a tool written in Go for retrieving configuration for multiple devices, similar to rancid, fetchconfig, oxidized, Sweet.
 - [Oxidized](https://github.com/ytti/oxidized) - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
-- [RANCID](www.shrubbery.net/rancid) - RANCID monitors a router's (or more generally a device's) configuration, including software and hardware (cards, serial numbers, etc) and uses CVS (Concurrent Version System), Subversion or Git to maintain history of changes.
+- [RANCID](http://www.shrubbery.net/rancid) - RANCID monitors a router's (or more generally a device's) configuration, including software and hardware (cards, serial numbers, etc) and uses CVS (Concurrent Version System), Subversion or Git to maintain history of changes.
 - [Sweet](https://github.com/AppliedTrust/sweet) - Network device configuration backups and change alerts for the 21st century - inspired by RANCID!
 - [Unimus](https://unimus.net) - Configuration backup with an easy to use Web GUI. From nothing to backing-up 1000 routers in 15 minutes.
 
