@@ -313,6 +313,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 - [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561) - This pocket guide is the perfect on-the-job companion to Git, the distributed version control system. It provides a compact, readable introduction to Git for new users, as well as a reference to common commands and procedures for those of you with Git experience.
 - [Mastering Python Networking](https://www.packtpub.com/networking-and-servers/mastering-python-networking?utm_source=github&utm_medium=repository&utm_campaign=9781784397005) - Become an expert in implementing advanced, network-related tasks with Python.
 - [Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do) - Skills for the Next-Generation Network Engineer.
+- [Network Automation at Scale](http://www.oreilly.com/webops-perf/free/network-automation-at-scale.csp) - Free ebook from O'Reilly.
 
 # Vendor Agnostic Products
 - [Anuta Networks](http://www.anutanetworks.com/ncx-overview/) - Anuta NCX delivers network service orchestration for greenfield and brownfield deployments. NCX is an intent-driven platform with YANG service models for multiple domains such as Branch/CPE, Data Center, Virtual MPLS, Carrier Core Networks and Cloud Interconnects. NCX has built-in YANG device models for PNFs and VNFs from 35+ industry leading vendors supporting hundreds of L2-L7 network functions using CLI, NETCONF, YANG, REST and SNMP. See the complete [list](http://www.anutanetworks.com/managed-devices/).
