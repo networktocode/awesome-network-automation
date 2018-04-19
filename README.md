@@ -209,11 +209,11 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 ## Library
 
  - [Apstra's Aeon-ZTPS](https://github.com/Apstra/aeon-ztps) - Aeon-ZTPS is a universal Zero-Touch-Provisioning server for data center infrastructure systems at b.  Currently supports the bootstraping of Arista EOS, Cisco NX-OS, and Cumulus Linux.
- - [FreeZTP](https://github.com/PackeTsar/freeztp) - FreeZTP is an open-source Zero-Touch Provisioning system for Cisco IOS campus switches and routers.
  - [Capirca](https://github.com/google/capirca) - Multi-platform ACL generation system; can output Juniper/IOS/etc ACLs from the same policy.
  - [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations.
  - [Condoor](https://github.com/kstaniek/condoor) - This is a python module providing access to Cisco devices over Telnet and SSH.
  - [EasySNMP](https://github.com/kamakazikamikaze/easysnmp) - Easy to use and very fast SNMP library that uses Net-SNMP.
+ - [FreeZTP](https://github.com/PackeTsar/freeztp) - FreeZTP is an open-source Zero-Touch Provisioning system for Cisco IOS campus switches and routers.
  - [JINJA2](http://jinja.pocoo.org/) - Jinja2 is a full featured template engine for Python.
  - [Napalm](https://github.com/napalm-automation/napalm) - NAPALM (Network Automation and Programmability Abstraction Layer with Multivendor support) is a Python library that implements a set of functions to interact with different router vendor devices using a unified API.
  - [netaddr](https://github.com/drkjam/netaddr) - Network address manipulation that supports a number of techniques (supernetting and subnetting).
