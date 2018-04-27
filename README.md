@@ -209,7 +209,9 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 ## Library
 
  - [Apstra's Aeon-ZTPS](https://github.com/Apstra/aeon-ztps) - Aeon-ZTPS is a universal Zero-Touch-Provisioning server for data center infrastructure systems at b.  Currently supports the bootstraping of Arista EOS, Cisco NX-OS, and Cumulus Linux.
+ - [Brigade](https://github.com/brigade-automation/brigade) - Brigade is a pure Python automation framework intented to be used directly from Python.
  - [Capirca](https://github.com/google/capirca) - Multi-platform ACL generation system; can output Juniper/IOS/etc ACLs from the same policy.
+ - [ciscocmd](https://github.com/eczema/ciscocmd-cosi) - Tcl/Expect script to send commands to multiple IOS devices.
  - [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations.
  - [Condoor](https://github.com/kstaniek/condoor) - This is a python module providing access to Cisco devices over Telnet and SSH.
  - [EasySNMP](https://github.com/kamakazikamikaze/easysnmp) - Easy to use and very fast SNMP library that uses Net-SNMP.
@@ -218,6 +220,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
  - [Napalm](https://github.com/napalm-automation/napalm) - NAPALM (Network Automation and Programmability Abstraction Layer with Multivendor support) is a Python library that implements a set of functions to interact with different router vendor devices using a unified API.
  - [netaddr](https://github.com/drkjam/netaddr) - Network address manipulation that supports a number of techniques (supernetting and subnetting).
  - [Netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices.
+ - [SEC - Simple Event Correlator](http://simple-evcorr.github.io/) - SEC is an event correlation tool for advanced event processing which can be harnessed for event log monitoring, for network and security management, for fraud detection, and for any other task which involves event correlation.
  - [TextFSM](https://github.com/google/textfsm) - Python module for parsing semi-structured text into python tables.
 
 ## Non-Core Ansible Modules
