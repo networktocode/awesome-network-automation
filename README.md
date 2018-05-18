@@ -278,6 +278,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
  - [EVE-NG](http://www.eve-ng.com/) - The Emulated Virtual Environment for Network, Security and DevOps professionals.
  - [GNS3](https://www.gns3.com/) - Graphical Network Simulator-3.
  - [Mininet](http://mininet.org/) - Mininet creates a realistic virtual network, running real kernel, switch and application code, on a single machine (VM, cloud or native), in seconds, with a single command.
+ - [Network-Conditions-Emulator](https://github.com/marty90/Network-Conditions-Emulator) - Artificially limit bandwidth, delay and loss rate on selected interfaces.
  - [UNetLab](http://www.routereflector.com/unetlab/) - Unified Networking Lab.
  - [VIRL](https://learningnetwork.cisco.com/groups/virl) - Cisco Virtual Internet Routing Lab.
 
