@@ -209,7 +209,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 ## Library
 
  - [Apstra's Aeon-ZTPS](https://github.com/Apstra/aeon-ztps) - Aeon-ZTPS is a universal Zero-Touch-Provisioning server for data center infrastructure systems at b.  Currently supports the bootstraping of Arista EOS, Cisco NX-OS, and Cumulus Linux.
- - [Brigade](https://github.com/brigade-automation/brigade) - Brigade is a pure Python automation framework intented to be used directly from Python.
+ - [Nornir](https://github.com/nornir-automation/nornir) - Nornir is a pure Python automation framework intented to be used directly from Python.
  - [Capirca](https://github.com/google/capirca) - Multi-platform ACL generation system; can output Juniper/IOS/etc ACLs from the same policy.
  - [ciscocmd](https://github.com/eczema/ciscocmd-cosi) - Tcl/Expect script to send commands to multiple IOS devices.
  - [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations.
