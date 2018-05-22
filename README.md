@@ -195,7 +195,6 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
  - [Stackstorm Docs](https://docs.stackstorm.com) - Latest Version Documentation.
  - [StackStorm Intro on Software Gone Wild](http://blog.ipspace.net/2016/11/stackstorm-101-on-software-gone-wild.html) - SGW team talk with StackStorm (including Matt Oswalt) to discuss StackStorm.
 
-
 ## Products
 
  - [eNMS](https://github.com/afourmy/eNMS) - A vendor-agnostic NMS for carrier-grade network visualization and network automation.
@@ -222,6 +221,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
  - [Netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices.
  - [SEC - Simple Event Correlator](http://simple-evcorr.github.io/) - SEC is an event correlation tool for advanced event processing which can be harnessed for event log monitoring, for network and security management, for fraud detection, and for any other task which involves event correlation.
  - [TextFSM](https://github.com/google/textfsm) - Python module for parsing semi-structured text into python tables.
+ - [Hierarchical Configuration](https://github.com/netdevops/hier_config) - Hierarchical Configuration is a python library that is able to take a running configuration of a network device, compare it to its intended configuration, and build the remediation steps necessary bring a device into spec with its intended configuration.
 
 ## Non-Core Ansible Modules
 
