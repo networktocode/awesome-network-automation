@@ -132,7 +132,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 
 ## Python
 
- - [Learn Python the Hardway](https://learnpythonthehardway.org) - Learn Python The Hard Way takes you from absolute zero to able to read and write basic Python to then understand other books on Python. 
+ - [Learn Python the Hardway](https://learnpythonthehardway.org) - Learn Python The Hard Way takes you from absolute zero to able to read and write basic Python to then understand other books on Python.
  - [Python at CodeAcademy](https://www.codecademy.com/learn/learn-python) - Learn Python by Codecademy.
  - [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
  - [Python Programming Guides and Tutorials - Python Central](http://pythoncentral.io/) - The site's blog authors are experienced Python programmers and enthusiasts from all over the globe, eager to share their know-how about the scripting language.
@@ -325,6 +325,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 - [Apstra](http://www.apstra.com/products/) - The Apstra Operating System (AOS) is a vendor-agnostic distributed operating system for the data center network that enables business agility, dramatically scales operational efficiency, and reduces downtime.
 - [Glue](http://gluenetworks.com/about-us-the-glue-team/) - With Gluware, the Glue Networks vision and team are continuing to trail-blaze at the forefront of the networking industry with multi-vendor orchestration solutions for Data Center, WAN and LAN networks.
 - [Intelliment](http://www.intellimentsec.com/) - Intelliment Security helps Network Operations teams to provide an application connectivity self-service for their agile customers, reducing firewall policy provisioning time while avoiding mistakes and ensuring the continuous enforcement of compliance guidelines. Inteliment works across both physical legacy infrastructure and virtualized silos, allowing them speak to each other.
+- [NetYCE](https://netyce.com/) NetYCE lets you be in control of any and all of your networks, using its unique Design Driven Networking approach. Not stopping at network devices, but orchestrate end-to-end including firewalls, DDI (DNS, DHCP, IPAM) and other 3rd party tooling. Deploy your networks as Designed.
 - [PacketFront](https://pfsw.com/resources/network-orchestration/) - PacketFront BECS and BBE is a vendor-agnostic network, service and resource orcestration system for residential, enterprise and data center networks.
 
 # Network Vendor Products
