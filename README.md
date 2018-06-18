@@ -365,5 +365,5 @@ This list is just getting started, please contribute to make it super awesome.
 
 # License
 
-Licensed under the Apache License, Version 2.0, see LICENSE file for more detail.
+Licensed under the Creative Commons 4.0 License, see LICENSE file for more detail.
 
