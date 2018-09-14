@@ -260,6 +260,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 - [BGP-Dashboard](https://github.com/rhicks/bgp-dashboard) - BGP Dashboard and Monitoring Web Application.
 - [Drawthe.net](https://github.com/cidrblock/drawthe.net) - Draw network diagrams described in YAML files.
 - [napalm-logs](https://github.com/napalm-automation/napalm-logs) - Cross-vendor normalisation for network syslog messages, following the OpenConfig and IETF YANG models.
+- [Network-Conditions-Emulator](https://github.com/marty90/Network-Conditions-Emulator) - Artificially limit bandwidth, delay and loss rate on selected interfaces.
 - [Net-Config](https://github.com/SLAC/net-config/) - Automation framework for network devices.
 - [NetCopa](https://github.com/cidrblock/netcopa) - Network device configuration parser ("industry standard" -> YAML converter).
 - [NetSpark-Scripts](https://github.com/admiralspark/NetSpark-Scripts) - Netmiko-based scripts to assist the Network Administrators and Engineers of the world!
@@ -279,7 +280,6 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
  - [EVE-NG](http://www.eve-ng.com/) - The Emulated Virtual Environment for Network, Security and DevOps professionals.
  - [GNS3](https://www.gns3.com/) - Graphical Network Simulator-3.
  - [Mininet](http://mininet.org/) - Mininet creates a realistic virtual network, running real kernel, switch and application code, on a single machine (VM, cloud or native), in seconds, with a single command.
- - [Network-Conditions-Emulator](https://github.com/marty90/Network-Conditions-Emulator) - Artificially limit bandwidth, delay and loss rate on selected interfaces.
  - [UNetLab](http://www.routereflector.com/unetlab/) - Unified Networking Lab.
  - [VIRL](https://learningnetwork.cisco.com/groups/virl) - Cisco Virtual Internet Routing Lab.
 
@@ -324,7 +324,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 # Vendor Agnostic Products
 - [Anuta Networks](http://www.anutanetworks.com/ncx-overview/) - Anuta NCX delivers network service orchestration for greenfield and brownfield deployments. NCX is an intent-driven platform with YANG service models for multiple domains such as Branch/CPE, Data Center, Virtual MPLS, Carrier Core Networks and Cloud Interconnects. NCX has built-in YANG device models for PNFs and VNFs from 35+ industry leading vendors supporting hundreds of L2-L7 network functions using CLI, NETCONF, YANG, REST and SNMP. See the complete [list](http://www.anutanetworks.com/managed-devices/).
 - [Apstra](http://www.apstra.com/products/) - The Apstra Operating System (AOS) is a vendor-agnostic distributed operating system for the data center network that enables business agility, dramatically scales operational efficiency, and reduces downtime.
-- [Cisco NSO](http://cisco.com/go/nso) - NSO (former Tail-f NCS) is a multi-vendor automation and orchestration platform for physical and virtual networks. NSO provides YANG-based programmability through a wide variety of interfaces including CLI, RESTCONF, NETCONF, Java, Python and web UI. NSO supports 80+ vendors out of the box and is used in large-scale production for a wide variety of services ranging from simple automation to self-service portals in front of some of the worlds largest networks.
+- [Cisco NSO](http://cisco.com/go/nso) - NSO (former Tail-f NCS) is a multi-vendor automation and orchestration platform for physical and virtual networks for over 80+ vendors. NSO provides YANG-based programmability through a wide variety of interfaces including CLI, RESTCONF, NETCONF, Java, Python and web UI.
 - [Glue](http://gluenetworks.com/about-us-the-glue-team/) - With Gluware, the Glue Networks vision and team are continuing to trail-blaze at the forefront of the networking industry with multi-vendor orchestration solutions for Data Center, WAN and LAN networks.
 - [Intelliment](http://www.intellimentsec.com/) - Intelliment Security helps Network Operations teams to provide an application connectivity self-service for their agile customers, reducing firewall policy provisioning time while avoiding mistakes and ensuring the continuous enforcement of compliance guidelines. Inteliment works across both physical legacy infrastructure and virtualized silos, allowing them speak to each other.
 - [NetYCE](https://netyce.com/) NetYCE lets you be in control of any and all of your networks, using its unique Design Driven Networking approach. Not stopping at network devices, but orchestrate end-to-end including firewalls, DDI (DNS, DHCP, IPAM) and other 3rd party tooling. Deploy your networks as Designed.
@@ -351,6 +351,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 - [Packet Pushers Show 351](http://packetpushers.net/podcast/podcasts/show-351-design-build-13-network-orchestration-salt/) -  Design & Build 13: Network Orchestration with Salt.
 - [Packet Pushers Show 353](http://packetpushers.net/podcast/podcasts/show-353-business-impact-network-automation/) - The Business Impact Of Network Automation.
 - [Packet Pushers Show 368](http://packetpushers.net/podcast/podcasts/show-368-radical-change-devops-automation/) - Show 368: Radical Change, DevOps & Automation.
+- [Packet Pushers Show 402](https://packetpushers.net/podcast/weekly-show-402-building-a-network-automation-framework/) - Show 402 - Building A Network Automation Framework
 - [Packet Pushers PQ Show 81](http://packetpushers.net/podcast/podcasts/pq-show-81-network-testing-todd/) - Network Testing With ToDD.
 - [Packet Pushers PQ Show 99](http://packetpushers.net/podcast/podcasts/pq-show-99-netmiko-napalm-network-automation/) - Netmiko & NAPALM For Network Automation.
 - [Packet Pushers PQ Show 116](http://packetpushers.net/podcast/podcasts/pq-show-116-practical-yang-network-automation/) - Practical YANG For Network Automation.
@@ -358,6 +359,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 - [Packet Pushers PQ Show 198](http://packetpushers.net/podcast/podcasts/show-198-kirk-byers-network-automation-python-ansible/) - Kirk Byers on Network Automation with Python & Ansible.
 - [Podcast__init Episode 117](https://www.podcastinit.com/napalm-with-david-barosso-and-mircea-ulinic-episode-117/) - NAPALM with David Barroso and Mircea Ulinic.
 - [Talk Python to me #128](https://talkpython.fm/episodes/embed_details/128) - Pythonic Networks with NAPALM.
+- [Talk Python to me #175](https://talkpython.fm/episodes/show/175/teaching-python-to-network-engineers) - Teaching Python to network engineers
 
 # Contributing
 
