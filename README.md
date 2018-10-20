@@ -14,6 +14,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
   - [Open Source Projects](#open-source-projects)
   - [Hypervisors and Containers](#hypervisors-and-containers)
   - [Network Emulators](#network-emulators)
+  - [Network Simulators](#network-simulators)
   - [Backups](#backups)
   - [IPAM](#ipam)
   - [Configuration Management](#configuration-management)
@@ -270,6 +271,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 - [napalm-logs](https://github.com/napalm-automation/napalm-logs) - Cross-vendor normalisation for network syslog messages, following the OpenConfig and IETF YANG models.
 - [Network-Conditions-Emulator](https://github.com/marty90/Network-Conditions-Emulator) - Artificially limit bandwidth, delay and loss rate on selected interfaces.
 - [Net-Config](https://github.com/SLAC/net-config/) - Automation framework for network devices.
+- [netconan](https://github.com/intentionet/netconan) - Network Configuration Anonymizer
 - [NetCopa](https://github.com/cidrblock/netcopa) - Network device configuration parser ("industry standard" -> YAML converter).
 - [NetSpark-Scripts](https://github.com/admiralspark/NetSpark-Scripts) - Netmiko-based scripts to assist the Network Administrators and Engineers of the world!
 - [NetTools](https://github.com/crisponions/NetTools) - Simple network python scripts.
@@ -292,7 +294,10 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
  - [VIRL](https://learningnetwork.cisco.com/groups/virl) - Cisco Virtual Internet Routing Lab.
  
 # Network Simulators
- - [Batfish](https://github.com/batfish/batfish) - Batfish provides a model-based network simulation, for multi-vendor networks, that enables analysis of any routing, forwarding, security, compliance, etc... of a network.
+ - [Batfish](https://github.com/batfish/batfish) - Batfish provides a model-based simulation for multi-vendor networks, that enables routing, forwarding, security, compliance, and what-if scenario analysis of a network (or proposed change to a network).
+ - [Cisco WAN Automation Engine](https://www.cisco.com/c/en/us/products/routers/wae-planning/index.html) - Cisco WAE, formerly known as Cariden MATE, provides a multi-vendor network simulation that enables capacity planning and what-if scenario analysis for carrier networks.
+ - [Juniper WANDL](https://www.juniper.net/us/en/products-services/sdn/wandl/) - Juniper WANDL provides traffic engineering
+models that enable capacity planning, network optimization and what-if scenario analysis for carrier networks.
 
 # Backups
 
