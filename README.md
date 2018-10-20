@@ -169,7 +169,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 
 ## Batfish
 
- - Getting Started with Batfish:
+ - Getting Started with Batfish
     - [Documentation](https://github.com/batfish/batfish)
     - [Jupyter Notebook](https://github.com/batfish/pybatfish/blob/master/jupyter_notebooks/Getting%20started%20with%20Batfish.ipynb)
     - [Video](https://www.youtube.com/watch?v=Ca7kPAtfFqo)
