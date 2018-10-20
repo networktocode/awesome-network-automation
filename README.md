@@ -168,11 +168,11 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
  - [Sample network automation Ansible playbooks](https://github.com/ipspace/ansible-examples) - Ansible playbooks geared torwards network engineers, curtosey of Ivan Pepelnjak.
 
 ## Batfish
- - [Website](http://bit.ly/2R0Mefx)
+ - [Home Page](http://bit.ly/2R0Mefx) - Batfish.org home page with tutorials, talks and technical papers detailing the research behind Batfish.
  - Getting Started with Batfish
-    - [Documentation](https://github.com/batfish/batfish)
-    - [Jupyter Notebook](https://github.com/batfish/pybatfish/blob/master/jupyter_notebooks/Getting%20started%20with%20Batfish.ipynb)
-    - [Video](https://www.youtube.com/watch?v=Ca7kPAtfFqo)
+    - [Documentation](https://github.com/batfish/batfish) - Getting Started Documentation for Batfish.
+    - [Jupyter Notebook](https://github.com/batfish/pybatfish/blob/master/jupyter_notebooks/Getting%20started%20with%20Batfish.ipynb) - Jupyter Notebook showing how to use Batfish.
+    - [Video](https://www.youtube.com/watch?v=Ca7kPAtfFqo) - YouTube video explaining how to get started with Batfish.
  
 ## Chef
 
@@ -265,7 +265,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 ## Tools
 
 - [BGP-Dashboard](https://github.com/rhicks/bgp-dashboard) - BGP Dashboard and Monitoring Web Application.
-- [Batfish](https://github.com/batfish/batfish) - Open-source network validation application. Multi-vendor configuration parser with a detailed modeled based simulation to analyze all aspects of network behavior (routing, forwarding, security, etc...)
+- [Batfish](https://github.com/batfish/batfish) - Open-source network validation application. Multi-vendor configuration parser with a detailed modeled based simulation to analyze all aspects of network behavior (routing, forwarding, security, etc...).
 - [Drawthe.net](https://github.com/cidrblock/drawthe.net) - Draw network diagrams described in YAML files.
 - [napalm-logs](https://github.com/napalm-automation/napalm-logs) - Cross-vendor normalisation for network syslog messages, following the OpenConfig and IETF YANG models.
 - [Network-Conditions-Emulator](https://github.com/marty90/Network-Conditions-Emulator) - Artificially limit bandwidth, delay and loss rate on selected interfaces.
@@ -290,6 +290,9 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
  - [Mininet](http://mininet.org/) - Mininet creates a realistic virtual network, running real kernel, switch and application code, on a single machine (VM, cloud or native), in seconds, with a single command.
  - [UNetLab](http://www.routereflector.com/unetlab/) - Unified Networking Lab.
  - [VIRL](https://learningnetwork.cisco.com/groups/virl) - Cisco Virtual Internet Routing Lab.
+ 
+# Network Simulators
+ - [Batfish](https://github.com/batfish/batfish) - Batfish provides a model-based network simulation, for multi-vendor networks, that enables analysis of any routing, forwarding, security, compliance, etc... of a network.
 
 # Backups
 
