@@ -14,6 +14,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
   - [Open Source Projects](#open-source-projects)
   - [Hypervisors and Containers](#hypervisors-and-containers)
   - [Network Emulators](#network-emulators)
+  - [Network Simulators](#network-simulators)
   - [Backups](#backups)
   - [IPAM](#ipam)
   - [Configuration Management](#configuration-management)
@@ -167,6 +168,13 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
  - [Getting Started with the ios_config Ansible Module](https://www.youtube.com/watch?v=WXLUgDmvHDI) - Getting Started with the ios_config Ansible Module.
  - [Sample network automation Ansible playbooks](https://github.com/ipspace/ansible-examples) - Ansible playbooks geared torwards network engineers, curtosey of Ivan Pepelnjak.
 
+## Batfish
+ - [Home Page](http://bit.ly/2R0Mefx) - Batfish.org home page with tutorials, talks and technical papers detailing the research behind Batfish.
+ - Getting Started with Batfish
+    - [Documentation](https://github.com/batfish/batfish) - Getting Started Documentation for Batfish.
+    - [Jupyter Notebook](https://github.com/batfish/pybatfish/tree/master/jupyter_notebooks) - Jupyter Notebooks showing how to use Batfish for configuration, ACL, routing, forwarding, etc... analysis.
+    - [Video](https://www.youtube.com/playlist?list=PLUXUN_5CNTWJeMUqbUFcdi2qPnm_2mit3) - YouTube videos explaining how to use Batfish.
+ 
 ## Chef
 
  - [Using Chef Client with Cisco NX-OS](https://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus9000/sw/7-x/programmability/guide/b_Cisco_Nexus_9000_Series_NX-OS_Programmability_Guide_7x/b_Cisco_Nexus_9000_Series_NX-OS_Programmability_Guide_7x_chapter_01110.html) - Using Chef Client with Cisco NX-OS
@@ -258,10 +266,12 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 ## Tools
 
 - [BGP-Dashboard](https://github.com/rhicks/bgp-dashboard) - BGP Dashboard and Monitoring Web Application.
+- [Batfish](https://github.com/batfish/batfish) - Open-source network validation application. Multi-vendor configuration parser with a detailed modeled based simulation to analyze all aspects of network behavior (routing, forwarding, security, etc...).
 - [Drawthe.net](https://github.com/cidrblock/drawthe.net) - Draw network diagrams described in YAML files.
 - [napalm-logs](https://github.com/napalm-automation/napalm-logs) - Cross-vendor normalisation for network syslog messages, following the OpenConfig and IETF YANG models.
 - [Network-Conditions-Emulator](https://github.com/marty90/Network-Conditions-Emulator) - Artificially limit bandwidth, delay and loss rate on selected interfaces.
 - [Net-Config](https://github.com/SLAC/net-config/) - Automation framework for network devices.
+- [netconan](https://github.com/intentionet/netconan) - Network Configuration Anonymizer
 - [NetCopa](https://github.com/cidrblock/netcopa) - Network device configuration parser ("industry standard" -> YAML converter).
 - [NetSpark-Scripts](https://github.com/admiralspark/NetSpark-Scripts) - Netmiko-based scripts to assist the Network Administrators and Engineers of the world!
 - [NetTools](https://github.com/crisponions/NetTools) - Simple network python scripts.
@@ -282,6 +292,12 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
  - [Mininet](http://mininet.org/) - Mininet creates a realistic virtual network, running real kernel, switch and application code, on a single machine (VM, cloud or native), in seconds, with a single command.
  - [UNetLab](http://www.routereflector.com/unetlab/) - Unified Networking Lab.
  - [VIRL](https://learningnetwork.cisco.com/groups/virl) - Cisco Virtual Internet Routing Lab.
+ 
+# Network Simulators
+ - [Batfish](https://github.com/batfish/batfish) - Batfish provides a model-based simulation for multi-vendor networks, that enables routing, forwarding, security, compliance, and what-if scenario analysis of a network (or proposed change to a network).
+ - [Cisco WAN Automation Engine](https://www.cisco.com/c/en/us/products/routers/wae-planning/index.html) - Cisco WAE, formerly known as Cariden MATE, provides a multi-vendor network simulation that enables capacity planning and what-if scenario analysis for carrier networks.
+ - [Juniper WANDL](https://www.juniper.net/us/en/products-services/sdn/wandl/) - Juniper WANDL provides traffic engineering
+models that enable capacity planning, network optimization and what-if scenario analysis for carrier networks.
 
 # Backups
 
@@ -327,6 +343,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 - [Cisco NSO](http://cisco.com/go/nso) - NSO (former Tail-f NCS) is a multi-vendor automation and orchestration platform for physical and virtual networks for over 80+ vendors. NSO provides YANG-based programmability through a wide variety of interfaces including CLI, RESTCONF, NETCONF, Java, Python and web UI.
 - [Glue](http://gluenetworks.com/about-us-the-glue-team/) - With Gluware, the Glue Networks vision and team are continuing to trail-blaze at the forefront of the networking industry with multi-vendor orchestration solutions for Data Center, WAN and LAN networks.
 - [Intelliment](http://www.intellimentsec.com/) - Intelliment Security helps Network Operations teams to provide an application connectivity self-service for their agile customers, reducing firewall policy provisioning time while avoiding mistakes and ensuring the continuous enforcement of compliance guidelines. Inteliment works across both physical legacy infrastructure and virtualized silos, allowing them speak to each other.
+- [Intentionet](http://www.intentionet.com/) - Intentionet provides a hosted or on-premise network validation software solution based on [Batfish](http://www.batfish.org). Intentionet Sage's model-based network simulation enables pre-commit validation for all network changes, ensuring only correct changes are pushed to the network, thereby reducing outages and breaches while improving network agility.
 - [NetYCE](https://netyce.com/) NetYCE lets you be in control of any and all of your networks, using its unique Design Driven Networking approach. Not stopping at network devices, but orchestrate end-to-end including firewalls, DDI (DNS, DHCP, IPAM) and other 3rd party tooling. Deploy your networks as Designed.
 - [PacketFront](https://pfsw.com/resources/network-orchestration/) - PacketFront BECS and BBE is a vendor-agnostic network, service and resource orcestration system for residential, enterprise and data center networks.
 
