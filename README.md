@@ -168,7 +168,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
  - [Sample network automation Ansible playbooks](https://github.com/ipspace/ansible-examples) - Ansible playbooks geared torwards network engineers, curtosey of Ivan Pepelnjak.
 
 ## Batfish
-
+ - [Website](http://bit.ly/2R0Mefx)
  - Getting Started with Batfish
     - [Documentation](https://github.com/batfish/batfish)
     - [Jupyter Notebook](https://github.com/batfish/pybatfish/blob/master/jupyter_notebooks/Getting%20started%20with%20Batfish.ipynb)
