@@ -85,6 +85,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 - [Project 10](https://projectme10.wordpress.com) - The Network Automation thoughts of Gabriele Gerbino.
 - [Python for Network Engineers](https://pynet.twb-tech.com/) - Articles on Netmiko, NAPALM, and Ansible by Kirk Byers.
 - [Scott Lowe](http://blog.scottlowe.org) - The Network Automation thoughts of Scott Lowe.
+- [Eric Chou - PythonicNetneg](http://blog.pythonicneteng.com/) - The Network Automation thoughts of Eric Chou.
 
 # Programming Topics
 
@@ -333,7 +334,7 @@ models that enable capacity planning, network optimization and what-if scenario 
 
 - [Ansible: Up and Running](http://shop.oreilly.com/product/0636920035626.do) - Automating Configuration Management and Deployment the Easy Way.
 - [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561) - This pocket guide is the perfect on-the-job companion to Git, the distributed version control system. It provides a compact, readable introduction to Git for new users, as well as a reference to common commands and procedures for those of you with Git experience.
-- [Mastering Python Networking](https://www.packtpub.com/networking-and-servers/mastering-python-networking?utm_source=github&utm_medium=repository&utm_campaign=9781784397005) - Become an expert in implementing advanced, network-related tasks with Python.
+- [Mastering Python Networking Second Edition (August 2018)](https://amzn.to/2PkMRiZ), [First Edition (June 2017 with more SDN-related topics)](https://amzn.to/2NBjlVM) - Become an expert in implementing advanced, network-related tasks with Python.
 - [Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do) - Skills for the Next-Generation Network Engineer.
 - [Network Automation at Scale](http://www.oreilly.com/webops-perf/free/network-automation-at-scale.csp) - An introduction and practical look at using Salt to automate your network at scale, in a free ebook from O'Reilly.
 
