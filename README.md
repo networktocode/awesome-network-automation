@@ -315,9 +315,11 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 
 # Books
 
-- [Ansible: Up and Running](http://shop.oreilly.com/product/0636920035626.do) - Automating Configuration Management and Deployment the Easy Way.
 - [Ansible for Devops](https://www.ansiblefordevops.com/) - Learn Ansible concepts from an industry leading Ansible expert, with associated Vagrant files for ease of learning
+- [Ansible: Up and Running](http://shop.oreilly.com/product/0636920035626.do) - Automating Configuration Management and Deployment the Easy Way.
 - [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561) - This pocket guide is the perfect on-the-job companion to Git, the distributed version control system. It provides a compact, readable introduction to Git for new users, as well as a reference to common commands and procedures for those of you with Git experience.
+- [Effective DevOps](https://www.amazon.com/Effective-DevOps-Building-Collaboration-Affinity/dp/1491926309/) - Learn cultural and organizational best practices on how to make a good DevOps team
+- [Infrastructure as Code](https://www.amazon.com/Infrastructure-Code-Managing-Servers-Cloud/dp/1491924357) - Learn the Infra as Code principles and design patterns (examples are for Compute not network though)
 - [Mastering Python Networking](https://www.packtpub.com/networking-and-servers/mastering-python-networking?utm_source=github&utm_medium=repository&utm_campaign=9781784397005) - Become an expert in implementing advanced, network-related tasks with Python.
 - [Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do) - Skills for the Next-Generation Network Engineer.
 - [Network Automation at Scale](http://www.oreilly.com/webops-perf/free/network-automation-at-scale.csp) - An introduction and practical look at using Salt to automate your network at scale, in a free ebook from O'Reilly.
@@ -325,8 +327,6 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 - [Seeking SRE: Conversations About Running Production Systems at Scale](https://www.amazon.com/Seeking-SRE-Conversations-Running-Production/dp/1491978864) - Learn from the best practices of SRE practitioners who are not working at Google
 - [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/) - Learn the concepts of Agile and DevOps principles
 - [The Phoenix Project](https://itrevolution.com/book/the-phoenix-project/) - See the concepts of Agile and DevOps in this fiction story about a typical IT Org
-- [Infrastructure as Code](https://www.amazon.com/Infrastructure-Code-Managing-Servers-Cloud/dp/1491924357) - Learn the Infra as Code principles and design patterns (examples are for Compute not network though)
-- [Effective DevOps](https://www.amazon.com/Effective-DevOps-Building-Collaboration-Affinity/dp/1491926309/) - Learn cultural and organizational best practices on how to make a good DevOps team
 
 # Vendor Agnostic Products
 - [Anuta Networks](http://www.anutanetworks.com/ncx-overview/) - Anuta NCX delivers network service orchestration for greenfield and brownfield deployments. NCX is an intent-driven platform with YANG service models for multiple domains such as Branch/CPE, Data Center, Virtual MPLS, Carrier Core Networks and Cloud Interconnects. NCX has built-in YANG device models for PNFs and VNFs from 35+ industry leading vendors supporting hundreds of L2-L7 network functions using CLI, NETCONF, YANG, REST and SNMP. See the complete [list](http://www.anutanetworks.com/managed-devices/).
