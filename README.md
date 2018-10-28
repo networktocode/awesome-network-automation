@@ -53,6 +53,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 # Training
 
 - [IP Space](http://www.ipspace.net/Training) - On ipSpace.net you'll find numerous courses, webinars, and videos covering SDN, network automation, cloud computing, virtualization technologies, IPv6 and VPNs.
+- [Network Programmability Basics](https://developer.cisco.com/video/net-prog-basics/) - Jumpstart your journey into network programmability with this expert-led video course by Cisco DevNet.
 - [Network to Code](http://networktocode.com/products/training/) - Network Automation Training including Python, Ansible, DevOps, and much more.
 - [Mircea Ulinic](http://mirceaulinic.us14.list-manage1.com/subscribe?u=4d3e65e9c470a62dc341ce797&id=bd27d97b29) - Learn more about cross-vendor event-driven network automation and orchestration.
 - [Python for Network Engineers](https://pynet.twb-tech.com/class.html) - You will learn skills that make you better at network automation and that improve your capability to use programming to scale your work.
