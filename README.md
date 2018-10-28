@@ -1,6 +1,6 @@
 # Awesome Network Automation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Network Automation is cross between two disciplines of Infrastructure Networks and Programming, this list was created to as a one-stop shop to find the information.
+Network Automation is a cross between the discipline of Network Infrastructure and the discipline of Programming. This list was created to serve as a one-stop shop to find information related to Network Automation.
 
 # Contents
 
@@ -27,13 +27,13 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 
 # Community
 
-- [Ansible Google Groups](https://groups.google.com/forum/#!forum/ansible-project) - Welcome to Ansible's mailing list / forum!
-- [Chef Community](https://www.chef.io/community/) - The complete offical list of Chef Community resources.
+- [Ansible Google Groups](https://groups.google.com/forum/#!forum/ansible-project) - Ansible's mailing list and forum!
 - [IRC Ansible](http://docs.ansible.com/ansible/community.html#irc-channel) - Ansible IRC Channels.
-- [Network to Code Slack](http://slack.networktocode.com) - NTC Slack is the home/pseudo-home to many popular repo's (NAPALM/netmiko/netbox/nsot) and over 4000 members around Network Automation.
+- [Chef Community](https://www.chef.io/community/) - The complete offical list of Chef Community resources.
+- [Network to Code Slack](http://slack.networktocode.com) - The NTC Slack is a home/pseudo-home to many popular Network Automation solution repositories, such as NAPALM, Netmiko, NetBox, NSoT, and so on. Over 4,000 members meet here to discuss topics related to Network Automation.
 - [Puppet Community](https://puppet.com/community) - The complete offical list of Puppet Community resources.
 - [Salt Formulas](https://groups.google.com/forum/#!forum/salt-formulas) - The SaltStack formulas working group.
-- [Salt Networks](https://groups.google.com/forum/#!forum/salt-networks) - The goal of this group is to have a central place to communicate goals about network device automation with SaltStack.
+- [Salt Networks](https://groups.google.com/forum/#!forum/salt-networks) - A centralized group for talking about network device automation with SaltStack.
 - [Salt Users](https://groups.google.com/forum/#!forum/salt-users) - The official forum of the Salt community.
 
 # Events / Meetup
@@ -52,11 +52,11 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 
 # Training
 
-- [IP Space](http://www.ipspace.net/Training) - On ipSpace.net you'll find numerous courses, webinars, and videos covering SDN, network automation, cloud computing, virtualization technologies, IPv6 and VPNs.
+- [IP Space](http://www.ipspace.net/Training) - Numerous courses, webinars, and videos covering SDN, network automation, cloud computing, virtualization technologies, IPv6, VPNs, and much more.
 - [Network to Code](http://networktocode.com/products/training/) - Network Automation Training including Python, Ansible, DevOps, and much more.
 - [Mircea Ulinic](http://mirceaulinic.us14.list-manage1.com/subscribe?u=4d3e65e9c470a62dc341ce797&id=bd27d97b29) - Learn more about cross-vendor event-driven network automation and orchestration.
-- [Python for Network Engineers](https://pynet.twb-tech.com/class.html) - You will learn skills that make you better at network automation and that improve your capability to use programming to scale your work.
-- [GNS3 Academy - Instructor David Bombal](http://academy.gns3.com/courses/author/12794) - Number of courses, but offer an inexpensive set of intros to Ansible for Network Engineers and Python for Network Engineers.
+- [Python for Network Engineers](https://pynet.twb-tech.com/class.html) - Learn skills that make you better at network automation and that improve your capability to use programming to scale your work.
+- [GNS3 Academy - Instructor David Bombal](http://academy.gns3.com/courses/author/12794) - Offers an inexpensive set of introductions to Ansible and Python for Network Engineers, among other courses.
 
 # Presentations
 
@@ -95,7 +95,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 
  - [Getting Started and Basics](http://www.yaml.org/start.html) - Introduction to YAML
  - [Online Validator](http://yaml-online-parser.appspot.com/) - Online YAML Parser.
- - [Sample YAML documents describing common data structures](https://github.com/ipspace/NetOpsWorkshop/tree/master/YAML) - YAML examples curtosey of Ivan Pepelnjak.
+ - [Sample YAML documents describing common data structures](https://github.com/ipspace/NetOpsWorkshop/tree/master/YAML) - YAML examples courtesy of Ivan Pepelnjak.
  - [YAML syntax validator](https://yamllint.readthedocs.io/en/latest/) - YAML online parser.
  - [YAML idiosyncrasies](https://docs.saltstack.com/en/latest/topics/troubleshooting/yaml_idiosyncrasies.html) -- Document with the most common YAML idiosyncrasies, hosted under the SaltStack docs, but not specific to Salt or any other tool.
 
@@ -112,7 +112,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 ### YANG
 
  - [IETF RFC](https://tools.ietf.org/html/rfc6020) - The IETF RFC on YANG.
- - [Cisco Labs YANG - 101](https://learninglabs.cisco.com/lab/yang-101/step/1) - Cisco yang introduction.
+ - [Cisco Labs YANG - 101](https://learninglabs.cisco.com/lab/yang-101/step/1) - Cisco YANG introduction.
  - [YANG for dummies](https://napalm-automation.net/yang-for-dummies/) - NAPALM YANG introduction.
 
 ### Jinja2
@@ -120,7 +120,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
  - [Documentation](http://jinja.pocoo.org/docs/2.10/templates/) - Base documentation for Jinja2.
  - [TD4a](https://td4a.now.sh) - Advanced online rendering tool.
  - [Online rendering tool](http://jinja2test.tk/) - Simple online rendering tool.
- - [Sample Jinja2 templates](https://github.com/ipspace/NetOpsWorkshop/tree/master/Jinja2) - Jinja examples curtosey of Ivan Pepelnjak.
+ - [Sample Jinja2 templates](https://github.com/ipspace/NetOpsWorkshop/tree/master/Jinja2) - Jinja examples courtesy of Ivan Pepelnjak.
 
 ## API
 
@@ -134,10 +134,10 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 
 ## Python
 
- - [Learn Python the Hardway](https://learnpythonthehardway.org) - Learn Python The Hard Way takes you from absolute zero to able to read and write basic Python to then understand other books on Python.
- - [Python at CodeAcademy](https://www.codecademy.com/learn/learn-python) - Learn Python by Codecademy.
+ - [Learn Python the Hardway](https://learnpythonthehardway.org) - Learn Python The Hard Way takes you from absolute zero to able to read and write basic Python, giving you the tools to understand other documentation and books about Python.
+ - [Python at Codecademy](https://www.codecademy.com/learn/learn-python) - Learn Python by Codecademy.
  - [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
- - [Python Programming Guides and Tutorials - Python Central](http://pythoncentral.io/) - The site's blog authors are experienced Python programmers and enthusiasts from all over the globe, eager to share their know-how about the scripting language.
+ - [Python Programming Guides and Tutorials - Python Central](http://pythoncentral.io/) - Experienced Python programmers and enthusiasts from around the world that are eager to share their experience.
 
 ## Go
 
@@ -166,8 +166,8 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 
 ## Ansible
 
- - [Getting Started with the ios_config Ansible Module](https://www.youtube.com/watch?v=WXLUgDmvHDI) - Getting Started with the ios_config Ansible Module.
- - [Sample network automation Ansible playbooks](https://github.com/ipspace/ansible-examples) - Ansible playbooks geared torwards network engineers, curtosey of Ivan Pepelnjak.
+ - [Getting Started with the ios_config Ansible Module](https://www.youtube.com/watch?v=WXLUgDmvHDI) - YouTube video by Jason Edelman of NetworkToCode introducing the ios_config Ansible module
+ - [Sample network automation Ansible playbooks](https://github.com/ipspace/ansible-examples) - Ansible playbooks geared towards network engineers, courtesy of Ivan Pepelnjak.
 
 ## Batfish
  - [Home Page](http://bit.ly/2R0Mefx) - Batfish.org home page with tutorials, talks and technical papers detailing the research behind Batfish.
@@ -201,7 +201,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
  - [StackStorm Repository](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation commonly used for auto-remediation, security responses, facilitated troubleshooting, complex deployments, and more. Includes rules engine, workflow, 1800+ integrations, native ChatOps and so forth.
  - [StackStorm Installer](http://docs.stackstorm.com/install/index.html) - Ready to install StackStorm? Here’s an overview of how to get your system up and running.
  - [StackStorm Youtube](https://www.youtube.com/channel/UCColc5CuBJ8-1SnALnkDz8Q) - Various intro, marketing, interviews, and technical product talks.
- - [Stackstorm Docs](https://docs.stackstorm.com) - Latest Version Documentation.
+ - [Stackstorm Docs](https://docs.stackstorm.com) - Documentation repository for latest version of StackStorm.
  - [StackStorm Intro on Software Gone Wild](http://blog.ipspace.net/2016/11/stackstorm-101-on-software-gone-wild.html) - SGW team talk with StackStorm (including Matt Oswalt) to discuss StackStorm.
 
 
@@ -209,7 +209,7 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 
  - [eNMS](https://github.com/afourmy/eNMS) - A vendor-agnostic NMS for carrier-grade network visualization and network automation.
  - [Netshot](http://www.netfishers.onl/netshot) - Network Configuration and Compliance Management Software.
- - [NSOT](https://github.com/dropbox/nsot) - Network Source of Truth (NSoT) a source of truth database and repository for tracking inventory and metadata of network entities to ease management and automation of network infrastructure.
+ - [NSoT](https://github.com/dropbox/nsot) - Network Source of Truth (NSoT) is a source of truth database and repository for tracking inventory and metadata of network entities to ease management and automation of network infrastructure.
  - [Nuts](https://github.com/HSRNetwork/Nuts) - Network Unit Testing System automates tests in the network similar to unit tests.
  - [Rundeck](http://rundeck.org/) - Job scheduler and runbook (and Ansible playbook) automation.
  - [ToDD](https://github.com/toddproject/todd) - ToDD is an extensible framework for providing natively distributed testing on demand.
@@ -222,28 +222,28 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
  - [Capirca](https://github.com/google/capirca) - Multi-platform ACL generation system; can output Juniper/IOS/etc ACLs from the same policy.
  - [ciscocmd](https://github.com/eczema/ciscocmd-cosi) - Tcl/Expect script to send commands to multiple IOS devices.
  - [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations.
- - [Condoor](https://github.com/kstaniek/condoor) - This is a python module providing access to Cisco devices over Telnet and SSH.
+ - [Condoor](https://github.com/kstaniek/condoor) - This is a Python module providing access to Cisco devices over Telnet and SSH.
  - [EasySNMP](https://github.com/kamakazikamikaze/easysnmp) - Easy to use and very fast SNMP library that uses Net-SNMP.
  - [FreeZTP](https://github.com/PackeTsar/freeztp) - FreeZTP is an open-source Zero-Touch Provisioning system for Cisco IOS campus switches and routers.
- - [Hierarchical Configuration](https://github.com/netdevops/hier_config) - Hierarchical Configuration is a python library that is able to take a running configuration of a network device, compare it to its intended configuration, and build the remediation steps necessary bring a device into spec with its intended configuration.
- - [JINJA2](http://jinja.pocoo.org/) - Jinja2 is a full featured template engine for Python.
- - [Napalm](https://github.com/napalm-automation/napalm) - NAPALM (Network Automation and Programmability Abstraction Layer with Multivendor support) is a Python library that implements a set of functions to interact with different router vendor devices using a unified API.
+ - [Hierarchical Configuration](https://github.com/netdevops/hier_config) - Hierarchical Configuration is a Python library that is able to take a running configuration of a network device, compare it to its intended configuration, and build the remediation steps necessary bring a device into spec with its intended configuration.
+ - [Jinja2](http://jinja.pocoo.org/) - A full-featured template engine for Python.
+ - [NAPALM](https://github.com/napalm-automation/napalm) - NAPALM (Network Automation and Programmability Abstraction Layer with Multivendor support) is a Python library that implements a set of functions to interact with different router vendor devices using a unified API.
  - [netaddr](https://github.com/drkjam/netaddr) - Network address manipulation that supports a number of techniques (supernetting and subnetting).
  - [Netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices.
  - [SEC - Simple Event Correlator](http://simple-evcorr.github.io/) - SEC is an event correlation tool for advanced event processing which can be harnessed for event log monitoring, for network and security management, for fraud detection, and for any other task which involves event correlation.
- - [TextFSM](https://github.com/google/textfsm) - Python module for parsing semi-structured text into python tables.
+ - [TextFSM](https://github.com/google/textfsm) - Python module for parsing semi-structured text into Python tables.
 
 ## Non-Core Ansible Modules
 
- - [ansible-junos-stdlib](https://github.com/Juniper/ansible-junos-stdlib) - Junos modules for Ansible.
+ - [ansible-junos-stdlib](https://github.com/Juniper/ansible-junos-stdlib) - Junos OS modules for Ansible.
  - [ansible-mysql-query](https://github.com/zauberpony/ansible-mysql-query) - Ansible module to modify MySQL database records.
  - [ara](https://github.com/openstack/ara) - Ansible Runtime Analysis.
- - [Fortimanager-Ansible](https://github.com/networktocode/fortimanager-ansible) - Ansible Module to work with Fortimanager.
- - [Infoblox-Ansible](https://github.com/infobloxopen/infoblox-ansible) - Ansible Module to work with Infoblox.
+ - [FortiManager-Ansible](https://github.com/networktocode/fortimanager-ansible) - Ansible module to work with FortiManager.
+ - [Infoblox-Ansible](https://github.com/infobloxopen/infoblox-ansible) - Ansible module to work with Infoblox.
  - [IP Infusion OcNOS Ansible module](https://github.com/IPInfusion/OcNOS) - Ansible module, SNMP MIB files, and YANG files for OcNOS.
- - [Napalm-Ansible](https://github.com/napalm-automation/napalm-ansible) - Collection of ansible modules that use napalm to retrieve data or modify configuration on networking devices.
- - [Netscaler-Ansible](https://github.com/networktocode/netscaler-ansible) - Ansible Module to work with Netscalers.
- - [NTC Ansible](https://github.com/networktocode/ntc-ansible) - Multi-vendor Ansible Modules for Network Automation.
+ - [Napalm-Ansible](https://github.com/napalm-automation/napalm-ansible) - Collection of Ansible modules that use napalm to retrieve data or modify configuration on networking devices.
+ - [Netscaler-Ansible](https://github.com/networktocode/netscaler-ansible) - Ansible module to work with Netscalers.
+ - [NTC Ansible](https://github.com/networktocode/ntc-ansible) - Multi-vendor Ansible modules for Network Automation.
  - [ansible-pan](https://github.com/PaloAltoNetworks/ansible-pan) - Ansible modules for working with Palo Alto Networks PAN-OS.
 
 ## Pre-written Salt States (Formulas)
@@ -275,13 +275,13 @@ Network Automation is cross between two disciplines of Infrastructure Networks a
 - [netconan](https://github.com/intentionet/netconan) - Network Configuration Anonymizer
 - [NetCopa](https://github.com/cidrblock/netcopa) - Network device configuration parser ("industry standard" -> YAML converter).
 - [NetSpark-Scripts](https://github.com/admiralspark/NetSpark-Scripts) - Netmiko-based scripts to assist the Network Administrators and Engineers of the world!
-- [NetTools](https://github.com/crisponions/NetTools) - Simple network python scripts.
+- [NetTools](https://github.com/crisponions/NetTools) - Simple network Python scripts.
 - [Network-CI](https://github.com/networkop/network-ci) - Proof of Concept of CI/CD methodology applied to traditional non-SDN network topologies.
 - [NetGrph](https://github.com/yantisj/netgrph) - Network graph modeling database.
 
 # Hypervisors and Containers
 
- - [Docker](https://www.docker.com/) - Docker is a software technology providing operating-system-level virtualization also known as containers, promoted by the company Docker, Inc.
+ - [Docker](https://www.docker.com/) - Docker is a software technology providing operating system-level virtualization also known as containers, promoted by the company Docker, Inc.
  - [Vagrant](https://www.vagrantup.com/) - Vagrant enables users to create and configure lightweight, reproducible, and portable development environments.
  - [VirtualBox](https://www.virtualbox.org/) - VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
  - [Vmware ESXi](https://www.vmware.com/products/esxi-and-esx.html) - VMware ESXi is a purpose-built bare-metal hypervisor that installs directly onto a physical server.
@@ -317,10 +317,10 @@ models that enable capacity planning, network optimization and what-if scenario 
 - [Device42](https://www.device42.com) - Automatically maintain an up-to-date inventory of your physical, virtual, and cloud servers and containers, network components, software, services, applications, and their inter-relationships and inter-dependencies. Integrations, REST APIs and webhooks to automate your workflows with a modern CMDB as a single source of truth. Comes with powerful Data Center Infrastructure Management, IP Address Management and Application Mappings.  Mostly leverages SNMP or vendor provided APIs that are well adopted/documented.
 - [haci](http://haci.larsux.de/) - HaCi is an IP Address / Network Administration (IPAM) Tool with IPv6 support.
 - [infoblox](https://www.infoblox.com/) - Industry leader in DNS, DHCP, and IP address management, the category known as DDI.
-- [netbox](https://github.com/digitalocean/netbox) - NetBox is an IP address management (IPAM) and data center infrastructure management (DCIM) tool.
+- [NetBox](https://github.com/digitalocean/netbox) - NetBox is an IP address management (IPAM) and data center infrastructure management (DCIM) tool.
 - [nipap](http://spritelink.github.io/NIPAP/) - nipap is a sleek, intuitive and powerful IP address management system built to handle large amounts of IP addresses.
 - [NSoT](https://github.com/dropbox/nsot) - Network Source of Truth is an open source IPAM and network inventory database.
-- [phpipam](https://phpipam.net/) - phpipam is an open-source web IP address management application (IPAM). Its goal is to provide light, modern and useful IP address management.
+- [phpIPAM](https://phpipam.net/) - phpIPAM is an open-source web IP address management application (IPAM). Its goal is to provide light, modern and useful IP address management.
 - [TeemIP](https://sourceforge.net/projects/teemip/) - TeemIp is an open source, WEB based, IP Adress Management (IPAM) tool that provides comprehensive IP Management capabilities. It allows you to manage your IPv4 and IPv6 spaces through a simple and powerful user interface: track user requests, discover and allocate IPs, manage your IP plan and your subnet space in accordance with best in class IP Management practices.
 
 # Configuration Management
@@ -332,7 +332,7 @@ models that enable capacity planning, network optimization and what-if scenario 
 
 # Books
 
-- [Ansible for Devops](https://www.ansiblefordevops.com/) - Learn Ansible concepts from an industry leading Ansible expert, with associated Vagrant files for ease of learning
+- [Ansible for DevOps](https://www.ansiblefordevops.com/) - Learn Ansible concepts from an industry leading Ansible expert, with associated Vagrant files for ease of learning
 - [Ansible: Up and Running](http://shop.oreilly.com/product/0636920035626.do) - Automating Configuration Management and Deployment the Easy Way.
 - [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561) - This pocket guide is the perfect on-the-job companion to Git, the distributed version control system. It provides a compact, readable introduction to Git for new users, as well as a reference to common commands and procedures for those of you with Git experience.
 - [Effective DevOps](https://www.amazon.com/Effective-DevOps-Building-Collaboration-Affinity/dp/1491926309/) - Learn cultural and organizational best practices on how to make a good DevOps team
