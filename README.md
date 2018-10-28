@@ -1,6 +1,6 @@
 # Awesome Network Automation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Network Automation is a cross between the discipline of Network Infrastructure and the discipline of Programming. This list was created to serve as a one-stop shop to find information related to Network Automation.
+Network Automation is a cross between the discipline of Network Infrastructure and the discipline of Programming. This list was created to serve as a one-stop shop for information related to Network Automation.
 
 # Contents
 
