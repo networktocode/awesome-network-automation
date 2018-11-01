@@ -349,7 +349,7 @@ models that enable capacity planning, network optimization and what-if scenario 
 - [PacketFront](https://pfsw.com/resources/network-orchestration/) - PacketFront BECS and BBE is a vendor-agnostic network, service and resource orchestration system for residential, enterprise and data center networks.
 
 ## Network Vendor Products
-- [Cisco Merkai](https://meraki.cisco.com/) - Cisco Meraki is the leader in cloud controlled WiFi, routing, and security. Secure and scalable, Cisco Meraki enterprise networks simply work.
+- [Cisco Meraki](https://meraki.cisco.com/) - Cisco Meraki is the leader in cloud controlled WiFi, routing, and security. Secure and scalable, Cisco Meraki enterprise networks simply work.
 - [Cisco Viptela](http://viptela.com/) - Viptela provides Software-Defined Wide Area Network (SD-WAN) technology that allows global companies to build cost-effective WANs.
 - [Talari](https://www.talari.com/) - Talari Networks SD-WAN technology.
 
@@ -381,6 +381,6 @@ models that enable capacity planning, network optimization and what-if scenario 
 
 ## License
 
-[![CC4](https://mirrors.creativecommons.org/presskit/cc.srr.primary.svg)(https://creativecommons.org/licenses/by/4.0/legalcode)]
+[![CC4](https://mirrors.creativecommons.org/presskit/cc.srr.primary.svg)](https://creativecommons.org/licenses/by/4.0/legalcode)
 
 Licensed under the Creative Commons 4.0 License, see LICENSE file for more detail.
