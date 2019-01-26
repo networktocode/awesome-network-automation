@@ -2,26 +2,25 @@
 
 Network Automation is a cross between the discipline of [Network Infrastructure](https://github.com/sindresorhus/awesome#networking) and the discipline of Programming. This list was created to serve as a one-stop shop for information related to Network Automation.
 
-- [Awesome Network Automation](#awesome-network-automation)
-  - [Community](#community)
-  - [Events / Meetup](#events--meetup)
-  - [Training](#training)
-  - [Presentations](#presentations)
-  - [Blogs](#blogs)
-  - [Programming Topics](#programming-topics)
-  - [Open Source Projects](#open-source-projects)
-  - [Hypervisors and Containers](#hypervisors-and-containers)
-  - [Network Emulators](#network-emulators)
-  - [Network Simulators](#network-simulators)
-  - [Backups](#backups)
-  - [IPAM](#ipam)
-  - [Configuration Management](#configuration-management)
-  - [Books](#books)
-  - [Vendor Agnostic Products](#vendor-agnostic-products)
-  - [Network Vendor Products](#network-vendor-products)
-  - [Podcasts](#podcasts)
-  - [Contributing](#contributing)
-  - [License](#license)
+- [Community](#community)
+- [Events / Meetup](#events--meetup)
+- [Training](#training)
+- [Presentations](#presentations)
+- [Blogs](#blogs)
+- [Programming Topics](#programming-topics)
+- [Open Source Projects](#open-source-projects)
+- [Hypervisors and Containers](#hypervisors-and-containers)
+- [Network Emulators](#network-emulators)
+- [Network Simulators](#network-simulators)
+- [Backups](#backups)
+- [IPAM](#ipam)
+- [Configuration Management](#configuration-management)
+- [Books](#books)
+- [Vendor Agnostic Products](#vendor-agnostic-products)
+- [Network Vendor Products](#network-vendor-products)
+- [Podcasts](#podcasts)
+- [Contributing](#contributing)
+- [License](#license)
 
 # Community
 
@@ -390,6 +389,8 @@ Contributions about network automation are most welcome!
 This list is just getting started, please contribute to make it super awesome.
 
 # License
+
+[![CC4](https://mirrors.creativecommons.org/presskit/cc.srr.primary.svg)](https://creativecommons.org/licenses/by/4.0/legalcode)
 
 Licensed under the Creative Commons 4.0 License, see LICENSE file for more detail.
 
