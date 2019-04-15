@@ -158,7 +158,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [Infoblox](https://ipam.illinois.edu/api/doc/) - Externally hosted Infoblox API docs.
  - [Juniper JUNOS API](https://www.juniper.net/documentation/en_US/junos/information-products/pathway-pages/rest-api/rest-api.html) - JUNOS REST API Guide.
  - [Meraki Dashboard API](https://dashboard.meraki.com/api_docs) - Manage network environments within Meraki's cloud management tools.
-   - [Meraki Dashboard API What's New](https://create.meraki.io/whats-new/)
+   - [Meraki Dashboard API What's New](https://create.meraki.io/whats-new/) - Documentation of changes to API endpoints.
  - [Palo Alto Networks PAN-OS API](https://www.paloaltonetworks.com/documentation/80/pan-os/xml-api) - PAN-OS 8.0 XML API Reference.
 
 # Open Source Projects
