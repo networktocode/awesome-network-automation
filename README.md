@@ -369,6 +369,7 @@ models that enable capacity planning, network optimization and what-if scenario 
 
 - [Network Collective EPISODE 10](https://thenetworkcollective.com/2017/08/ep10-grassroots-automation/) - GRASSROOTS AUTOMATION.
 - [Packet Pushers Datanauts 80](https://packetpushers.net/podcast/podcasts/datanauts-080-network-automation-telemetry/) - The Current State Of Network Automation & Telemetry.
+- [Packet Pushers Heavy Networking #445](https://packetpushers.net/podcast/heavy-networking-445-an-introduction-to-the-nornir-automation-framework/) - David Barroso, Kirk Byers, and Dmitri Figol on Nornir.
 - [Packet Pushers Show 176](https://packetpushers.net/podcast/podcasts/show-176-intro-to-python-automation-for-network-engineers/) - Intro to Python & Automation for Network Engineers.
 - [Packet Pushers Show 333](https://packetpushers.net/podcast/podcasts/show-333-orchestration-vs-automation/) - Automation & Orchestration In Networking.
 - [Packet Pushers Show 351](https://packetpushers.net/podcast/podcasts/show-351-design-build-13-network-orchestration-salt/) -  Design & Build 13: Network Orchestration with Salt.
