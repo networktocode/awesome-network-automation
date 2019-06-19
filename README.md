@@ -185,6 +185,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 ## Salt
 
+ - [salt-sproxy](https://github.com/mirceaulinic/salt-sproxy) - Salt plugin to automate the management and configuration of (network) devices at scale, without running (Proxy) Minions.
  - [Napalm-Salt Repository](https://github.com/napalm-automation/napalm-salt) - The NAPALM-Salt Repository.
  - [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - Salt in 10 minutes.
  - [Salt high availability and fault tolerance](https://docs.saltstack.com/en/latest/topics/highavailability/index.html) - Salt high availability and fault tolerance.
