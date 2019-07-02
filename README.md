@@ -49,20 +49,20 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 # Training
 
+- [GNS3 Academy - Instructor David Bombal](https://academy.gns3.com/courses/author/12794) - Offers an inexpensive set of introductions to Ansible and Python for Network Engineers, among other courses.
 - [IP Space](https://www.ipspace.net/Training) - Numerous courses, webinars, and videos covering SDN, network automation, cloud computing, virtualization technologies, IPv6, VPNs, and much more.
+- [Mircea Ulinic](http://mirceaulinic.us14.list-manage1.com/subscribe?u=4d3e65e9c470a62dc341ce797&id=bd27d97b29) - Learn more about cross-vendor event-driven network automation and orchestration.
 - [Network to Code](http://networktocode.com/products/training/) - Network Automation Training including Python, Ansible, DevOps, and much more.
 - [Network Programmability Basics - Cisco](https://developer.cisco.com/video/net-prog-basics/) - Jumpstart your journey into network programmability with this expert-led video course by Cisco DevNet.
-- [Mircea Ulinic](http://mirceaulinic.us14.list-manage1.com/subscribe?u=4d3e65e9c470a62dc341ce797&id=bd27d97b29) - Learn more about cross-vendor event-driven network automation and orchestration.
 - [Python for Network Engineers](https://pynet.twb-tech.com/class.html) - Learn skills that make you better at network automation and that improve your capability to use programming to scale your work.
-- [GNS3 Academy - Instructor David Bombal](https://academy.gns3.com/courses/author/12794) - Offers an inexpensive set of introductions to Ansible and Python for Network Engineers, among other courses.
 
 # Presentations
 
+- [Abstract all the things](https://www.youtube.com/watch?v=Ym5kFJhCLJc), David Barroso, SDN and Network Automation Meetup, Stockholm, June 2016 [presentation](https://www.dravetech.com/presos/abstraction.html).
+- [How Facebook Learned to Stop Worrying and Love the Network](https://ripe71.ripe.net/archives/video/152/), Jose Leitao, David Rothera, RIPE71, November 2015 [slide deck](https://ripe71.ripe.net/wp-content/uploads/presentations/4-DR-NMS-ng-v2.pdf).
 - [Network automation at scale](https://www.youtube.com/watch?v=99jHvkVM0Dk), Mircea Ulinic, NANOG 69, February 2017 [slide deck](https://www.nanog.org/sites/default/files/1_Ulinic_Network_Automation_At_v1.pdf).
 - [NAPALM](https://www.youtube.com/watch?v=93q-dHC0u0I), David Barroso, Elisa Jasinska, NANOG 64, June 2015 [slide deck](https://www.nanog.org/sites/default/files/meetings/NANOG64/1043/20150601_Jasinska_Network_Automation_And_v1.pdf).
-- [How Facebook Learned to Stop Worrying and Love the Network](https://ripe71.ripe.net/archives/video/152/), Jose Leitao, David Rothera, RIPE71, November 2015 [slide deck](https://ripe71.ripe.net/wp-content/uploads/presentations/4-DR-NMS-ng-v2.pdf).
 - [What Is NetDevOps](https://ripe71.ripe.net/archives/video/154/), Leslie Carr, RIPE71, November 2015 [slide deck](https://ripe71.ripe.net/wp-content/uploads/presentations/54-LeslieCarr_What_is_NetDevOps_Why_RIPE71.pdf).
-- [Abstract all the things](https://www.youtube.com/watch?v=Ym5kFJhCLJc), David Barroso, SDN and Network Automation Meetup, Stockholm, June 2016 [presentation](https://www.dravetech.com/presos/abstraction.html).
 - [Securing Network Automation](https://www.youtube.com/watch?v=EXvJMv13t3A), Ivan Pepelnjak, Troopers 2017, March 2017 [slide deck](https://www.troopers.de/downloads/troopers17/TR17_Securing_Network_Automation.pdf).
 
 # Blogs
@@ -71,9 +71,10 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [Coding Networker](https://codingnetworker.com) - The Network Automation thoughts of Henry Ölsner.
 - [Coding Packets](https://codingpackets.com) - The Network Automation thoughts of Brad Searle.
 - [dravetech.com](https://www.dravetech.com) - The Network Automation thoughts of David Barroso.
-- [Jason Edelman](http://www.jedelman.com/) - The Network Automation thoughts of Jason Edelman.
+- [Eric Chou - PythonicNetneg](https://blog.pythonicneteng.com/) - The Network Automation thoughts of Eric Chou.
 - [IPEngineer - David Gee](http://ipengineer.net) - Network automation, software-networking and musings from David Gee.
 - [ipSpace.net - Ivan Pepelnjak](https://blog.ipspace.net/search/label/Automation) - Network automation blog posts by Ivan Pepelnjak.
+- [Jason Edelman](http://www.jedelman.com/) - The Network Automation thoughts of Jason Edelman.
 - [Mircea Ulinic](https://mirceaulinic.net/) - Random thoughts of Mircea Ulinic. May include event-driven network automation, vendor bashing or machine learning (TBD).
 - [Napalm-automation](https://napalm-automation.net) - News and updates about the NAPALM project.
 - [Networklore](https://networklore.com/blog) - The Network Automation thoughts of Patrick Ogenstad.
@@ -83,7 +84,6 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [Project 10](https://projectme10.wordpress.com) - The Network Automation thoughts of Gabriele Gerbino.
 - [Python for Network Engineers](https://pynet.twb-tech.com/) - Articles on Netmiko, NAPALM, and Ansible by Kirk Byers.
 - [Scott Lowe](https://blog.scottlowe.org) - The Network Automation thoughts of Scott Lowe.
-- [Eric Chou - PythonicNetneg](https://blog.pythonicneteng.com/) - The Network Automation thoughts of Eric Chou.
 
 # Programming Topics
 
@@ -99,8 +99,8 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 ### JSON
 
- - [Getting Started and Basics](https://www.codecademy.com/courses/javascript-beginner-en-xTAfX/0/1) - JSON Basics.
  - [Awesome JSON](https://github.com/burningtree/awesome-json) - A curated list of awesome JSON libraries and resources.
+ - [Getting Started and Basics](https://www.codecademy.com/courses/javascript-beginner-en-xTAfX/0/1) - JSON Basics.
  - [JSON 2 YAML](json2yaml.com) - An online JSON to YAML conversion tool.
 
 ### XML
@@ -109,15 +109,15 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 ### YANG
 
- - [IETF RFC](https://tools.ietf.org/html/rfc6020) - The IETF RFC on YANG.
  - [Cisco Labs YANG - 101](https://learninglabs.cisco.com/lab/yang-101/step/1) - Cisco YANG introduction.
+ - [IETF RFC](https://tools.ietf.org/html/rfc6020) - The IETF RFC on YANG.
  - [YANG for dummies](https://napalm-automation.net/yang-for-dummies/) - NAPALM YANG introduction.
 
 ### Jinja2
 
  - [Documentation](http://jinja.pocoo.org/docs/2.10/templates/) - Base documentation for Jinja2.
- - [TD4a](https://td4a.now.sh) - Advanced online rendering tool.
  - [Sample Jinja2 templates](https://github.com/ipspace/NetOpsWorkshop/tree/master/Jinja2) - Jinja examples courtesy of Ivan Pepelnjak.
+ - [TD4a](https://td4a.now.sh) - Advanced online rendering tool.
 
 ## API
 
@@ -131,15 +131,15 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 ## Python
 
+ - [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
  - [Learn Python the Hardway](https://learnpythonthehardway.org) - Learn Python The Hard Way takes you from absolute zero to able to read and write basic Python, giving you the tools to understand other documentation and books about Python.
  - [Python at Codecademy](https://www.codecademy.com/learn/learn-python) - Learn Python by Codecademy.
- - [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
  - [Python Programming Guides and Tutorials - Python Central](https://pythoncentral.io/) - Experienced Python programmers and enthusiasts from around the world that are eager to share their experience.
 
 ## Go
 
- - [Getting Started and Basics](https://tour.golang.org/welcome) - Introduction to programming with Go.
  - [Awesome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries, software and resources.
+ - [Getting Started and Basics](https://tour.golang.org/welcome) - Introduction to programming with Go.
 
 ## Vendor API Docs
 
@@ -147,7 +147,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [Cisco IOS XE CSR1000V](https://www.cisco.com/c/en/us/td/docs/routers/csr1000/software/restapi/restapi/RESTAPIintro.html) - Cisco IOS XE REST API Management Reference Guide.
  - [Cisco IOS-XR](https://www.cisco.com/c/en/us/td/docs/ios_xr_sw/iosxr_r4-1/xml/programming/guide/xl41apidoc.html) - Cisco IOS-XR API Docs only.
    - [XR-Docs](https://xrdocs.github.io) - Documentation Blogs and Tutorials on all things IOS-XR An Open, Extensible and Stable Cloud-Scale Network Operating System.
- - [NX_API Coming soon]() - Coming Soon.
+   - [NX_API Coming soon]() - Coming Soon.
    - [Cisco NX-API](https://developer.cisco.com/site/nx-api/) - Main DEVNET page for NX-API docs.
  - [Cumulus Networks HTTP API](https://docs.cumulusnetworks.com/display/DOCS/HTTP+API) - Documents focused on Cumulus 3.4.1.
  - Extreme Networks:
@@ -217,7 +217,6 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 ## Library
 
  - [Apstra's Aeon-ZTPS](https://github.com/Apstra/aeon-ztps) - Aeon-ZTPS is a universal Zero-Touch-Provisioning server for data center infrastructure systems at b.  Currently supports the bootstraping of Arista EOS, Cisco NX-OS, and Cumulus Linux.
- - [Nornir](https://github.com/nornir-automation/nornir) - Nornir is a pure Python automation framework intented to be used directly from Python.
  - [Capirca](https://github.com/google/capirca) - Multi-platform ACL generation system; can output Juniper/IOS/etc ACLs from the same policy.
  - [ciscocmd](https://github.com/eczema/ciscocmd-cosi) - Tcl/Expect script to send commands to multiple IOS devices.
  - [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations.
@@ -229,6 +228,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [NAPALM](https://github.com/napalm-automation/napalm) - NAPALM (Network Automation and Programmability Abstraction Layer with Multivendor support) is a Python library that implements a set of functions to interact with different router vendor devices using a unified API.
  - [netaddr](https://github.com/drkjam/netaddr) - Network address manipulation that supports a number of techniques (supernetting and subnetting).
  - [Netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices.
+ - [Nornir](https://github.com/nornir-automation/nornir) - Nornir is a pure Python automation framework intented to be used directly from Python.
  - [SEC - Simple Event Correlator](https://simple-evcorr.github.io/) - SEC is an event correlation tool for advanced event processing which can be harnessed for event log monitoring, for network and security management, for fraud detection, and for any other task which involves event correlation.
  - [TextFSM](https://github.com/google/textfsm) - Python module for parsing semi-structured text into Python tables.
 
@@ -236,6 +236,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
  - [ansible-junos-stdlib](https://github.com/Juniper/ansible-junos-stdlib) - Junos OS modules for Ansible.
  - [ansible-mysql-query](https://github.com/zauberpony/ansible-mysql-query) - Ansible module to modify MySQL database records.
+ - [ansible-pan](https://github.com/PaloAltoNetworks/ansible-pan) - Ansible modules for working with Palo Alto Networks PAN-OS.
  - [ara](https://github.com/openstack/ara) - Ansible Runtime Analysis.
  - [FortiManager-Ansible](https://github.com/networktocode/fortimanager-ansible) - Ansible module to work with FortiManager.
  - [Infoblox-Ansible](https://github.com/infobloxopen/infoblox-ansible) - Ansible module to work with Infoblox.
@@ -243,7 +244,6 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [Napalm-Ansible](https://github.com/napalm-automation/napalm-ansible) - Collection of Ansible modules that use napalm to retrieve data or modify configuration on networking devices.
  - [Netscaler-Ansible](https://github.com/networktocode/netscaler-ansible) - Ansible module to work with Netscalers.
  - [NTC Ansible](https://github.com/networktocode/ntc-ansible) - Multi-vendor Ansible modules for Network Automation.
- - [ansible-pan](https://github.com/PaloAltoNetworks/ansible-pan) - Ansible modules for working with Palo Alto Networks PAN-OS.
 
 ## Pre-written Salt States (Formulas)
 
@@ -270,13 +270,13 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [Drawthe.net](https://github.com/cidrblock/drawthe.net) - Draw network diagrams described in YAML files.
 - [napalm-logs](https://github.com/napalm-automation/napalm-logs) - Cross-vendor normalisation for network syslog messages, following the OpenConfig and IETF YANG models.
 - [Network-Conditions-Emulator](https://github.com/marty90/Network-Conditions-Emulator) - Artificially limit bandwidth, delay and loss rate on selected interfaces.
-- [Net-Config](https://github.com/SLAC/net-config/) - Automation framework for network devices.
 - [netconan](https://github.com/intentionet/netconan) - Network Configuration Anonymizer
+- [Net-Config](https://github.com/SLAC/net-config/) - Automation framework for network devices.
 - [NetCopa](https://github.com/cidrblock/netcopa) - Network device configuration parser ("industry standard" -> YAML converter).
+- [NetGrph](https://github.com/yantisj/netgrph) - Network graph modeling database.
 - [NetSpark-Scripts](https://github.com/admiralspark/NetSpark-Scripts) - Netmiko-based scripts to assist the Network Administrators and Engineers of the world!
 - [NetTools](https://github.com/crisponions/NetTools) - Simple network Python scripts.
 - [Network-CI](https://github.com/networkop/network-ci) - Proof of Concept of CI/CD methodology applied to traditional non-SDN network topologies.
-- [NetGrph](https://github.com/yantisj/netgrph) - Network graph modeling database.
 
 # Hypervisors and Containers
 
@@ -324,8 +324,8 @@ models that enable capacity planning, network optimization and what-if scenario 
 
 # Configuration Management
 
-- [Solarwinds](https://www.solarwinds.com/network-configuration-manager) - Automated network configuration and compliance management.
 - [ManageEngine](https://www.manageengine.com/network-configuration-manager/) - Network Configuration Manager is a multi vendor network change, configuration and compliance management (NCCCM) solution for switches, routers, firewalls and other network devices.
+- [Solarwinds](https://www.solarwinds.com/network-configuration-manager) - Automated network configuration and compliance management.
 - [Rconfig](https://www.rconfig.com/) - Free, open source network device configuration management tool, customizable to your needs!
 - [Unimus](https://unimus.net) - Network-wide configuration search and config diff over time in an easy to use web GUI.
 
@@ -333,8 +333,8 @@ models that enable capacity planning, network optimization and what-if scenario 
 
 - [Ansible for DevOps](https://www.ansiblefordevops.com/) - Learn Ansible concepts from an industry leading Ansible expert, with associated Vagrant files for ease of learning
 - [Ansible: Up and Running](https://shop.oreilly.com/product/0636920035626.do) - Automating Configuration Management and Deployment the Easy Way.
-- [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561) - This pocket guide is the perfect on-the-job companion to Git, the distributed version control system. It provides a compact, readable introduction to Git for new users, as well as a reference to common commands and procedures for those of you with Git experience.
 - [Effective DevOps](https://www.amazon.com/Effective-DevOps-Building-Collaboration-Affinity/dp/1491926309/) - Learn cultural and organizational best practices on how to make a good DevOps team
+- [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561) - This pocket guide is the perfect on-the-job companion to Git, the distributed version control system. It provides a compact, readable introduction to Git for new users, as well as a reference to common commands and procedures for those of you with Git experience.
 - [Infrastructure as Code](https://www.amazon.com/Infrastructure-Code-Managing-Servers-Cloud/dp/1491924357) - Learn the Infra as Code principles and design patterns (examples are for Compute not network though)
 - [Mastering Python Networking Second Edition (August 2018)](https://amzn.to/2PkMRiZ), [First Edition (June 2017 with more SDN-related topics)](https://amzn.to/2NBjlVM) - Become an expert in implementing advanced, network-related tasks with Python.
 - [Network Programmability and Automation](https://shop.oreilly.com/product/0636920042082.do) - Skills for the Next-Generation Network Engineer.
@@ -370,17 +370,17 @@ models that enable capacity planning, network optimization and what-if scenario 
 - [Network Collective EPISODE 10](https://thenetworkcollective.com/2017/08/ep10-grassroots-automation/) - GRASSROOTS AUTOMATION.
 - [Packet Pushers Datanauts 80](https://packetpushers.net/podcast/podcasts/datanauts-080-network-automation-telemetry/) - The Current State Of Network Automation & Telemetry.
 - [Packet Pushers Heavy Networking #445](https://packetpushers.net/podcast/heavy-networking-445-an-introduction-to-the-nornir-automation-framework/) - David Barroso, Kirk Byers, and Dmitri Figol on Nornir.
+- [Packet Pushers PQ Show 81](https://packetpushers.net/podcast/podcasts/pq-show-81-network-testing-todd/) - Network Testing With ToDD.
+- [Packet Pushers PQ Show 99](https://packetpushers.net/podcast/podcasts/pq-show-99-netmiko-napalm-network-automation/) - Netmiko & NAPALM For Network Automation.
+- [Packet Pushers PQ Show 116](https://packetpushers.net/podcast/podcasts/pq-show-116-practical-yang-network-automation/) - Practical YANG For Network Automation.
+- [Packet Pushers PQ Show 135](https://packetpushers.net/podcast/podcasts/pq-135-mastering-python-networking-book/) - Mastering Python Networking – The Book.
+- [Packet Pushers PQ Show 198](https://packetpushers.net/podcast/podcasts/show-198-kirk-byers-network-automation-python-ansible/) - Kirk Byers on Network Automation with Python & Ansible.
 - [Packet Pushers Show 176](https://packetpushers.net/podcast/podcasts/show-176-intro-to-python-automation-for-network-engineers/) - Intro to Python & Automation for Network Engineers.
 - [Packet Pushers Show 333](https://packetpushers.net/podcast/podcasts/show-333-orchestration-vs-automation/) - Automation & Orchestration In Networking.
 - [Packet Pushers Show 351](https://packetpushers.net/podcast/podcasts/show-351-design-build-13-network-orchestration-salt/) -  Design & Build 13: Network Orchestration with Salt.
 - [Packet Pushers Show 353](https://packetpushers.net/podcast/podcasts/show-353-business-impact-network-automation/) - The Business Impact Of Network Automation.
 - [Packet Pushers Show 368](https://packetpushers.net/podcast/podcasts/show-368-radical-change-devops-automation/) - Show 368: Radical Change, DevOps & Automation.
 - [Packet Pushers Show 402](https://packetpushers.net/podcast/weekly-show-402-building-a-network-automation-framework/) - Show 402 - Building A Network Automation Framework
-- [Packet Pushers PQ Show 81](https://packetpushers.net/podcast/podcasts/pq-show-81-network-testing-todd/) - Network Testing With ToDD.
-- [Packet Pushers PQ Show 99](https://packetpushers.net/podcast/podcasts/pq-show-99-netmiko-napalm-network-automation/) - Netmiko & NAPALM For Network Automation.
-- [Packet Pushers PQ Show 116](https://packetpushers.net/podcast/podcasts/pq-show-116-practical-yang-network-automation/) - Practical YANG For Network Automation.
-- [Packet Pushers PQ Show 135](https://packetpushers.net/podcast/podcasts/pq-135-mastering-python-networking-book/) - Mastering Python Networking – The Book.
-- [Packet Pushers PQ Show 198](https://packetpushers.net/podcast/podcasts/show-198-kirk-byers-network-automation-python-ansible/) - Kirk Byers on Network Automation with Python & Ansible.
 - [Podcast__init Episode 117](https://www.podcastinit.com/napalm-with-david-barosso-and-mircea-ulinic-episode-117/) - NAPALM with David Barroso and Mircea Ulinic.
 - [Talk Python to me #128](https://talkpython.fm/episodes/embed_details/128) - Pythonic Networks with NAPALM.
 - [Talk Python to me #175](https://talkpython.fm/episodes/show/175/teaching-python-to-network-engineers) - Teaching Python to network engineers
