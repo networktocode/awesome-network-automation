@@ -41,7 +41,6 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [Chef Summits](https://www.chef.io/summits/) - Chef community summit schedule.
 - [London Network Automation Meetup](https://www.meetup.com/London-Network-Automation-Meetup/) - A community of network engineers, who have interest in the new buzz of network automation.
 - [NANOG](https://www.nanog.org) - North American Network Operators' Group with fair share of automation presentations/discussions.
-- [NetLDN](https://netldn.uk) - In the simplest sense, NetLdn is about spending a bit of time each month, socialising with your fellow Networking professionals.
 - [Network to Coders Meetup](https://www.meetup.com/Network-to-Coders/) - Maybe this can pressure NTC to finally setup an event for the 140+ NTC meetup members.
 - [Puppetize Live](https://puppet.com/puppetizelive) - A 24-hour global event including community discussions, presentations, and training. Formerly PuppetConf.
 - [SaltStack NYC Meetup](https://www.meetup.com/SaltStack-NYC/) - Local NYC SatlStack user meetup.
