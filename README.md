@@ -149,7 +149,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
    - [XR-Docs](https://xrdocs.github.io) - Documentation Blogs and Tutorials on all things IOS-XR An Open, Extensible and Stable Cloud-Scale Network Operating System.
    - [NX_API Coming soon]() - Coming Soon.
    - [Cisco NX-API](https://developer.cisco.com/site/nx-api/) - Main DEVNET page for NX-API docs.
- - [Cumulus Networks HTTP API](https://docs.cumulusnetworks.com/display/DOCS/HTTP+API) - Documents focused on Cumulus 3.4.1.
+ - [Cumulus Networks HTTP API](https://docs.cumulusnetworks.com/cumulus-linux/System-Configuration/HTTP-API/) - Cumulus Networks REST API docs.
  - Extreme Networks:
    - [EXOS REST API](https://github.com/extremenetworks/EXOS_Apps/tree/master/REST) - Documentation and examples for ExtremeSwitching ExtremeXOS RESTCONF API.
    - [EXOS JSONRPC Interface](https://github.com/extremenetworks/EXOS_Apps/tree/master/JSONRPC) - Documentation and examples for ExtremeSwitching ExtremeXOS JSONRPC API.
@@ -305,6 +305,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
  - [Batfish](https://github.com/batfish/batfish) - Batfish provides a model-based simulation for multi-vendor networks, that enables routing, forwarding, security, compliance, and what-if scenario analysis of a network (or proposed change to a network).
  - [Cisco WAN Automation Engine](https://www.cisco.com/c/en/us/products/routers/wae-planning/index.html) - Cisco WAE, formerly known as Cariden MATE, provides a multi-vendor network simulation that enables capacity planning and what-if scenario analysis for carrier networks.
+ - [Forward Networks](https://forwardnetworks.com) - Forward Enterprise documents, searches, verifies, and predicts the behavior of your network by creating an always-accurate software copy of your entire network infrastructure for both on-prem and cloud.
  - [Juniper WANDL](https://www.juniper.net/us/en/products-services/sdn/wandl/) - Juniper WANDL provides traffic engineering
 models that enable capacity planning, network optimization and what-if scenario analysis for carrier networks.
 
@@ -341,6 +342,7 @@ models that enable capacity planning, network optimization and what-if scenario 
 
 - [Ansible for DevOps](https://www.ansiblefordevops.com/) - Learn Ansible concepts from an industry leading Ansible expert, with associated Vagrant files for ease of learning
 - [Ansible: Up and Running](https://shop.oreilly.com/product/0636920035626.do) - Automating Configuration Management and Deployment the Easy Way.
+- [Cloud Native Data Center Networking](https://www.oreilly.com/library/view/cloud-native-data/9781492045595/) - If you want to study, build, or simply validate your thinking about modern cloud native data center networks, this is your book. Whether you’re pursuing a multitenant private cloud, a network for running machine learning, or an enterprise data center, author Dinesh Dutt takes you through the steps necessary to design a data center that’s affordable, high capacity, easy to manage, agile, and reliable.
 - [Effective DevOps](https://www.amazon.com/Effective-DevOps-Building-Collaboration-Affinity/dp/1491926309/) - Learn cultural and organizational best practices on how to make a good DevOps team
 - [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561) - This pocket guide is the perfect on-the-job companion to Git, the distributed version control system. It provides a compact, readable introduction to Git for new users, as well as a reference to common commands and procedures for those of you with Git experience.
 - [Infrastructure as Code](https://www.amazon.com/Infrastructure-Code-Managing-Servers-Cloud/dp/1491924357) - Learn the Infra as Code principles and design patterns (examples are for Compute not network though)
@@ -357,6 +359,7 @@ models that enable capacity planning, network optimization and what-if scenario 
 - [Anuta Networks](https://www.anutanetworks.com/ncx-overview/) - Anuta NCX delivers network service orchestration for greenfield and brownfield deployments. NCX is an intent-driven platform with YANG service models for multiple domains such as Branch/CPE, Data Center, Virtual MPLS, Carrier Core Networks and Cloud Interconnects. NCX has built-in YANG device models for PNFs and VNFs from 35+ industry leading vendors supporting hundreds of L2-L7 network functions using CLI, NETCONF, YANG, REST and SNMP. See the complete [list](http://www.anutanetworks.com/managed-devices/).
 - [Apstra](https://www.apstra.com/products/) - The Apstra Operating System (AOS) is a vendor-agnostic distributed operating system for the data center network that enables business agility, dramatically scales operational efficiency, and reduces downtime.
 - [Cisco NSO](https://cisco.com/go/nso) - NSO (former Tail-f NCS) is a multi-vendor automation and orchestration platform for physical and virtual networks for over 80+ vendors. NSO provides YANG-based programmability through a wide variety of interfaces including CLI, RESTCONF, NETCONF, Java, Python and web UI.
+ - [Forward Networks](https://forwardnetworks.com) - Forward Enterprise documents, searches, verifies, and predicts the behavior of your network by creating an always-accurate software copy of your entire network infrastructure for both on-prem and cloud.
 - [Glue](http://gluenetworks.com/about-us-the-glue-team/) - With Gluware, the Glue Networks vision and team are continuing to trail-blaze at the forefront of the networking industry with multi-vendor orchestration solutions for Data Center, WAN and LAN networks.
 - [Intentionet](https://www.intentionet.com/) - Intentionet provides a hosted or on-premise network validation software solution based on [Batfish](http://www.batfish.org). Intentionet Sage's model-based network simulation enables pre-commit validation for all network changes, ensuring only correct changes are pushed to the network, thereby reducing outages and breaches while improving network agility.
 - [NetMRI](https://www.infoblox.com/products/netmri/) - Vendor Agnostic NCCM tool with with policy engine and multi-vendor device lifecycle/vulnerability management. (Infoblox product)
@@ -366,6 +369,7 @@ models that enable capacity planning, network optimization and what-if scenario 
 # Network Vendor Products
 - [Cisco Meraki](https://meraki.cisco.com/) - Cisco Meraki is the leader in cloud controlled WiFi, routing, and security. Secure and scalable, Cisco Meraki enterprise networks simply work.
 - [Cisco Viptela](http://viptela.com/) - Viptela provides Software-Defined Wide Area Network (SD-WAN) technology that allows global companies to build cost-effective WANs.
+- [Cumulus Networks NetQ](https://cumulusnetworks.com/products/netq/) - Cumulus NetQ is a highly-scalable, modern network operations tool set that provides visibility into your overlay and underlay networks in real-time. NetQ delivers actionable insights and operational intelligence about the health of your data center — from the container, virtual machine, or host, all the way to the switch and port, enabling a NetDevOps approach. 
 - [Talari](https://www.talari.com/) - Talari Networks SD-WAN technology.
 
 # Podcasts
