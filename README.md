@@ -55,6 +55,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [Network to Code](http://networktocode.com/products/training/) - Network Automation Training including Python, Ansible, DevOps, and much more.
 - [Network Programmability Basics - Cisco](https://developer.cisco.com/video/net-prog-basics/) - Jumpstart your journey into network programmability with this expert-led video course by Cisco DevNet.
 - [Python for Network Engineers](https://pynet.twb-tech.com/class.html) - Learn skills that make you better at network automation and that improve your capability to use programming to scale your work.
+- [Python for Network Engineers](https://natenka.github.io/pyneng-online/) – Training course in Russian by [Nataliya Samoylenko](https://github.com/natenka), also avaialble as a free [video training course on YouTube](https://www.youtube.com/playlist?list=PLah0HUih_ZRnJFNdZsWr2pNWgYETauGXo) and a book (see [below](#books))
 
 # Presentations
 
@@ -354,6 +355,7 @@ models that enable capacity planning, network optimization and what-if scenario 
 - [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/) - Learn the concepts of Agile and DevOps principles
 - [The Phoenix Project](https://itrevolution.com/book/the-phoenix-project/) - See the concepts of Agile and DevOps in this fiction story about a typical IT Org
 - [The Unicorn Project](https://itrevolution.com/the-unicorn-project/) - See the concepts of Agile and DevOps following a Developer viewpoint
+- [Python for Network Engineers](https://pyneng.readthedocs.io/) – Free book in Russian by [Nataliya Samoylenko](https://github.com/natenka), also avaialble as a training courses, see [training](#training) above
 
 # Vendor Agnostic Products
 - [Anuta Networks](https://www.anutanetworks.com/ncx-overview/) - Anuta NCX delivers network service orchestration for greenfield and brownfield deployments. NCX is an intent-driven platform with YANG service models for multiple domains such as Branch/CPE, Data Center, Virtual MPLS, Carrier Core Networks and Cloud Interconnects. NCX has built-in YANG device models for PNFs and VNFs from 35+ industry leading vendors supporting hundreds of L2-L7 network functions using CLI, NETCONF, YANG, REST and SNMP. See the complete [list](http://www.anutanetworks.com/managed-devices/).
