@@ -58,6 +58,16 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 # Presentations
 
+- [Network Automation Architecture](https://youtu.be/VlDCYmItkzE), John Anderson, Network Field Day 21
+- [Network Automation Journey - Part 1](https://youtu.be/6wl2suubMIQ), Damien Garros, Network Field Day 21
+- [Network Automation Journey - Part 2](https://youtu.be/u0mYDbxH5-s), Damien Garros, Network Field Day 21
+- [Managing Network Device Properties as Code](https://youtu.be/dqzy7wyi1M4), Damien Garros, NANOG 75
+- [Experiences with network automation at Dyn](https://www.youtube.com/watch?v=a4s15nmjDkE), Carlos Vicente, NANOG 67
+- [Network Automation: The Hype vs. Reality](https://youtu.be/fFHL2o033Zc), Jonah Kowall, NANOG
+- [Powering Your Automation: A Single Source of Truth](https://youtu.be/_ad-DUGBNiw), Tim Schreyack, NANOG 77
+- [Bart Dworak AnsibleFest Keynote](https://www.ansible.com/bart-dworak-keynote-microsoft), Bart Dworak, AnsibleFest 2019
+- [Greenfielding Network and Systems Automation in a Large and Highly Dynamic Public Transit Network](https://www.ansible.com/greenfielding-network-and-systems-automation-in-a-large-and-highly-dynamic-public-transit-network), Logan Best, AnsibleFest 2019
+- [Using Ansible as a Catalyst for Digital Transformation](https://www.ansible.com/using-ansible-as-a-catalyst-for-digital-transformation), Bart Dworak, AnsibleFest 2019
 - [Abstract all the things](https://www.youtube.com/watch?v=Ym5kFJhCLJc), David Barroso, SDN and Network Automation Meetup, Stockholm, June 2016 [presentation](https://www.dravetech.com/presos/abstraction.html).
 - [How Facebook Learned to Stop Worrying and Love the Network](https://ripe71.ripe.net/archives/video/152/), Jose Leitao, David Rothera, RIPE71, November 2015 [slide deck](https://ripe71.ripe.net/wp-content/uploads/presentations/4-DR-NMS-ng-v2.pdf).
 - [Network automation at scale](https://www.youtube.com/watch?v=99jHvkVM0Dk), Mircea Ulinic, NANOG 69, February 2017 [slide deck](https://www.nanog.org/sites/default/files/1_Ulinic_Network_Automation_At_v1.pdf).
@@ -174,7 +184,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
     - [Documentation](https://github.com/batfish/batfish) - Getting Started Documentation for Batfish.
     - [Jupyter Notebook](https://github.com/batfish/pybatfish/tree/master/jupyter_notebooks) - Jupyter Notebooks showing how to use Batfish for configuration, ACL, routing, forwarding, etc... analysis.
     - [Video](https://www.youtube.com/playlist?list=PLUXUN_5CNTWJeMUqbUFcdi2qPnm_2mit3) - YouTube videos explaining how to use Batfish.
- 
+
 ## Chef
 
  - [Using Chef Client with Cisco NX-OS](https://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus9000/sw/7-x/programmability/guide/b_Cisco_Nexus_9000_Series_NX-OS_Programmability_Guide_7x/b_Cisco_Nexus_9000_Series_NX-OS_Programmability_Guide_7x_chapter_01110.html) - Using Chef Client with Cisco NX-OS
@@ -369,7 +379,7 @@ models that enable capacity planning, network optimization and what-if scenario 
 # Network Vendor Products
 - [Cisco Meraki](https://meraki.cisco.com/) - Cisco Meraki is the leader in cloud controlled WiFi, routing, and security. Secure and scalable, Cisco Meraki enterprise networks simply work.
 - [Cisco Viptela](http://viptela.com/) - Viptela provides Software-Defined Wide Area Network (SD-WAN) technology that allows global companies to build cost-effective WANs.
-- [Cumulus Networks NetQ](https://cumulusnetworks.com/products/netq/) - Cumulus NetQ is a highly-scalable, modern network operations tool set that provides visibility into your overlay and underlay networks in real-time. NetQ delivers actionable insights and operational intelligence about the health of your data center — from the container, virtual machine, or host, all the way to the switch and port, enabling a NetDevOps approach. 
+- [Cumulus Networks NetQ](https://cumulusnetworks.com/products/netq/) - Cumulus NetQ is a highly-scalable, modern network operations tool set that provides visibility into your overlay and underlay networks in real-time. NetQ delivers actionable insights and operational intelligence about the health of your data center — from the container, virtual machine, or host, all the way to the switch and port, enabling a NetDevOps approach.
 - [Talari](https://www.talari.com/) - Talari Networks SD-WAN technology.
 
 # Podcasts
@@ -411,4 +421,3 @@ This list is just getting started, please contribute to make it super awesome.
 [![CC4](https://mirrors.creativecommons.org/presskit/cc.srr.primary.svg)](https://creativecommons.org/licenses/by/4.0/legalcode)
 
 Licensed under the Creative Commons 4.0 License, see LICENSE file for more detail.
-
