@@ -58,22 +58,25 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 # Presentations
 
-- [Network Automation Architecture](https://youtu.be/VlDCYmItkzE), John Anderson, Network Field Day 21
-- [Network Automation Journey - Part 1](https://youtu.be/6wl2suubMIQ), Damien Garros, Network Field Day 21
-- [Network Automation Journey - Part 2](https://youtu.be/u0mYDbxH5-s), Damien Garros, Network Field Day 21
-- [Managing Network Device Properties as Code](https://youtu.be/dqzy7wyi1M4), Damien Garros, NANOG 75
-- [Experiences with network automation at Dyn](https://www.youtube.com/watch?v=a4s15nmjDkE), Carlos Vicente, NANOG 67
-- [Network Automation: The Hype vs. Reality](https://youtu.be/fFHL2o033Zc), Jonah Kowall, NANOG
-- [Powering Your Automation: A Single Source of Truth](https://youtu.be/_ad-DUGBNiw), Tim Schreyack, NANOG 77
-- [Bart Dworak AnsibleFest Keynote](https://www.ansible.com/bart-dworak-keynote-microsoft), Bart Dworak, AnsibleFest 2019
-- [Greenfielding Network and Systems Automation in a Large and Highly Dynamic Public Transit Network](https://www.ansible.com/greenfielding-network-and-systems-automation-in-a-large-and-highly-dynamic-public-transit-network), Logan Best, AnsibleFest 2019
-- [Using Ansible as a Catalyst for Digital Transformation](https://www.ansible.com/using-ansible-as-a-catalyst-for-digital-transformation), Bart Dworak, AnsibleFest 2019
-- [Abstract all the things](https://www.youtube.com/watch?v=Ym5kFJhCLJc), David Barroso, SDN and Network Automation Meetup, Stockholm, June 2016 [presentation](https://www.dravetech.com/presos/abstraction.html).
-- [How Facebook Learned to Stop Worrying and Love the Network](https://ripe71.ripe.net/archives/video/152/), Jose Leitao, David Rothera, RIPE71, November 2015 [slide deck](https://ripe71.ripe.net/wp-content/uploads/presentations/4-DR-NMS-ng-v2.pdf).
-- [Network automation at scale](https://www.youtube.com/watch?v=99jHvkVM0Dk), Mircea Ulinic, NANOG 69, February 2017 [slide deck](https://www.nanog.org/sites/default/files/1_Ulinic_Network_Automation_At_v1.pdf).
-- [NAPALM](https://www.youtube.com/watch?v=93q-dHC0u0I), David Barroso, Elisa Jasinska, NANOG 64, June 2015 [slide deck](https://www.nanog.org/sites/default/files/meetings/NANOG64/1043/20150601_Jasinska_Network_Automation_And_v1.pdf).
-- [What Is NetDevOps](https://ripe71.ripe.net/archives/video/154/), Leslie Carr, RIPE71, November 2015 [slide deck](https://ripe71.ripe.net/wp-content/uploads/presentations/54-LeslieCarr_What_is_NetDevOps_Why_RIPE71.pdf).
-- [Securing Network Automation](https://www.youtube.com/watch?v=EXvJMv13t3A), Ivan Pepelnjak, Troopers 2017, March 2017 [slide deck](https://www.troopers.de/downloads/troopers17/TR17_Securing_Network_Automation.pdf).
+|            Title            |            Details            |            Year            |
+|-----------------------------|-------------------------------|----------------------------|
+| [Network Automation: The Hype vs. Reality](https://youtu.be/fFHL2o033Zc) | Jonah Kowall, NANOG | 2020 |
+| [Network Automation Architecture](https://youtu.be/VlDCYmItkzE) | John Anderson, Network Field Day 21 | 2019 |
+| [Network Automation Journey - Part 1](https://youtu.be/6wl2suubMIQ) | Damien Garros, Network Field Day 21 | 2019 |
+| [Network Automation Journey - Part 2](https://youtu.be/u0mYDbxH5-s) | Damien Garros, Network Field Day 21 | 2019 |
+| [Managing Network Device Properties as Code](https://youtu.be/dqzy7wyi1M4) | Damien Garros, NANOG 75 | 2019 |
+| [Powering Your Automation: A Single Source of Truth](https://youtu.be/_ad-DUGBNiw) | Tim Schreyack, NANOG 77 | 2019 |
+| [Bart Dworak AnsibleFest Keynote](https://www.ansible.com/bart-dworak-keynote-microsoft) | Bart Dworak, AnsibleFest | 2019 |
+| [Greenfielding Network and Systems Automation in a Large and Highly Dynamic Public Transit Network](https://www.ansible.com/greenfielding-network-and-systems-automation-in-a-large-and-highly-dynamic-public-transit-network) | Logan Best, AnsibleFest | 2019 |
+| [Using Ansible as a Catalyst for Digital Transformation](https://www.ansible.com/using-ansible-as-a-catalyst-for-digital-transformation) | Bart Dworak, AnsibleFest | 2019 |
+| [Securing Network Automation](https://www.youtube.com/watch?v=EXvJMv13t3A) | Ivan Pepelnjak, Troopers [slide deck](https://www.troopers.de/downloads/troopers17/TR17_Securing_Network_Automation.pdf).  | 2017 |
+| [Network automation at scale](https://www.youtube.com/watch?v=99jHvkVM0Dk) | Mircea Ulinic, NANOG 69, [slide deck](https://www.nanog.org/sites/default/files/1_Ulinic_Network_Automation_At_v1.pdf). | 2017 |
+| [Experiences with network automation at Dyn](https://www.youtube.com/watch?v=a4s15nmjDkE) | Carlos Vicente, NANOG 67 | 2016 |
+| [Abstract all the things](https://www.youtube.com/watch?v=Ym5kFJhCLJc) | David Barroso, SDN and Network Automation Meetup, Stockholm [presentation](https://www.dravetech.com/presos/abstraction.html). | 2016 |
+| [How Facebook Learned to Stop Worrying and Love the Network](https://ripe71.ripe.net/archives/video/152/) | Jose Leitao, David Rothera, RIPE71 [slide deck](https://ripe71.ripe.net/wp-content/uploads/presentations/4-DR-NMS-ng-v2.pdf). | 2015 |
+| [NAPALM](https://www.youtube.com/watch?v=93q-dHC0u0I) | David Barroso, Elisa Jasinska, NANOG 64 [slide deck](https://www.nanog.org/sites/default/files/meetings/NANOG64/1043/20150601_Jasinska_Network_Automation_And_v1.pdf). | 2015 |
+| [What Is NetDevOps](https://ripe71.ripe.net/archives/video/154/) | Leslie Carr, RIPE71, [slide deck](https://ripe71.ripe.net/wp-content/uploads/presentations/54-LeslieCarr_What_is_NetDevOps_Why_RIPE71.pdf). | 2015 |
+
 
 # Blogs
 
