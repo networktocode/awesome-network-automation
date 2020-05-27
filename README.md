@@ -217,7 +217,6 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [Stackstorm Docs](https://docs.stackstorm.com) - Documentation repository for latest version of StackStorm.
  - [StackStorm Intro on Software Gone Wild](https://blog.ipspace.net/2016/11/stackstorm-101-on-software-gone-wild.html) - SGW team talk with StackStorm (including Matt Oswalt) to discuss StackStorm.
 
-
 ## Products
 
  - [eNMS](https://github.com/afourmy/eNMS) - A vendor-agnostic NMS for carrier-grade network visualization and network automation.
@@ -362,11 +361,11 @@ models that enable capacity planning, network optimization and what-if scenario 
 - [Mastering Python Networking Second Edition (August 2018)](https://amzn.to/2PkMRiZ), [First Edition (June 2017 with more SDN-related topics)](https://amzn.to/2NBjlVM) - Become an expert in implementing advanced, network-related tasks with Python.
 - [Network Programmability and Automation](https://shop.oreilly.com/product/0636920042082.do) - Skills for the Next-Generation Network Engineer.
 - [Network Automation at Scale](https://www.oreilly.com/webops-perf/free/network-automation-at-scale.csp) - An introduction and practical look at using Salt to automate your network at scale, in a free ebook from O'Reilly.
-- [Site Reliability Engineering and The Site Reliability Workbook](https://landing.google.com/sre/book.html) - Learn concepts of automating and operating at scale from Google experts
-- [Seeking SRE: Conversations About Running Production Systems at Scale](https://www.amazon.com/Seeking-SRE-Conversations-Running-Production/dp/1491978864) - Learn from the best practices of SRE practitioners who are not working at Google
-- [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/) - Learn the concepts of Agile and DevOps principles
-- [The Phoenix Project](https://itrevolution.com/book/the-phoenix-project/) - See the concepts of Agile and DevOps in this fiction story about a typical IT Org
-- [The Unicorn Project](https://itrevolution.com/the-unicorn-project/) - See the concepts of Agile and DevOps following a Developer viewpoint
+- [Site Reliability Engineering and The Site Reliability Workbook](https://landing.google.com/sre/book.html) - Learn concepts of automating and operating at scale from Google experts.
+- [Seeking SRE: Conversations About Running Production Systems at Scale](https://www.amazon.com/Seeking-SRE-Conversations-Running-Production/dp/1491978864) - Learn from the best practices of SRE practitioners who are not working at Google.
+- [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/) - Learn the concepts of Agile and DevOps principles.
+- [The Phoenix Project](https://itrevolution.com/book/the-phoenix-project/) - See the concepts of Agile and DevOps in this fiction story about a typical IT Org.
+- [The Unicorn Project](https://itrevolution.com/the-unicorn-project/) - See the concepts of Agile and DevOps following a Developer viewpoint.
 
 # Vendor Agnostic Products
 - [Anuta Networks](https://www.anutanetworks.com/ncx-overview/) - Anuta NCX delivers network service orchestration for greenfield and brownfield deployments. NCX is an intent-driven platform with YANG service models for multiple domains such as Branch/CPE, Data Center, Virtual MPLS, Carrier Core Networks and Cloud Interconnects. NCX has built-in YANG device models for PNFs and VNFs from 35+ industry leading vendors supporting hundreds of L2-L7 network functions using CLI, NETCONF, YANG, REST and SNMP. See the complete [list](http://www.anutanetworks.com/managed-devices/).
@@ -389,15 +388,18 @@ models that enable capacity planning, network optimization and what-if scenario 
 
 ## Podcasts Feeds
 
+- [Network to Code](https://networkcollective.com/category/episodes/network-to-code/) - Network to Code automation podcast on the Network Collective feed.
 - [Packet Pushers Full Stack](https://packetpushers.net/series/full-stack-journey/) - The Journey To Full Stack.
 - [Software Gone Wild](https://www.ipspace.net/Podcast/Software_Gone_Wild) - Software Gone Wild is focusing on architectures, solutions and technologies that real networking engineers use in production networks.
 
 ## Podcasts Episodes
 
 - [Network Collective EPISODE 10](https://thenetworkcollective.com/2017/08/ep10-grassroots-automation/) - GRASSROOTS AUTOMATION.
-- [Network Collective Infrastructure as Code 101](https://networkcollective.com/2019/09/infrastructure-as-code/) Introduction to Infrastructure as Code - Network
+- [Network Collective Infrastructure as Code 101](https://networkcollective.com/2019/09/infrastructure-as-code/) Introduction to Infrastructure as Code with Damien Garros and Ken Celenza.
 - [Packet Pushers Datanauts 80](https://packetpushers.net/podcast/podcasts/datanauts-080-network-automation-telemetry/) - The Current State Of Network Automation & Telemetry.
+- [Packet Pushers Day Two Cloud 043](https://packetpushers.net/podcast/day-two-cloud-043-git-for-ops-people/) - Git For Ops People with Damien Garros.
 - [Packet Pushers Heavy Networking #445](https://packetpushers.net/podcast/heavy-networking-445-an-introduction-to-the-nornir-automation-framework/) - David Barroso, Kirk Byers, and Dmitri Figol on Nornir.
+- [Packet Pushers Heavy Networking #498](https://packetpushers.net/podcast/heavy-networking-498-creating-a-single-source-of-truth-for-network-automation/) - Creating A Single Source Of Truth For Network Automation with Tim Schreyack.
 - [Packet Pushers PQ Show 81](https://packetpushers.net/podcast/podcasts/pq-show-81-network-testing-todd/) - Network Testing With ToDD.
 - [Packet Pushers PQ Show 99](https://packetpushers.net/podcast/podcasts/pq-show-99-netmiko-napalm-network-automation/) - Netmiko & NAPALM For Network Automation.
 - [Packet Pushers PQ Show 116](https://packetpushers.net/podcast/podcasts/pq-show-116-practical-yang-network-automation/) - Practical YANG For Network Automation.
