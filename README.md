@@ -162,6 +162,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
    - [XR-Docs](https://xrdocs.github.io) - Documentation Blogs and Tutorials on all things IOS-XR An Open, Extensible and Stable Cloud-Scale Network Operating System.
    - [NX_API Coming soon]() - Coming Soon.
    - [Cisco NX-API](https://developer.cisco.com/site/nx-api/) - Main DEVNET page for NX-API docs.
+ - [Checkpoint Management API](https://sc1.checkpoint.com/documents/latest/APIs/) - Documentation for the Checkpoint Management API (you will need to select WebServices for REST API details)
  - [Cumulus Networks HTTP API](https://docs.cumulusnetworks.com/cumulus-linux/System-Configuration/HTTP-API/) - Cumulus Networks REST API docs.
  - Extreme Networks:
    - [EXOS REST API](https://github.com/extremenetworks/EXOS_Apps/tree/master/REST) - Documentation and examples for ExtremeSwitching ExtremeXOS RESTCONF API.
