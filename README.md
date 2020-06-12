@@ -114,7 +114,8 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
  - [Awesome JSON](https://github.com/burningtree/awesome-json) - A curated list of awesome JSON libraries and resources.
  - [Getting Started and Basics](https://www.codecademy.com/courses/javascript-beginner-en-xTAfX/0/1) - JSON Basics.
- - [JSON 2 YAML](json2yaml.com) - An online JSON to YAML conversion tool.
+ - [JSON diff](https://extendsclass.com/json-diff.html) - An online JSON diff tool.
+ - [JSON 2 YAML](https://www.json2yaml.com/) - An online JSON to YAML conversion tool.
 
 ### XML
 
