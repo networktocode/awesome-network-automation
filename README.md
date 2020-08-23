@@ -242,12 +242,12 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [Hierarchical Configuration](https://github.com/netdevops/hier_config) - Hierarchical Configuration is a Python library that is able to take a running configuration of a network device, compare it to its intended configuration, and build the remediation steps necessary bring a device into spec with its intended configuration.
  - [Jinja2](http://jinja.pocoo.org/) - A full-featured template engine for Python.
  - [NAPALM](https://github.com/napalm-automation/napalm) - NAPALM (Network Automation and Programmability Abstraction Layer with Multivendor support) is a Python library that implements a set of functions to interact with different router vendor devices using a unified API.
+ - [Need To Graph](https://github.com/dmulyalin/N2G) - A library to generate diagrams in yWorks GraphML or diagrams.net/draw.io formats.
  - [netaddr](https://github.com/drkjam/netaddr) - Network address manipulation that supports a number of techniques (supernetting and subnetting).
  - [Netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices.
  - [Nornir](https://github.com/nornir-automation/nornir) - Nornir is a pure Python automation framework intented to be used directly from Python.
  - [SEC - Simple Event Correlator](https://simple-evcorr.github.io/) - SEC is an event correlation tool for advanced event processing which can be harnessed for event log monitoring, for network and security management, for fraud detection, and for any other task which involves event correlation.
   - [Template Text Parser](https://github.com/dmulyalin/ttp) - CLI tool and Python module for parsing semi-structured text into structured data. Similar syntax to Jinja templating, but in reverse.
-  - [Need To Graph](https://github.com/dmulyalin/N2G) - A library to generate diagrams in yWorks GraphML and diagrams.net/draw.io formats.
  - [TextFSM](https://github.com/google/textfsm) - Python module for parsing semi-structured text into Python tables.
 
 
