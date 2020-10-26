@@ -193,6 +193,10 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 ## Chef
 
  - [Using Chef Client with Cisco NX-OS](https://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus9000/sw/7-x/programmability/guide/b_Cisco_Nexus_9000_Series_NX-OS_Programmability_Guide_7x/b_Cisco_Nexus_9000_Series_NX-OS_Programmability_Guide_7x_chapter_01110.html) - Using Chef Client with Cisco NX-OS
+ 
+## (Fedora) CoreOS
+
+ - [Fedora CoreOS Documentation](https://docs.fedoraproject.org/en-US/fedora-coreos/) - YAML-based server setup with Ignition files, automatic updates and deployment
 
 ## Puppet
 
