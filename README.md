@@ -239,6 +239,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [Condoor](https://github.com/kstaniek/condoor) - This is a Python module providing access to Cisco devices over Telnet and SSH.
  - [EasySNMP](https://github.com/kamakazikamikaze/easysnmp) - Easy to use and very fast SNMP library that uses Net-SNMP.
  - [FreeZTP](https://github.com/PackeTsar/freeztp) - FreeZTP is an open-source Zero-Touch Provisioning system for Cisco IOS campus switches and routers.
+ - [gNMIc](https://gnmic.kmrd.dev) - gNMI CLI client and collector.
  - [Hierarchical Configuration](https://github.com/netdevops/hier_config) - Hierarchical Configuration is a Python library that is able to take a running configuration of a network device, compare it to its intended configuration, and build the remediation steps necessary bring a device into spec with its intended configuration.
  - [Jinja2](http://jinja.pocoo.org/) - A full-featured template engine for Python.
  - [NAPALM](https://github.com/napalm-automation/napalm) - NAPALM (Network Automation and Programmability Abstraction Layer with Multivendor support) is a Python library that implements a set of functions to interact with different router vendor devices using a unified API.
@@ -288,7 +289,6 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [BGP-Dashboard](https://github.com/rhicks/bgp-dashboard) - BGP Dashboard and Monitoring Web Application.
 - [Batfish](https://github.com/batfish/batfish) - Open-source network validation application. Multi-vendor configuration parser with a detailed modeled based simulation to analyze all aspects of network behavior (routing, forwarding, security, etc...).
 - [Drawthe.net](https://github.com/cidrblock/drawthe.net) - Draw network diagrams described in YAML files.
-- [gNMIc](https://gnmic.kmrd.dev) - gNMI CLI client and collector.
 - [napalm-logs](https://github.com/napalm-automation/napalm-logs) - Cross-vendor normalisation for network syslog messages, following the OpenConfig and IETF YANG models.
 - [Network-Conditions-Emulator](https://github.com/marty90/Network-Conditions-Emulator) - Artificially limit bandwidth, delay and loss rate on selected interfaces.
 - [netconan](https://github.com/intentionet/netconan) - Network Configuration Anonymizer
