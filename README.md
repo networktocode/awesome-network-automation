@@ -228,6 +228,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [Rundeck](https://rundeck.org/) - Job scheduler and runbook (and Ansible playbook) automation.
  - [ToDD](https://github.com/toddproject/todd) - ToDD is an extensible framework for providing natively distributed testing on demand.
  - [Trigger](https://github.com/trigger/trigger) - Trigger is a robust network automation toolkit written in Python that was designed for interfacing with network devices and managing network configuration and security policy.
+ - [NETPALM] (https://github.com/tbotnz/netpalm) - Netpalm is a ReST broker and abstraction layer for NAPALM, Netmiko, NCCLIENT or a Python Script.
 
 ## Library
 
@@ -324,6 +325,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [Forward Networks](https://forwardnetworks.com) - Forward Enterprise documents, searches, verifies, and predicts the behavior of your network by creating an always-accurate software copy of your entire network infrastructure for both on-prem and cloud.
  - [Juniper WANDL](https://www.juniper.net/us/en/products-services/sdn/wandl/) - Juniper WANDL provides traffic engineering
 models that enable capacity planning, network optimization and what-if scenario analysis for carrier networks.
+ - [SusieQ] (https://github.com/netenglabs/suzieq) Suzieq is both a framework and an application using that framework, that is focused on improving the observability of your network.
 
 # Backups
 
