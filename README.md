@@ -222,13 +222,13 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 ## Products
 
  - [eNMS](https://github.com/afourmy/eNMS) - A vendor-agnostic NMS for carrier-grade network visualization and network automation.
+ - [netpalm] (https://github.com/tbotnz/netpalm) - Netpalm is a ReST broker and abstraction layer for NAPALM, Netmiko, NCCLIENT or a Python Script.
  - [Netshot](http://www.netfishers.onl/netshot) - Network Configuration and Compliance Management Software.
  - [NSoT](https://github.com/dropbox/nsot) - Network Source of Truth (NSoT) is a source of truth database and repository for tracking inventory and metadata of network entities to ease management and automation of network infrastructure.
  - [Nuts](https://github.com/HSRNetwork/Nuts) - Network Unit Testing System automates tests in the network similar to unit tests.
  - [Rundeck](https://rundeck.org/) - Job scheduler and runbook (and Ansible playbook) automation.
  - [ToDD](https://github.com/toddproject/todd) - ToDD is an extensible framework for providing natively distributed testing on demand.
  - [Trigger](https://github.com/trigger/trigger) - Trigger is a robust network automation toolkit written in Python that was designed for interfacing with network devices and managing network configuration and security policy.
- - [NETPALM] (https://github.com/tbotnz/netpalm) - Netpalm is a ReST broker and abstraction layer for NAPALM, Netmiko, NCCLIENT or a Python Script.
 
 ## Library
 
