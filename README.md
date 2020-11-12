@@ -131,7 +131,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
  - [Documentation](http://jinja.pocoo.org/docs/2.10/templates/) - Base documentation for Jinja2.
  - [Sample Jinja2 templates](https://github.com/ipspace/NetOpsWorkshop/tree/master/Jinja2) - Jinja examples courtesy of Ivan Pepelnjak.
- - [TD4a](https://td4a.now.sh) - Advanced online rendering tool.
+ - [TD4a](https://td4a.codethenetwork.com/) - Advanced online rendering tool.
 
 ## API
 
@@ -222,7 +222,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 ## Products
 
  - [eNMS](https://github.com/afourmy/eNMS) - A vendor-agnostic NMS for carrier-grade network visualization and network automation.
- - [netpalm](https://github.com/tbotnz/netpalm) - Netpalm is a ReST broker and abstraction layer for NAPALM, Netmiko, NCCLIENT or a Python Script.
+ - [netpalm](https://github.com/tbotnz/netpalm) - netpalm is a ReST broker and abstraction layer for NAPALM, Netmiko, NCCLIENT or a Python Script.
  - [Netshot](http://www.netfishers.onl/netshot) - Network Configuration and Compliance Management Software.
  - [NSoT](https://github.com/dropbox/nsot) - Network Source of Truth (NSoT) is a source of truth database and repository for tracking inventory and metadata of network entities to ease management and automation of network infrastructure.
  - [Nuts](https://github.com/HSRNetwork/Nuts) - Network Unit Testing System automates tests in the network similar to unit tests.
@@ -325,7 +325,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [Forward Networks](https://forwardnetworks.com) - Forward Enterprise documents, searches, verifies, and predicts the behavior of your network by creating an always-accurate software copy of your entire network infrastructure for both on-prem and cloud.
  - [Juniper WANDL](https://www.juniper.net/us/en/products-services/sdn/wandl/) - Juniper WANDL provides traffic engineering
 models that enable capacity planning, network optimization and what-if scenario analysis for carrier networks.
- - [SusieQ](https://github.com/netenglabs/suzieq) Suzieq is both a framework and an application using that framework, that is focused on improving the observability of your network.
+ - [SusieQ](https://github.com/netenglabs/suzieq) - Suzieq is both a framework and an application using that framework, that is focused on improving the observability of your network.
 
 # Backups
 
