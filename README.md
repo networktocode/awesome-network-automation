@@ -251,6 +251,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [SEC - Simple Event Correlator](https://simple-evcorr.github.io/) - SEC is an event correlation tool for advanced event processing which can be harnessed for event log monitoring, for network and security management, for fraud detection, and for any other task which involves event correlation.
   - [Template Text Parser](https://github.com/dmulyalin/ttp) - CLI tool and Python module for parsing semi-structured text into structured data. Similar syntax to Jinja templating, but in reverse.
  - [TextFSM](https://github.com/google/textfsm) - Python module for parsing semi-structured text into Python tables.
+ - [scrapli](https://carlmontanari.github.io/scrapli/) -  A python library focused on connecting to devices, specifically network devices
 
 
 ## Non-Core Ansible Modules
