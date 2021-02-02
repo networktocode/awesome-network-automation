@@ -93,6 +93,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [Networklore](https://networklore.com/blog) - The Network Automation thoughts of Patrick Ogenstad.
 - [Networker and Coder](https://networkerandcoder.wordpress.com/) - The Network Automation thoughts of Csilla Bessenyei.
 - [Network OP](https://networkop.co.uk/) - The Network Automation thoughts of Michael Kashin.
+- [PacketFlow](https://www.packetflow.co.uk) - The Network Automation thoughts of Rick Donato.
 - [Packet Life](http://packetlife.net/) - The Network Automation thoughts of Jeremy Strech.
 - [Project 10](https://projectme10.wordpress.com) - The Network Automation thoughts of Gabriele Gerbino.
 - [Python for Network Engineers](https://pynet.twb-tech.com/) - Articles on Netmiko, NAPALM, and Ansible by Kirk Byers.
