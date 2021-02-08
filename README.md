@@ -312,6 +312,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 # Network Emulators
 
+ - [Container-Lab](https://github.com/srl-wim/container-lab) - Containerlab provides a framework for orchestrating networking labs with containers. It starts the containers, builds a virtual wiring between them to create lab topologies of users choice and manages labs lifecycle.
  - [EVE-NG](http://www.eve-ng.com/) - The Emulated Virtual Environment for Network, Security and DevOps professionals.
  - [GNS3](https://www.gns3.com/) - Graphical Network Simulator-3.
  - [Mininet](http://mininet.org/) - Mininet creates a realistic virtual network, running real kernel, switch and application code, on a single machine (VM, cloud or native), in seconds, with a single command.
