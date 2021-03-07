@@ -86,7 +86,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [dravetech.com](https://www.dravetech.com) - The Network Automation thoughts of David Barroso.
 - [Eric Chou - PythonicNetneg](https://blog.pythonicneteng.com/) - The Network Automation thoughts of Eric Chou.
 - [IPEngineer - David Gee](http://ipengineer.net) - Network automation, software-networking and musings from David Gee.
-- [ipSpace.net - Ivan Pepelnjak](https://blog.ipspace.net/search/label/Automation) - Network automation blog posts by Ivan Pepelnjak.
+- [ipSpace.net - Ivan Pepelnjak](https://blog.ipspace.net/tag/automation.html) - Network automation blog posts by Ivan Pepelnjak.
 - [Jason Edelman](http://www.jedelman.com/) - The Network Automation thoughts of Jason Edelman.
 - [Mircea Ulinic](https://mirceaulinic.net/) - Random thoughts of Mircea Ulinic. May include event-driven network automation, vendor bashing or machine learning (TBD).
 - [Napalm-automation](https://napalm-automation.net) - News and updates about the NAPALM project.
