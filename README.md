@@ -27,7 +27,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [Ansible Google Groups](https://groups.google.com/forum/#!forum/ansible-project) - Ansible's mailing list and forum!
 - [IRC Ansible](https://docs.ansible.com/ansible/community.html#irc-channel) - Ansible IRC Channels.
 - [Chef Community](https://www.chef.io/community/) - The complete offical list of Chef Community resources.
-- [Network to Code Slack](http://slack.networktocode.com) - The NTC Slack is a home/pseudo-home to many popular Network Automation solution repositories, such as NAPALM, Netmiko, NetBox, NSoT, and so on. Over 10,000 members meet here to discuss topics related to Network Automation.
+- [Network to Code Slack](http://slack.networktocode.com) - The NTC Slack is a vendor and product agnostic home/pseudo-home to many popular Network Automation solution repositories, such as Nautobot, NAPALM, Netmiko, Nornir, NSoT, and so on. Over 17,000 members meet here to discuss topics related to Network Automation.
 - [Puppet Community](https://puppet.com/community) - The complete offical list of Puppet Community resources.
 - [Salt Formulas](https://groups.google.com/forum/#!forum/salt-formulas) - The SaltStack formulas working group.
 - [Salt Networks](https://groups.google.com/forum/#!forum/salt-networks) - A centralized group for talking about network device automation with SaltStack.
@@ -60,6 +60,10 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 |            Title            |            Details            |            Year            |
 |-----------------------------|-------------------------------|----------------------------|
+| [Nautobot Overview](https://www.youtube.com/watch?v=_vq-rtTRLRk&list=PLinuRwpnsHadCKcgqwnikyMZEWZX1raMB&index=16) | Network to Code, Network Field Day 24 | 2021 |
+| [Automation without Config Deployment](https://www.youtube.com/watch?v=qw6jKa7yLBQ) | Ken Celenza, NANOG | 2021 |
+| [Interop Network Automation track](https://www.youtube.com/watch?v=5qTC3lZYX34&list=PLjA0bhxgryJ35D79ZRrNLMaZNaL3NAvEa) | Network to Code hosted Interop event | 2020 |
+| [NetBox Day](https://www.youtube.com/watch?v=ZHH0Kjx55LM&list=PLjA0bhxgryJ3VcbLIZqY2F2QfUcdRhxZS) | Network to Code hosted event | 2020 |
 | [Network Automation: The Hype vs. Reality](https://youtu.be/fFHL2o033Zc) | Jonah Kowall, NANOG | 2020 |
 | [Network Automation Architecture](https://youtu.be/VlDCYmItkzE) | John Anderson, Network Field Day 21 | 2019 |
 | [Network Automation Journey - Part 1](https://youtu.be/6wl2suubMIQ) | Damien Garros, Network Field Day 21 | 2019 |
@@ -88,11 +92,13 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [IPEngineer - David Gee](http://ipengineer.net) - Network automation, software-networking and musings from David Gee.
 - [ipSpace.net - Ivan Pepelnjak](https://blog.ipspace.net/tag/automation.html) - Network automation blog posts by Ivan Pepelnjak.
 - [Jason Edelman](http://www.jedelman.com/) - The Network Automation thoughts of Jason Edelman.
+- [Josh-V](https://josh-v.com/) - The Network Automation thoughts of Josh VanDeraa.
 - [Mircea Ulinic](https://mirceaulinic.net/) - Random thoughts of Mircea Ulinic. May include event-driven network automation, vendor bashing or machine learning (TBD).
 - [Napalm-automation](https://napalm-automation.net) - News and updates about the NAPALM project.
 - [Networklore](https://networklore.com/blog) - The Network Automation thoughts of Patrick Ogenstad.
 - [Networker and Coder](https://networkerandcoder.wordpress.com/) - The Network Automation thoughts of Csilla Bessenyei.
 - [Network OP](https://networkop.co.uk/) - The Network Automation thoughts of Michael Kashin.
+- [NWMichl Blog](https://nwmichl.net/) - The Network Automation thoughts of Michael Schön.
 - [PacketFlow](https://www.packetflow.co.uk) - The Network Automation thoughts of Rick Donato.
 - [Packet Life](http://packetlife.net/) - The Network Automation thoughts of Jeremy Strech.
 - [Project 10](https://projectme10.wordpress.com) - The Network Automation thoughts of Gabriele Gerbino.
@@ -223,6 +229,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 ## Products
 
  - [eNMS](https://github.com/afourmy/eNMS) - A vendor-agnostic NMS for carrier-grade network visualization and network automation.
+ - [Nautobot](https://github.com/nautobot/nautobot) - Nautobot is a Network Source of Truth and Network Automation Platform.
  - [netpalm](https://github.com/tbotnz/netpalm) - netpalm is a ReST broker and abstraction layer for NAPALM, Netmiko, NCCLIENT or a Python Script.
  - [Netshot](http://www.netfishers.onl/netshot) - Network Configuration and Compliance Management Software.
  - [NSoT](https://github.com/dropbox/nsot) - Network Source of Truth (NSoT) is a source of truth database and repository for tracking inventory and metadata of network entities to ease management and automation of network infrastructure.
@@ -258,7 +265,6 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
  - [ansible-junos-stdlib](https://github.com/Juniper/ansible-junos-stdlib) - Junos OS modules for Ansible.
  - [ansible-mysql-query](https://github.com/zauberpony/ansible-mysql-query) - Ansible module to modify MySQL database records.
- - [ansible-pan](https://github.com/PaloAltoNetworks/ansible-pan) - Ansible modules for working with Palo Alto Networks PAN-OS.
  - [ara](https://github.com/openstack/ara) - Ansible Runtime Analysis.
  - [FortiManager-Ansible](https://github.com/networktocode/fortimanager-ansible) - Ansible module to work with FortiManager.
  - [Infoblox-Ansible](https://github.com/infobloxopen/infoblox-ansible) - Ansible module to work with Infoblox.
@@ -266,6 +272,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [Napalm-Ansible](https://github.com/napalm-automation/napalm-ansible) - Collection of Ansible modules that use napalm to retrieve data or modify configuration on networking devices.
  - [Netscaler-Ansible](https://github.com/networktocode/netscaler-ansible) - Ansible module to work with Netscalers.
  - [NTC Ansible](https://github.com/networktocode/ntc-ansible) - Multi-vendor Ansible modules for Network Automation.
+- [pan-os-ansible](https://github.com/PaloAltoNetworks/pan-os-ansible) - Ansible modules for working with Palo Alto Networks PAN-OS.
 
 ## Pre-written Salt States (Formulas)
 
@@ -279,10 +286,11 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [Infoblox Python Module](https://github.com/infobloxopen/infoblox-client) - Python wrapper for REST API
  - [Infoblox Go Client](https://github.com/infobloxopen/infoblox-go-client) - Go wrapper for REST API
  - [pan-python](https://github.com/kevinsteves/pan-python) - Multi-tool set for Palo Alto Networks PAN-OS, Panorama, WildFire and AutoFocus.
- - [pandevice](https://github.com/PaloAltoNetworks/pandevice) - Device framework for interacting with Palo Alto Networks devices.
+ - [pandevice](https://github.com/PaloAltoNetworks/pan-os-python) - Device framework for interacting with Palo Alto Networks devices.
  - [pyeapi](https://github.com/arista-eosplus/pyeapi) - Python library for Arista EOS.
  - [pyfg](https://github.com/spotify/pyfg) - Python library for Fortinet.
  - [pyiosxr](https://github.com/fooelisa/pyiosxr) - Python library for Cisco IOSXR.
+ - [pyntc](https://github.com/networktocode/pyntc) - Python library focused on tasks related to device level and OS management.
  - [pynxos](https://github.com/networktocode/pynxos) - Python library for Cisco NXOS.
  - [py-junos-exnc](https://github.com/Juniper/py-junos-eznc) - Python library for Junos automation.
 
@@ -345,7 +353,7 @@ models that enable capacity planning, network optimization and what-if scenario 
 - [Device42](https://www.device42.com) - Automatically maintain an up-to-date inventory of your physical, virtual, and cloud servers and containers, network components, software, services, applications, and their inter-relationships and inter-dependencies. Integrations, REST APIs and webhooks to automate your workflows with a modern CMDB as a single source of truth. Comes with powerful Data Center Infrastructure Management, IP Address Management and Application Mappings.  Mostly leverages SNMP or vendor provided APIs that are well adopted/documented.
 - [haci](http://haci.larsux.de/) - HaCi is an IP Address / Network Administration (IPAM) Tool with IPv6 support.
 - [Infoblox](https://www.infoblox.com/) - Industry leader in DNS, DHCP, and IP address management, the category known as DDI.
-- [NetBox](https://github.com/digitalocean/netbox) - NetBox is an IP address management (IPAM) and data center infrastructure management (DCIM) tool.
+- [NetBox](https://github.com/netbox-community/netbox) - NetBox is an IP address management (IPAM) and data center infrastructure management (DCIM) tool.
 - [nipap](https://spritelink.github.io/NIPAP/) - nipap is a sleek, intuitive and powerful IP address management system built to handle large amounts of IP addresses.
 - [NSoT](https://github.com/dropbox/nsot) - Network Source of Truth is an open source IPAM and network inventory database.
 - [phpIPAM](https://phpipam.net/) - phpIPAM is an open-source web IP address management application (IPAM). Its goal is to provide light, modern and useful IP address management.
@@ -368,6 +376,7 @@ models that enable capacity planning, network optimization and what-if scenario 
 - [Infrastructure as Code](https://www.amazon.com/Infrastructure-Code-Managing-Servers-Cloud/dp/1491924357) - Learn the Infra as Code principles and design patterns (examples are for Compute not network though)
 - [Mastering Python Networking Second Edition (August 2018)](https://amzn.to/2PkMRiZ), [First Edition (June 2017 with more SDN-related topics)](https://amzn.to/2NBjlVM) - Become an expert in implementing advanced, network-related tasks with Python.
 - [Network Programmability and Automation](https://shop.oreilly.com/product/0636920042082.do) - Skills for the Next-Generation Network Engineer.
+- [Network Programmability with YANG](https://www.oreilly.com/library/view/network-programmability-with/9780135180471/) - The Structure of Network Automation with YANG, NETCONF, RESTCONF, and gNMI.
 - [Network Automation at Scale](https://www.oreilly.com/webops-perf/free/network-automation-at-scale.csp) - An introduction and practical look at using Salt to automate your network at scale, in a free ebook from O'Reilly.
 - [Site Reliability Engineering and The Site Reliability Workbook](https://landing.google.com/sre/book.html) - Learn concepts of automating and operating at scale from Google experts.
 - [Seeking SRE: Conversations About Running Production Systems at Scale](https://www.amazon.com/Seeking-SRE-Conversations-Running-Production/dp/1491978864) - Learn from the best practices of SRE practitioners who are not working at Google.
@@ -419,7 +428,10 @@ models that enable capacity planning, network optimization and what-if scenario 
 - [Packet Pushers Show 353](https://packetpushers.net/podcast/podcasts/show-353-business-impact-network-automation/) - The Business Impact Of Network Automation.
 - [Packet Pushers Show 368](https://packetpushers.net/podcast/podcasts/show-368-radical-change-devops-automation/) - Show 368: Radical Change, DevOps & Automation.
 - [Packet Pushers Show 402](https://packetpushers.net/podcast/weekly-show-402-building-a-network-automation-framework/) - Show 402 - Building A Network Automation Framework
+- [Packet Pushers Show 532](https://packetpushers.net/podcast/heavy-networking-532-scrapli-is-a-netmiko-alternative/) - Scrapli Is A Netmiko Alternative - Show 532 with Carl Montanari and Dmitry Figol.
+- [Packet Pushers Show 537](https://packetpushers.net/ansible-or-terraform-choose-one/) - Ansible Or Terraform: Choose One with Josh VanDeraa and Ned Bellavance.
 - [Podcast__init Episode 117](https://www.podcastinit.com/napalm-with-david-barosso-and-mircea-ulinic-episode-117/) - NAPALM with David Barroso and Mircea Ulinic.
+- [Podcast__init Episode 232](https://www.pythonpodcast.com/enms-network-automation-episode-232/) - Network Automation At Enterprise Scale With Python - Episode 232 with Antoine Fourmy.
 - [Talk Python to me #128](https://talkpython.fm/episodes/embed_details/128) - Pythonic Networks with NAPALM.
 - [Talk Python to me #175](https://talkpython.fm/episodes/show/175/teaching-python-to-network-engineers) - Teaching Python to network engineers
 
