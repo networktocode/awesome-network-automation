@@ -101,6 +101,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [Packet Life](http://packetlife.net/) - The Network Automation thoughts of Jeremy Stretch.
 - [Python for Network Engineers](https://pynet.twb-tech.com/blog/) - Articles on Netmiko, NAPALM, and Ansible by Kirk Byers.
 - [Scott Lowe](https://blog.scottlowe.org) - The Network Automation thoughts of Scott Lowe.
+- [MTU Ninja](https://vincent.bernat.ch/en/blog#tag-network-automation) - The Network Automation thoughts of Vincent Bernat.
 
 # Programming Topics
 
@@ -347,6 +348,7 @@ models that enable capacity planning, network optimization and what-if scenario 
 - [Solarwinds](https://www.solarwinds.com/network-configuration-manager) - Automated network configuration and compliance management.
 - [Rconfig](https://www.rconfig.com/) - Free, open source network device configuration management tool, customizable to your needs!
 - [Unimus](https://unimus.net) - Network-wide configuration search and config diff over time in an easy to use web GUI.
+- [Jerikan+Ansible](https://github.com/jerikan-network/cmdb) - Network wide CMDB combining single source of truth in YAML, configs in Jinja2 and deployment with Ansible.  [Detailed blog post with examples](https://vincent.bernat.ch/en/blog/2021-network-jerikan-ansible).
 
 # Books
 
