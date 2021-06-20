@@ -343,12 +343,12 @@ models that enable capacity planning, network optimization and what-if scenario 
 - [TeemIP](https://sourceforge.net/projects/teemip/) - TeemIp is an open source, WEB based, IP Adress Management (IPAM) tool that provides comprehensive IP Management capabilities. It allows you to manage your IPv4 and IPv6 spaces through a simple and powerful user interface: track user requests, discover and allocate IPs, manage your IP plan and your subnet space in accordance with best in class IP Management practices.
 
 # Configuration Management
+- [Jerikan](https://github.com/jerikan-network/cmdb) - Network wide CMDB combining single source of truth in YAML, configs in Jinja2 and deployment with Ansible.
 - [ManageEngine](https://www.manageengine.com/network-configuration-manager/) - Network Configuration Manager is a multi vendor network change, configuration and compliance management (NCCCM) solution for switches, routers, firewalls and other network devices.
 - [NetMRI](https://www.infoblox.com/products/netmri/) - Vendor Agnostic NCCM tool with with policy engine and multi-vendor device lifecycle/vulnerability management. (Infoblox product)
-- [Solarwinds](https://www.solarwinds.com/network-configuration-manager) - Automated network configuration and compliance management.
 - [Rconfig](https://www.rconfig.com/) - Free, open source network device configuration management tool, customizable to your needs!
+- [Solarwinds](https://www.solarwinds.com/network-configuration-manager) - Automated network configuration and compliance management.
 - [Unimus](https://unimus.net) - Network-wide configuration search and config diff over time in an easy to use web GUI.
-- [Jerikan](https://github.com/jerikan-network/cmdb) - Network wide CMDB combining single source of truth in YAML, configs in Jinja2 and deployment with Ansible.
 
 # Books
 
