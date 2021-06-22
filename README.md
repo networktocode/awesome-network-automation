@@ -84,7 +84,6 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 # Blogs
 
-- [Open-Source Routing and Network Simulation - Brian Linkletter](https://www.brianlinkletter.com/) - Blog about the open-source network emulation and network simulation tools by Brian Linkletter.
 - [Coding Packets](https://codingpackets.com/blog/) - The Network Automation thoughts of Brad Searle.
 - [dravetech.com](https://www.dravetech.com) - The Network Automation thoughts of David Barroso.
 - [Eric Chou - PythonicNetneg](https://blog.pythonicneteng.com/) - The Network Automation thoughts of Eric Chou.
@@ -98,6 +97,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [Networklore](https://networklore.com/blog) - The Network Automation thoughts of Patrick Ogenstad.
 - [Network OP](https://networkop.co.uk/) - The Network Automation thoughts of Michael Kashin.
 - [NWMichl Blog](https://nwmichl.net/) - The Network Automation thoughts of Michael Schön.
+- [Open-Source Routing and Network Simulation - Brian Linkletter](https://www.brianlinkletter.com/) - Blog about the open-source network emulation and network simulation tools by Brian Linkletter.
 - [PacketFlow](https://www.packetflow.co.uk) - The Network Automation thoughts of Rick Donato.
 - [Packet Life](http://packetlife.net/) - The Network Automation thoughts of Jeremy Stretch.
 - [Python for Network Engineers](https://pynet.twb-tech.com/blog/) - Articles on Netmiko, NAPALM, and Ansible by Kirk Byers.
