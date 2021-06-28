@@ -84,6 +84,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 # Blogs
 
+- [Benoît Claise blog](https://www.claise.be/) - The Network Automation thoughts of Benoît Claise.
 - [Coding Packets](https://codingpackets.com/blog/) - The Network Automation thoughts of Brad Searle.
 - [dravetech.com](https://www.dravetech.com) - The Network Automation thoughts of David Barroso.
 - [Eric Chou - PythonicNetneg](https://blog.pythonicneteng.com/) - The Network Automation thoughts of Eric Chou.
