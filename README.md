@@ -391,10 +391,10 @@ models that enable capacity planning, network optimization and what-if scenario 
 
 ## Podcasts Feeds
 
+- [The Net](https://thenet.lol/episodes/) - The Net podcast episodes
 - [Network to Code](https://networkcollective.com/category/episodes/network-to-code/) - Network to Code automation podcast on the Network Collective feed.
 - [Packet Pushers Full Stack](https://packetpushers.net/series/full-stack-journey/) - The Journey To Full Stack.
 - [Software Gone Wild](https://www.ipspace.net/Podcast/Software_Gone_Wild) - Software Gone Wild is focusing on architectures, solutions and technologies that real networking engineers use in production networks.
-- [The Net](https://thenet.lol/episodes/) - The Net podcast episodes
 
 ## Podcasts Episodes
 
