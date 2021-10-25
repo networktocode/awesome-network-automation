@@ -284,7 +284,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [pyfg](https://github.com/spotify/pyfg) - Python library for Fortinet.
  - [pyiosxr](https://github.com/fooelisa/pyiosxr) - Python library for Cisco IOSXR.
  - [pyntc](https://github.com/networktocode/pyntc) - Python library focused on tasks related to device level and OS management.
- - [py-junos-exnc](https://github.com/Juniper/py-junos-eznc) - Python library for Junos automation.
+ - [py-junos-eznc](https://github.com/Juniper/py-junos-eznc) - Python library for Junos automation.
 
 ## Tools
 
