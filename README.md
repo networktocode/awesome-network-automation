@@ -294,6 +294,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [Network-Conditions-Emulator](https://github.com/marty90/Network-Conditions-Emulator) - Artificially limit bandwidth, delay and loss rate on selected interfaces.
 - [netconan](https://github.com/intentionet/netconan) - Network Configuration Anonymizer
 - [NetCopa](https://github.com/cidrblock/netcopa) - Network device configuration parser ("industry standard" -> YAML converter).
+- [Topolograph](https://github.com/Vadims06/topolograph) - Python-based Web tool for visualisation of OSPF topologies and making a prediction of network behaviour in case of network's outage.
 
 # Hypervisors and Containers
 
