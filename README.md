@@ -100,7 +100,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [Network OP](https://networkop.co.uk/) - The Network Automation thoughts of Michael Kashin.
 - [NWMichl Blog](https://nwmichl.net/) - The Network Automation thoughts of Michael Schön.
 - [Open-Source Routing and Network Simulation - Brian Linkletter](https://www.brianlinkletter.com/) - Blog about the open-source network emulation and network simulation tools by Brian Linkletter.
-- [PacketFlow](https://www.packetflow.co.uk) - The Network Automation thoughts of Rick Donato.
+- [Packet Coders](https://packetcoders.io/tag/blog) - The Network Automation thoughts of Rick Donato.
 - [Packet Life](http://packetlife.net/) - The Network Automation thoughts of Jeremy Stretch.
 - [Python for Network Engineers](https://pynet.twb-tech.com/blog/) - Articles on Netmiko, NAPALM, and Ansible by Kirk Byers.
 - [Scott Lowe](https://blog.scottlowe.org) - The Network Automation thoughts of Scott Lowe.
@@ -378,6 +378,7 @@ models that enable capacity planning, network optimization and what-if scenario 
  - [Forward Networks](https://forwardnetworks.com) - Forward Enterprise documents, searches, verifies, and predicts the behavior of your network by creating an always-accurate software copy of your entire network infrastructure for both on-prem and cloud.
 - [Glue](http://gluenetworks.com/about-us-the-glue-team/) - With Gluware, the Glue Networks vision and team are continuing to trail-blaze at the forefront of the networking industry with multi-vendor orchestration solutions for Data Center, WAN and LAN networks.
 - [Intentionet](https://www.intentionet.com/) - Intentionet provides a hosted or on-premise network validation software solution based on [Batfish](http://www.batfish.org). Intentionet Sage's model-based network simulation enables pre-commit validation for all network changes, ensuring only correct changes are pushed to the network, thereby reducing outages and breaches while improving network agility.
+- [IP Fabric](https://ipfabric.io/) - Network assurance tool with vendor agnostic network discovery, inventory, modelling and mapping of on-prem and cloud networks.  Snapshots create a point-in-time view to verify that network behaves as intended after changes. GUI supports your network documentation with accurate, live network representation, and API used to keep all your SoT, automation tooling and monitoring up to date.
 - [NetMRI](https://www.infoblox.com/products/netmri/) - Vendor Agnostic NCCM tool with with policy engine and multi-vendor device lifecycle/vulnerability management. (Infoblox product)
 - [NetYCE](https://netyce.com/) NetYCE lets you be in control of any and all of your networks, using its unique Design Driven Networking approach. Not stopping at network devices, but orchestrate end-to-end including firewalls, DDI (DNS, DHCP, IPAM) and other 3rd party tooling. Deploy your networks as Designed.
 - [PacketFront](https://pfsw.com/) - PacketFront BECS and BBE is a vendor-agnostic network, service and resource orchestration system for residential, enterprise and data center networks.
