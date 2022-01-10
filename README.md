@@ -104,6 +104,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [Packet Life](http://packetlife.net/) - The Network Automation thoughts of Jeremy Stretch.
 - [Python for Network Engineers](https://pynet.twb-tech.com/blog/) - Articles on Netmiko, NAPALM, and Ansible by Kirk Byers.
 - [Scott Lowe](https://blog.scottlowe.org) - The Network Automation thoughts of Scott Lowe.
+- [Wim Wauters](https://blog.wimwauters.com/categories/all/) - The Network Automation thoughts of Wim Wauters.
 
 # Programming Topics
 
