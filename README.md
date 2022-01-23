@@ -62,6 +62,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 |-----------------------------|-------------------------------|----------------------------|
 | [Nautobot Overview](https://www.youtube.com/watch?v=_vq-rtTRLRk&list=PLinuRwpnsHadCKcgqwnikyMZEWZX1raMB&index=16) | Network to Code, Network Field Day 24 | 2021 |
 | [Automation without Config Deployment](https://www.youtube.com/watch?v=qw6jKa7yLBQ) | Ken Celenza, NANOG | 2021 |
+| [Cisco DevNet Day 2020](https://developer.cisco.com/events/devnetday20/) | Todd Nightingale (Cisco SVP/GM) | 2020 |
 | [Interop Network Automation track](https://www.youtube.com/watch?v=5qTC3lZYX34&list=PLjA0bhxgryJ35D79ZRrNLMaZNaL3NAvEa) | Network to Code hosted Interop event | 2020 |
 | [NetBox Day](https://www.youtube.com/watch?v=ZHH0Kjx55LM&list=PLjA0bhxgryJ3VcbLIZqY2F2QfUcdRhxZS) | Network to Code hosted event | 2020 |
 | [Network Automation: The Hype vs. Reality](https://youtu.be/fFHL2o033Zc) | Jonah Kowall, NANOG | 2020 |
@@ -162,15 +163,19 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
  - [Awesome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries, software and resources.
  - [Getting Started and Basics](https://tour.golang.org/welcome) - Introduction to programming with Go.
+ - [YAML-to-Go](https://zhwt.github.io/yaml-to-go/) - YAML to Go structs
+ - [JSON-to-Go](https://mholt.github.io/json-to-go/) - JSON to Go structs
 
 ## Vendor API Docs
 
  - [Arista EAPI](https://eos.arista.com/arista-eapi-101/) - The Arista Command eAPI is a simple and complete API that allows you to configure and monitor your Arista switches.
  - [Cisco IOS XE CSR1000V](https://www.cisco.com/c/en/us/td/docs/routers/csr1000/software/restapi/restapi/RESTAPIintro.html) - Cisco IOS XE REST API Management Reference Guide.
+    - [IOS-XE Programmability](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/prog/configuration/177/b_177_programmability_cg.html) - Documentation for Plug and Play, Guestshell, Python API, EEM, NETCONF, RESTCONF, gNMI/gNOI, gRPC and Application Hosting.
  - [Cisco IOS-XR](https://www.cisco.com/c/en/us/td/docs/ios_xr_sw/iosxr_r4-1/xml/programming/guide/xl41apidoc.html) - Cisco IOS-XR API Docs only.
    - [XR-Docs](https://xrdocs.github.io) - Documentation Blogs and Tutorials on all things IOS-XR An Open, Extensible and Stable Cloud-Scale Network Operating System.
    - [NX_API Coming soon]() - Coming Soon.
    - [Cisco NX-API](https://developer.cisco.com/site/nx-api/) - Main DEVNET page for NX-API docs.
+ - [Cisco DNA Center Platform API](https://developer.cisco.com/docs/dna-center/) - Online documentation of Cisco DNA Center Platform API 
  - [Checkpoint Management API](https://sc1.checkpoint.com/documents/latest/APIs/#web/) - Checkpoint Management REST API docs.
  - [Cumulus Networks HTTP API](https://docs.cumulusnetworks.com/cumulus-linux/System-Configuration/HTTP-API/) - Cumulus Networks REST API docs.
  - Extreme Networks:
@@ -284,6 +289,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [pyeapi](https://github.com/arista-eosplus/pyeapi) - Python library for Arista EOS.
  - [pyfg](https://github.com/spotify/pyfg) - Python library for Fortinet.
  - [pyiosxr](https://github.com/fooelisa/pyiosxr) - Python library for Cisco IOSXR.
+ - [dnacentersdk](https://github.com/cisco-en-programmability/dnacentersdk) - Python library for Cisco DNA Center Platform API
  - [pyntc](https://github.com/networktocode/pyntc) - Python library focused on tasks related to device level and OS management.
  - [py-junos-eznc](https://github.com/Juniper/py-junos-eznc) - Python library for Junos automation.
 
@@ -385,6 +391,7 @@ models that enable capacity planning, network optimization and what-if scenario 
 - [PacketFront](https://pfsw.com/) - PacketFront BECS and BBE is a vendor-agnostic network, service and resource orchestration system for residential, enterprise and data center networks.
 
 # Network Vendor Products
+- [Cisco DNA Center](https://developer.cisco.com/dnacenter/) - Cisco DNA Center automates campus networks for faster workflows, faster troubleshooting through more visibility, and policy-driven security (inc. [SDA](https://www.cisco.com/c/en/us/solutions/enterprise-networks/software-defined-access/index.html))
 - [Cisco Meraki](https://meraki.cisco.com/) - Cisco Meraki is the leader in cloud controlled WiFi, routing, and security. Secure and scalable, Cisco Meraki enterprise networks simply work.
 - [Cisco Viptela](http://viptela.com/) - Viptela provides Software-Defined Wide Area Network (SD-WAN) technology that allows global companies to build cost-effective WANs.
 - [Cumulus Networks NetQ](https://cumulusnetworks.com/products/netq/) - Cumulus NetQ is a highly-scalable, modern network operations tool set that provides visibility into your overlay and underlay networks in real-time. NetQ delivers actionable insights and operational intelligence about the health of your data center — from the container, virtual machine, or host, all the way to the switch and port, enabling a NetDevOps approach.
