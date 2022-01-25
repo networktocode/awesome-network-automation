@@ -312,6 +312,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [EVE-NG](http://www.eve-ng.com/) - The Emulated Virtual Environment for Network, Security and DevOps professionals.
  - [GNS3](https://www.gns3.com/) - Graphical Network Simulator-3.
  - [Mininet](http://mininet.org/) - Mininet creates a realistic virtual network, running real kernel, switch and application code, on a single machine (VM, cloud or native), in seconds, with a single command.
+ - [netsim-tools](https://github.com/ipspace/netsim-tools) - Brings infrastructure-as-code concepts to networking labs. You'll describe your high-level network topology and routing design in a YAML file, and the tools in this repository will create configs for virtualbox/libvirt/containerlab, ansible playbooks, IPv4/v6 addressing, and OSPF, EIGRP, IS-IS, BGP and SR routing design.
  - [UNetLab](https://www.routereflector.com/unetlab/) - Unified Networking Lab.
  - [VIRL](https://learningnetwork.cisco.com/groups/virl) - Cisco Virtual Internet Routing Lab.
  - [VRNetLab](https://github.com/plajjan/vrnetlab) - Run your favourite virtual routers in docker for convenient labbing, development and testing.
