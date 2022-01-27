@@ -2,13 +2,38 @@
 
 Network Automation is a cross between the discipline of [Network Infrastructure](https://github.com/sindresorhus/awesome#networking) and the discipline of Programming. This list was created to serve as a one-stop shop for information related to Network Automation.
 
+- [Awesome Network Automation ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-network-automation-)
 - [Community](#community)
 - [Events / Meetup](#events--meetup)
 - [Training](#training)
 - [Presentations](#presentations)
 - [Blogs](#blogs)
 - [Programming Topics](#programming-topics)
+  - [Structured Data](#structured-data)
+    - [YAML](#yaml)
+    - [JSON](#json)
+    - [XML](#xml)
+    - [YANG](#yang)
+    - [Jinja2](#jinja2)
+  - [API](#api)
+    - [RESTCONF](#restconf)
+    - [NETCONF](#netconf)
+  - [Python](#python)
+  - [Go](#go)
+  - [Vendor API Docs](#vendor-api-docs)
 - [Open Source Projects](#open-source-projects)
+  - [Ansible](#ansible)
+  - [Batfish](#batfish)
+  - [Chef](#chef)
+  - [Puppet](#puppet)
+  - [Salt](#salt)
+  - [StackStorm](#stackstorm)
+  - [Products](#products)
+  - [Library](#library)
+  - [Non-Core Ansible Modules](#non-core-ansible-modules)
+  - [Pre-written Salt States (Formulas)](#pre-written-salt-states-formulas)
+  - [Vendor Abstraction Library](#vendor-abstraction-library)
+  - [Tools](#tools)
 - [Hypervisors and Containers](#hypervisors-and-containers)
 - [Network Emulators](#network-emulators)
 - [Network Simulators](#network-simulators)
@@ -19,6 +44,8 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [Vendor Agnostic Products](#vendor-agnostic-products)
 - [Network Vendor Products](#network-vendor-products)
 - [Podcasts](#podcasts)
+  - [Podcasts Feeds](#podcasts-feeds)
+  - [Podcasts Episodes](#podcasts-episodes)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -139,6 +166,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 ### Jinja2
 
  - [Documentation](http://jinja.pocoo.org/docs/2.10/templates/) - Base documentation for Jinja2.
+ - [J2Live - TTL255](https://j2live.ttl255.com/) - Online Jinja2 parser. Additional support for Ansible and Salt filters.
  - [Sample Jinja2 templates](https://github.com/ipspace/NetOpsWorkshop/tree/master/Jinja2) - Jinja examples courtesy of Ivan Pepelnjak.
  - [TD4a](https://td4a.codethenetwork.com/) - Advanced online rendering tool.
 
