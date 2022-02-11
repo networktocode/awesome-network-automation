@@ -227,7 +227,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 ## Batfish
  - [Home Page](https://bit.ly/2R0Mefx) - Batfish.org home page with tutorials, talks and technical papers detailing the research behind Batfish.
  - Getting Started with Batfish
-    - [Documentation](https://github.com/batfish/batfish) - Getting Started Documentation for Batfish.
+    - [Documentation](https://batfish.readthedocs.io) - Getting Started Documentation for Batfish.
     - [Jupyter Notebook](https://github.com/batfish/pybatfish/tree/master/jupyter_notebooks) - Jupyter Notebooks showing how to use Batfish for configuration, ACL, routing, forwarding, etc... analysis.
     - [Video](https://www.youtube.com/playlist?list=PLUXUN_5CNTWJeMUqbUFcdi2qPnm_2mit3) - YouTube videos explaining how to use Batfish.
 
