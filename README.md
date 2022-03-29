@@ -67,6 +67,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [Ansible NYC Meetup](https://www.meetup.com/Ansible-NYC/) - Local NYC Ansible user meetup.
 - [Chef Summits](https://www.chef.io/summits/) - Chef community summit schedule.
 - [London Network Automation Meetup](https://www.meetup.com/London-Network-Automation-Meetup/) - A community of network engineers, who have interest in the new buzz of network automation.
+- [Minnesota Network User Group](https://www.meetup.com/mn-nug/) - Minnesota Network User Group, quarterly meetup of network users.
 - [NANOG](https://www.nanog.org) - North American Network Operators' Group with fair share of automation presentations/discussions.
 - [Network to Coders Meetup](https://www.meetup.com/Network-to-Coders/) - Maybe this can pressure NTC to finally setup an event for the 140+ NTC meetup members.
 - [Puppetize Live](https://puppet.com/puppetizelive) - A 24-hour global event including community discussions, presentations, and training. Formerly PuppetConf.
@@ -334,6 +335,14 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [OSPF Watcher](https://github.com/Vadims06/ospfwatcher) - Tracks OSPF topology changes--by establishing a GRE tunnel with network devices--via a history diagram.
 - [Topolograph](https://github.com/Vadims06/topolograph) - Python-based Web tool for visualisation of OSPF/ISIS topologies and making a prediction of network behaviour in case of network's outage.
 
+## Network Management Projects
+
+- [InfluxDB](https://www.influxdata.com/) - Time series database loosely based on SQL
+- [Prometheus](https://prometheus.io/) - Time series database with PromQL
+- [Telegraf](https://www.influxdata.com/time-series-platform/telegraf/) - Collector for time series metrics
+- [TimescaleDB](https://www.timescale.com/) - Time series database based on PostgreSQL
+- 
+
 # Hypervisors and Containers
 
  - [Docker](https://www.docker.com/) - Docker is a software technology providing operating system-level virtualization also known as containers, promoted by the company Docker, Inc.
@@ -404,6 +413,7 @@ models that enable capacity planning, network optimization and what-if scenario 
 - [Network Programmability and Automation](https://shop.oreilly.com/product/0636920042082.do) - Skills for the Next-Generation Network Engineer.
 - [Network Programmability with YANG](https://www.oreilly.com/library/view/network-programmability-with/9780135180471/) - The Structure of Network Automation with YANG, NETCONF, RESTCONF, and gNMI.
 - [Network Automation at Scale](https://www.oreilly.com/webops-perf/free/network-automation-at-scale.csp) - An introduction and practical look at using Salt to automate your network at scale, in a free ebook from O'Reilly.
+- [Open Source Network Management](https://leanpub.com/opensourcenetworkmanagement/) - Step by step guide for getting started with Open Source Network Management tools such as Nautobot, Hashicorp Vault, Telegraf, and Prometheus.
 - [Site Reliability Engineering and The Site Reliability Workbook](https://landing.google.com/sre/book.html) - Learn concepts of automating and operating at scale from Google experts.
 - [Seeking SRE: Conversations About Running Production Systems at Scale](https://www.amazon.com/Seeking-SRE-Conversations-Running-Production/dp/1491978864) - Learn from the best practices of SRE practitioners who are not working at Google.
 - [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/) - Learn the concepts of Agile and DevOps principles.
