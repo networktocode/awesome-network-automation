@@ -34,6 +34,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
   - [Pre-written Salt States (Formulas)](#pre-written-salt-states-formulas)
   - [Vendor Abstraction Library](#vendor-abstraction-library)
   - [Tools](#tools)
+  - [Network Telemetry](#network-telemetry-open-source-projects)
 - [Hypervisors and Containers](#hypervisors-and-containers)
 - [Network Emulators](#network-emulators)
 - [Network Simulators](#network-simulators)
@@ -335,12 +336,11 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [OSPF Watcher](https://github.com/Vadims06/ospfwatcher) - Tracks OSPF topology changes--by establishing a GRE tunnel with network devices--via a history diagram.
 - [Topolograph](https://github.com/Vadims06/topolograph) - Python-based Web tool for visualisation of OSPF/ISIS topologies and making a prediction of network behaviour in case of network's outage.
 
-## Network Management Projects
+## Network Telemetry
 
-- [InfluxDB](https://www.influxdata.com/) - Time series database loosely based on SQL
-- [Prometheus](https://prometheus.io/) - Time series database with PromQL
-- [Telegraf](https://www.influxdata.com/time-series-platform/telegraf/) - Collector for time series metrics
-- [TimescaleDB](https://www.timescale.com/) - Time series database based on PostgreSQL
+- [InfluxDB](https://www.influxdata.com/) - Made for developers to build time-series-based applications quickly and at scale.
+- [Prometheus](https://prometheus.io/) - Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud.
+- [Telegraf](https://www.influxdata.com/time-series-platform/telegraf/) - elegraf is the open source server agent to help you collect metrics from your stacks, sensors, and systems.
 - 
 
 # Hypervisors and Containers
