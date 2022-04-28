@@ -72,7 +72,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [NANOG](https://www.nanog.org) - North American Network Operators' Group with fair share of automation presentations/discussions.
 - [Network to Coders Meetup](https://www.meetup.com/Network-to-Coders/) - Maybe this can pressure NTC to finally setup an event for the 140+ NTC meetup members.
 - [Puppetize Live](https://puppet.com/puppetizelive) - A 24-hour global event including community discussions, presentations, and training. Formerly PuppetConf.
-- [SaltStack NYC Meetup](https://www.meetup.com/SaltStack-NYC/) - Local NYC SatlStack user meetup.
+- [SaltStack NYC Meetup](https://www.meetup.com/SaltStack-NYC/) - Local NYC SaltStack user meetup.
 - [Tech Field Day](https://techfieldday.com/) - Field Day events bring together innovative IT product vendors and independent thought leaders to share information and opinions in a presentation and discussion format.
 - [SaltConf](https://saltconf.com/) - 4 days event including two days of SaltStack customer case studies and SaltStack technical deep dives.
 
