@@ -355,7 +355,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 # Network Emulators
 
- - [CML](https://www.cisco.com/c/en/us/products/cloud-systems-management/modeling-labs/index.html) - Cisco Modeling Labs (CML), which replaces VIRL. CML is a network emulator that has a easy to use gui frontend, but also offers a comprehensive API.
+ - [CML](https://www.cisco.com/c/en/us/products/cloud-systems-management/modeling-labs/index.html) - Cisco Modeling Labs (CML), which replaces VIRL, is a network emulator with both an API and GUI frontend.
  - [Container-Lab](https://github.com/srl-wim/container-lab) - Containerlab provides a framework for orchestrating networking labs with containers. It starts the containers, builds a virtual wiring between them to create lab topologies of users choice and manages labs lifecycle.
  - [EVE-NG](http://www.eve-ng.com/) - The Emulated Virtual Environment for Network, Security and DevOps professionals.
  - [GNS3](https://www.gns3.com/) - Graphical Network Simulator-3.
