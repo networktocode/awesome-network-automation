@@ -35,7 +35,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
   - [Vendor Abstraction Library](#vendor-abstraction-library)
   - [Tools](#tools)
   - [Network Telemetry](#network-telemetry-open-source-projects)
-  - [Online Parser](#online-parser-open-source-projects)
+  - [Online Parser](#online-parser)
 - [Hypervisors and Containers](#hypervisors-and-containers)
 - [Network Emulators](#network-emulators)
 - [Network Simulators](#network-simulators)
