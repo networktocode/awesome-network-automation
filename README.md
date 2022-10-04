@@ -35,6 +35,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
   - [Vendor Abstraction Library](#vendor-abstraction-library)
   - [Tools](#tools)
   - [Network Telemetry](#network-telemetry-open-source-projects)
+  - [Online Parser](#online-parser-open-source-projects)
 - [Hypervisors and Containers](#hypervisors-and-containers)
 - [Network Emulators](#network-emulators)
 - [Network Simulators](#network-simulators)
@@ -148,6 +149,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [Sample YAML documents describing common data structures](https://github.com/ipspace/NetOpsWorkshop/tree/master/YAML) - YAML examples courtesy of Ivan Pepelnjak.
  - [YAML syntax validator](https://yamllint.readthedocs.io/en/latest/) - YAML online parser.
  - [YAML idiosyncrasies](https://docs.saltstack.com/en/latest/topics/troubleshooting/yaml_idiosyncrasies.html) -- Document with the most common YAML idiosyncrasies, hosted under the SaltStack docs, but not specific to Salt or any other tool.
+ - [YAML Data Validation with JSON Schema](https://infrastructureascode.ch/yaml_validation.html) - Explains how JSON schema can be used to validate YAML files and how syntax highlighting can be added to the IDE for the YAML files
 
 ### JSON
 
@@ -169,9 +171,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 ### Jinja2
 
  - [Documentation](http://jinja.pocoo.org/docs/2.10/templates/) - Base documentation for Jinja2.
- - [J2Live - TTL255](https://j2live.ttl255.com/) - Online Jinja2 parser. Additional support for Ansible and Salt filters.
  - [Sample Jinja2 templates](https://github.com/ipspace/NetOpsWorkshop/tree/master/Jinja2) - Jinja examples courtesy of Ivan Pepelnjak.
- - [TD4a](https://td4a.codethenetwork.com/) - Advanced online rendering tool.
 
 ## API
 
@@ -338,12 +338,33 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [NetCopa](https://github.com/cidrblock/netcopa) - Network device configuration parser ("industry standard" -> YAML converter).
 - [OSPF Watcher](https://github.com/Vadims06/ospfwatcher) - Tracks OSPF topology changes--by establishing a GRE tunnel with network devices--via a history diagram.
 - [Topolograph](https://github.com/Vadims06/topolograph) - Python-based Web tool for visualisation of OSPF/ISIS topologies and making a prediction of network behaviour in case of network's outage.
+- [NetTowel](https://github.com/InfrastructureAsCode-ch/nettowel) - Collection of useful network automation functions for the CLI.
 
 ## Network Telemetry
 
 - [InfluxDB](https://www.influxdata.com/) - Made for developers to build time-series-based applications quickly and at scale.
 - [Prometheus](https://prometheus.io/) - Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud.
 - [Telegraf](https://www.influxdata.com/time-series-platform/telegraf/) - elegraf is the open source server agent to help you collect metrics from your stacks, sensors, and systems.
+
+## Online Parser
+
+### Jinja2
+
+ - [J2Live - TTL255](https://j2live.ttl255.com/) - Online Jinja2 parser. Additional support for Ansible and Salt filters.
+ - [TD4a](https://td4a.codethenetwork.com/) - Advanced online rendering tool.
+ - [textfsm.nornir.tech](https://textfsm.nornir.tech/) - Online Jinja2 parser.
+ - [Jinja 101](https://jinja101.infrastructureascode.ch/) - Online Jinja2 parser with Ansible, Staltstack and Stackstorm filter support. Jinja2 environment settings can be configured.
+
+### TextFSM
+
+ - [textfsm.nornir.tech](https://textfsm.nornir.tech/) - Online TextFSM parser.
+ - [TextFSM 101](https://textfsm101.infrastructureascode.ch/) - Online TextFSM parser.
+
+
+### TTP
+
+ - [textfsm.nornir.tech](https://textfsm.nornir.tech/) - Online TTP parser.
+ - [TTP 101](https://ttp101.infrastructureascode.ch/) - Online TTP parser.
 
 # Hypervisors and Containers
 
