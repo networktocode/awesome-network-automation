@@ -149,7 +149,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [Sample YAML documents describing common data structures](https://github.com/ipspace/NetOpsWorkshop/tree/master/YAML) - YAML examples courtesy of Ivan Pepelnjak.
  - [YAML syntax validator](https://yamllint.readthedocs.io/en/latest/) - YAML online parser.
  - [YAML idiosyncrasies](https://docs.saltstack.com/en/latest/topics/troubleshooting/yaml_idiosyncrasies.html) -- Document with the most common YAML idiosyncrasies, hosted under the SaltStack docs, but not specific to Salt or any other tool.
- - [YAML Data Validation with JSON Schema](https://infrastructureascode.ch/yaml_validation.html) - Explains how JSON schema can be used to validate YAML files and how syntax highlighting can be added to the IDE for the YAML files
+ - [YAML Data Validation with JSON Schema](https://infrastructureascode.ch/yaml_validation.html) - Explains how JSON schema can be used to validate YAML files and how syntax highlighting can be added to the IDE for the YAML files.
 
 ### JSON
 
@@ -351,20 +351,20 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 ### Jinja2
 
  - [J2Live - TTL255](https://j2live.ttl255.com/) - Online Jinja2 parser. Additional support for Ansible and Salt filters.
- - [TD4a](https://td4a.codethenetwork.com/) - Advanced online rendering tool.
- - [textfsm.nornir.tech](https://textfsm.nornir.tech/) - Online Jinja2 parser.
  - [Jinja 101](https://jinja101.infrastructureascode.ch/) - Online Jinja2 parser with Ansible, Staltstack and Stackstorm filter support. Jinja2 environment settings can be configured.
+ - [TD4a](https://td4a.codethenetwork.com/) - Advanced online rendering tool.
+ - [textfsm.nornir.tech](https://textfsm.nornir.tech/) - Online development tool for Jinja2 templates and more.
 
 ### TextFSM
 
- - [textfsm.nornir.tech](https://textfsm.nornir.tech/) - Online TextFSM parser.
- - [TextFSM 101](https://textfsm101.infrastructureascode.ch/) - Online TextFSM parser.
+ - [textfsm.nornir.tech](https://textfsm.nornir.tech/) - Online development tool for TextFSM templates and more.
+ - [TextFSM 101](https://textfsm101.infrastructureascode.ch/) - Simple online TextFSM parser with examples.
 
 
 ### TTP
 
- - [textfsm.nornir.tech](https://textfsm.nornir.tech/) - Online TTP parser.
- - [TTP 101](https://ttp101.infrastructureascode.ch/) - Online TTP parser.
+ - [textfsm.nornir.tech](https://textfsm.nornir.tech/) - Online development tool for TTP templates and more.
+ - [TTP 101](https://ttp101.infrastructureascode.ch/) - Simple TTP online parser with easy examples.
 
 # Hypervisors and Containers
 
