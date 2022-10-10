@@ -60,6 +60,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [Salt Formulas](https://groups.google.com/forum/#!forum/salt-formulas) - The SaltStack formulas working group.
 - [Salt Networks](https://groups.google.com/forum/#!forum/salt-networks) - A centralized group for talking about network device automation with SaltStack.
 - [Salt Users](https://groups.google.com/forum/#!forum/salt-users) - The official forum of the Salt community.
+- [SaltStack Community Slack ](https://saltstackcommunity.slack.com/) - The official Slack of Saltstack Project.
 
 # Events / Meetup
 
@@ -243,7 +244,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [Managing a Cisco switch with Puppet](http://www.scottyob.com/2012/12/08/my-experiences-of-managing-a-cisco-switch-with-puppet/) - My experiences of managing a Cisco switch with Puppet.
 
 ## Salt
- 
+
  - [Napalm-Salt Repository](https://github.com/napalm-automation/napalm-salt) - The NAPALM-Salt Repository.
  - [salt-nornir](https://github.com/dmulyalin/salt-nornir) - proxy minion to manage network with SaltStack and Nornir using Netmiko, NAPALM, Scrapli, Ncclient, PyGNMI, PyATS based plugins to name a few.
  - [salt-sproxy](https://github.com/mirceaulinic/salt-sproxy) - Salt plugin to automate the management and configuration of (network) devices at scale, without running (Proxy) Minions.
@@ -316,7 +317,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 ## Vendor Abstraction Library
 
  - [clicrud](https://github.com/davidjohngee/clicrud) - Brocade specific (MLX/VDX/ICX/CER/CES) CLI driver (Telnet & SSH).
- - [dnacentersdk](https://github.com/cisco-en-programmability/dnacentersdk) - Python library for Cisco DNA Center Platform API.   
+ - [dnacentersdk](https://github.com/cisco-en-programmability/dnacentersdk) - Python library for Cisco DNA Center Platform API.
  - [f5-common-python](https://github.com/F5Networks/f5-common-python) - Python SDK for configuration and monitoring of F5 BIG-IP devices via the iControl REST API.
  - [Infoblox Python Module](https://github.com/infobloxopen/infoblox-client) - Python wrapper for REST API
  - [Infoblox Go Client](https://github.com/infobloxopen/infoblox-go-client) - Go wrapper for REST API
