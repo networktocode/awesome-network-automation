@@ -82,7 +82,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 - [CML - Training videos @ learningnetwork.cisco.com](https://learningnetwork.cisco.com/s/cml-training-videos) - Learning and Certifications at Cisco has created a series of in-depth training videos to assist users with installing and operating Cisco Modeling Labs (CML). This video series also provides a few videos on some of the more advanced features that CML offers.
 - [GNS3 Academy - Instructor David Bombal](https://academy.gns3.com/courses/author/12794) - Offers an inexpensive set of introductions to Ansible and Python for Network Engineers, among other courses.
-- [IP Space](https://www.ipspace.net/Training) - Numerous courses, webinars, and videos covering SDN, network automation, cloud computing, virtualization technologies, IPv6, VPNs, and much more.
+- [ipSpace.net](https://www.ipspace.net/Training) - Numerous courses, webinars, and videos covering SDN, network automation, cloud computing, virtualization technologies, IPv6, VPNs, and much more.
 - [Network to Code](https://www.networktocode.com/training/) - Network Automation Training including Python, Ansible, DevOps, and much more.
 - [Network Programmability Basics - Cisco](https://developer.cisco.com/video/net-prog-basics/) - Jumpstart your journey into network programmability with this expert-led video course by Cisco DevNet.
 - [Nick Russo study resources](http://njrusmc.net/jobaid/jobaid.html) - Collection of DevNet certification study resources, such as study plans and Postman collections.
@@ -383,7 +383,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [EVE-NG](http://www.eve-ng.com/) - The Emulated Virtual Environment for Network, Security and DevOps professionals.
  - [GNS3](https://www.gns3.com/) - Graphical Network Simulator-3.
  - [Mininet](http://mininet.org/) - Mininet creates a realistic virtual network, running real kernel, switch and application code, on a single machine (VM, cloud or native), in seconds, with a single command.
- - [netsim-tools](https://github.com/ipspace/netsim-tools) - Brings infrastructure-as-code concepts to networking labs. You'll describe your high-level network topology and routing design in a YAML file, and the tools in this repository will create configs for VirtualBox/libvirt/containerlab, Ansible playbooks, IPv4/v6 addressing, and OSPF, EIGRP, IS-IS, BGP and SR routing design.
+ - [netlab](https://github.com/ipspace/netlab) - Brings infrastructure-as-code concepts to networking labs. You'll describe your high-level network topology and routing design in a YAML file, and the tools in this repository will create configs for VirtualBox/libvirt/containerlab, Ansible inventory, IPv4/v6 addressing, VLANs and VRFs, OSPF, EIGRP, IS-IS, BGP, BFD, MPLS, MPLS/VPN, VXLAN, EVPN and Segment Routing.
  - [UNetLab](https://www.routereflector.com/unetlab/) - Unified Networking Lab.
  - [VRNetLab](https://github.com/plajjan/vrnetlab) - Run your favourite virtual routers in docker for convenient labbing, development and testing.
 
