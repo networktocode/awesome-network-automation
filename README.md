@@ -503,6 +503,14 @@ Contributions about network automation are most welcome!
 
 This list is just getting started, please contribute to make it super awesome.
 
+## Thanks to our contributors ♥️
+
+<a href="https://github.com/networktocode/awesome-network-automation/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=networktocode/awesome-network-automation" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
 # License
 
 [![CC4](https://mirrors.creativecommons.org/presskit/cc.srr.primary.svg)](https://creativecommons.org/licenses/by/4.0/legalcode)
