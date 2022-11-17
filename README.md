@@ -2,7 +2,6 @@
 
 Network Automation is a cross between the discipline of [Network Infrastructure](https://github.com/sindresorhus/awesome#networking) and the discipline of Programming. This list was created to serve as a one-stop shop for information related to Network Automation.
 
-- [Awesome Network Automation ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-network-automation-)
 - [Community](#community)
 - [Events / Meetup](#events--meetup)
 - [Training](#training)
@@ -34,7 +33,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
   - [Pre-written Salt States (Formulas)](#pre-written-salt-states-formulas)
   - [Vendor Abstraction Library](#vendor-abstraction-library)
   - [Tools](#tools)
-  - [Network Telemetry](#network-telemetry-open-source-projects)
+  - [Network Telemetry](#network-telemetry)
   - [Online Parser](#online-parser)
 - [Hypervisors and Containers](#hypervisors-and-containers)
 - [Network Emulators](#network-emulators)
