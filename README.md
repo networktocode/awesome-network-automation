@@ -372,7 +372,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [KVM](https://www.linux-kvm.org/page/Main_Page) - KVM (Kernel-based Virtual Machine) is a full virtualization solution build into the Linux Kernel
  - [Proxmox](https://www.proxmox.com/en/proxmox-ve) - Proxmox is an open source virtualization platform that provides an easy web interface (and REST API) for KVM and LXC.
  - [QEMU](https://www.qemu.org/) - QEMU is a generic and open source machine emulator and virtualizer. When using KVM, QEMU can virtualize x86, server and embedded PowerPC, 64-bit POWER, S390, 32-bit and 64-bit ARM, and MIPS guests.
-  - [Vagrant](https://www.vagrantup.com/) - Vagrant enables users to create and configure lightweight, reproducible, and portable development environments.
+ - [Vagrant](https://www.vagrantup.com/) - Vagrant enables users to create and configure lightweight, reproducible, and portable development environments.
  - [VirtualBox](https://www.virtualbox.org/) - VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
  - [Vmware ESXi](https://www.vmware.com/products/esxi-and-esx.html) - VMware ESXi is a purpose-built bare-metal hypervisor that installs directly onto a physical server.
 
