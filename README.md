@@ -275,6 +275,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 ## Library
 
  - [Capirca](https://github.com/google/capirca) - Multi-platform ACL generation system; can output Juniper/IOS/etc ACLs from the same policy.
+ - [Aerleon](https://github.com/aerleon/aerleon) - Fork of Capirca with plugin support, YAML-based config, and a Python API. 
  - [Cisco Genie Parsers](https://pubhub.devnetcloud.com/media/genie-feature-browser/docs/#/parsers) - Genie Parsers by Cisco
  - [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations.
  - [Cisco virl2_client](https://developer.cisco.com/docs/virl2-client/) - Documentation for the VIRL 2 (aka CML) API Client. Use this library to create Python scripts to interact with CML.
