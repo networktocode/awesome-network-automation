@@ -2,6 +2,7 @@
 
 Network Automation is a cross between the discipline of [Network Infrastructure](https://github.com/sindresorhus/awesome#networking) and the discipline of Programming. This list was created to serve as a one-stop shop for information related to Network Automation.
 
+- [Awesome Network Automation ](#awesome-network-automation-)
 - [Community](#community)
 - [Events / Meetup](#events--meetup)
 - [Training](#training)
@@ -35,6 +36,9 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
   - [Tools](#tools)
   - [Network Telemetry](#network-telemetry)
   - [Online Parser](#online-parser)
+    - [Jinja2](#jinja2-1)
+    - [TextFSM](#textfsm)
+    - [TTP](#ttp)
 - [Hypervisors and Containers](#hypervisors-and-containers)
 - [Network Emulators](#network-emulators)
 - [Network Simulators](#network-simulators)
@@ -274,8 +278,8 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 ## Library
 
+ - [Aerleon](https://github.com/aerleon/aerleon) - Multi-platform ACL generation system with plugin support, YAML-based config, and a Python API. Fork of Capirca.
  - [Capirca](https://github.com/google/capirca) - Multi-platform ACL generation system; can output Juniper/IOS/etc ACLs from the same policy.
- - [Aerleon](https://github.com/aerleon/aerleon) - Fork of Capirca with plugin support, YAML-based config, and a Python API. 
  - [Cisco Genie Parsers](https://pubhub.devnetcloud.com/media/genie-feature-browser/docs/#/parsers) - Genie Parsers by Cisco
  - [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations.
  - [Cisco virl2_client](https://developer.cisco.com/docs/virl2-client/) - Documentation for the VIRL 2 (aka CML) API Client. Use this library to create Python scripts to interact with CML.
