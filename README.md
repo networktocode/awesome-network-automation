@@ -35,6 +35,9 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
   - [Tools](#tools)
   - [Network Telemetry](#network-telemetry)
   - [Online Parser](#online-parser)
+    - [Jinja2](#jinja2-1)
+    - [TextFSM](#textfsm)
+    - [TTP](#ttp)
 - [Hypervisors and Containers](#hypervisors-and-containers)
 - [Network Emulators](#network-emulators)
 - [Network Simulators](#network-simulators)
@@ -274,6 +277,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 ## Library
 
+ - [Aerleon](https://github.com/aerleon/aerleon) - Multi-platform ACL generation system with plugin support, YAML-based config, and a Python API. Fork of Capirca.
  - [Capirca](https://github.com/google/capirca) - Multi-platform ACL generation system; can output Juniper/IOS/etc ACLs from the same policy.
  - [Cisco Genie Parsers](https://pubhub.devnetcloud.com/media/genie-feature-browser/docs/#/parsers) - Genie Parsers by Cisco
  - [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations.
