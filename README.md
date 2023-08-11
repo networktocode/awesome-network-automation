@@ -293,6 +293,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [netaddr](https://github.com/drkjam/netaddr) - Network address manipulation that supports a number of techniques (supernetting and subnetting).
  - [Netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices.
  - [Nornir](https://github.com/nornir-automation/nornir) - Nornir is a pure Python automation framework intended to be used directly from Python.
+ - [NUTS](https://github.com/network-unit-testing-system) - Network Unit Testing System is a Pytest plugin enabling writing network tests with YAML files.
  - [PyGNMI](https://github.com/akarneliuk/pygnmi) - Pure Python implementation of gNMI client to interact with network functions.
  - [SEC - Simple Event Correlator](https://simple-evcorr.github.io/) - SEC is an event correlation tool for advanced event processing which can be harnessed for event log monitoring, for network and security management, for fraud detection, and for any other task which involves event correlation.
  - [Template Text Parser](https://github.com/dmulyalin/ttp) - CLI tool and Python module for parsing semi-structured text into structured data. Similar syntax to Jinja templating, but in reverse. TTP Templates [collection](https://github.com/dmulyalin/ttp_templates).
