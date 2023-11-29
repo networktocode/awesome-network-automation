@@ -89,6 +89,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [Network Programmability Basics - Cisco](https://developer.cisco.com/video/net-prog-basics/) - Jumpstart your journey into network programmability with this expert-led video course by Cisco DevNet.
 - [Nick Russo study resources](http://njrusmc.net/jobaid/jobaid.html) - Collection of DevNet certification study resources, such as study plans and Postman collections.
 - [Python for Network Engineers](https://pynet.twb-tech.com/class.html) - Learn skills that make you better at network automation and that improve your capability to use programming to scale your work.
+- [DevNet Academy](https://devnet-academy.com) - Self-paced e-learning with theory, exercises and quizzes for the Cisco Certified DevNet Expert exam by Luca Gubler.
 
 # Presentations
 
