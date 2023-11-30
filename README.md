@@ -83,7 +83,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 # Training
 
 - [CML - Training videos @ learningnetwork.cisco.com](https://learningnetwork.cisco.com/s/cml-training-videos) - Learning and Certifications at Cisco has created a series of in-depth training videos to assist users with installing and operating Cisco Modeling Labs (CML). This video series also provides a few videos on some of the more advanced features that CML offers.
-- [DevNet Expert Training](https://www.devnetexperttraining.com) - Training resources targeting the Cisco Certified DevNet Expert exam topics, including bootcamp courses by Andreas Baekdahl
+- [DevNet Expert Training](https://www.devnetexperttraining.com) - Training resources targeting the Cisco Certified DevNet Expert exam topics, including bootcamp courses by Andreas Baekdahl.
 - [GNS3 Academy - Instructor David Bombal](https://academy.gns3.com/courses/author/12794) - Offers an inexpensive set of introductions to Ansible and Python for Network Engineers, among other courses.
 - [ipSpace.net](https://www.ipspace.net/Training) - Numerous courses, webinars, and videos covering SDN, network automation, cloud computing, virtualization technologies, IPv6, VPNs, and much more.
 - [Network to Code](https://www.networktocode.com/training/) - Network Automation Training including Python, Ansible, DevOps, and much more.
@@ -171,7 +171,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [Cisco Labs YANG Introduction](https://developer.cisco.com/learning/lab/intro-yang/step/1) - Introducing YANG Data Modeling for the Network.
  - [IETF RFC](https://tools.ietf.org/html/rfc6020) - The IETF RFC on YANG.
  - [YANG for dummies](https://napalm-automation.net/yang-for-dummies/) - NAPALM YANG introduction.
- - [YANG fundamentals](https://www.devnetexperttraining.com/articles/yang-fundamentals) - A walkthrough video on how to build your own YANG model
+ - [YANG fundamentals](https://www.devnetexperttraining.com/articles/yang-fundamentals) - A walkthrough video on how to build your own YANG model.
 
 ### Jinja2
 
@@ -182,12 +182,12 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 ### RESTCONF
 
- - [RESTCONF requests for IOS-XE](https://www.devnetexperttraining.com/articles/restconf-operations) - How to combine HTTP path, method and payload for IOS-XE restconf operations
+ - [RESTCONF requests for IOS-XE](https://www.devnetexperttraining.com/articles/restconf-operations) - How to combine HTTP path, method and payload for IOS-XE restconf operations.
  - [What Is RESTCONF](http://sdntutorials.com/what-is-restconf/) - Overview of RESTCONF.
 
 ### NETCONF
 
- - [NETCONF message layers](https://www.devnetexperttraining.com/articles/netconf-anatomy) - A view into the payload of NETCONF XML documents and layers
+ - [NETCONF message layers](https://www.devnetexperttraining.com/articles/netconf-anatomy) - A view into the payload of NETCONF XML documents and layers.
  - [What Is NETCONF](http://sdntutorials.com/what-is-netconf/) - Overview of NETCONF.
 
 ## Python
@@ -195,7 +195,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
  - [Learn Python the Hardway](https://learnpythonthehardway.org) - Learn Python The Hard Way takes you from absolute zero to able to read and write basic Python, giving you the tools to understand other documentation and books about Python.
  - [Python at Codecademy](https://www.codecademy.com/learn/learn-python-3) - Learn Python by Codecademy.
- - [Python data structures](https://www.devnetexperttraining.com/articles/python-looping) - Examples on how to access data in nested structures of lists and dicts
+ - [Python data structures](https://www.devnetexperttraining.com/articles/python-looping) - Examples on how to access data in nested structures of lists and dicts.
  - [Python Programming Guides and Tutorials - Python Central](https://pythoncentral.io/) - Experienced Python programmers and enthusiasts from around the world that are eager to share their experience.
 
 ## Go
