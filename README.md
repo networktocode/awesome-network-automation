@@ -89,6 +89,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [Network Programmability Basics - Cisco](https://developer.cisco.com/video/net-prog-basics/) - Jumpstart your journey into network programmability with this expert-led video course by Cisco DevNet.
 - [Nick Russo study resources](http://njrusmc.net/jobaid/jobaid.html) - Collection of DevNet certification study resources, such as study plans and Postman collections.
 - [Python for Network Engineers](https://pynet.twb-tech.com/class.html) - Learn skills that make you better at network automation and that improve your capability to use programming to scale your work.
+- [DevNet Expert Training](https://www.devnetexperttraining.com) - Training resources targeting the Cisco Certified DevNet Expert exam topics, including bootcamp courses.
 
 # Presentations
 
@@ -170,6 +171,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [Cisco Labs YANG Introduction](https://developer.cisco.com/learning/lab/intro-yang/step/1) - Introducing YANG Data Modeling for the Network.
  - [IETF RFC](https://tools.ietf.org/html/rfc6020) - The IETF RFC on YANG.
  - [YANG for dummies](https://napalm-automation.net/yang-for-dummies/) - NAPALM YANG introduction.
+ - [YANG fundamentals](https://www.devnetexperttraining.com/articles/yang-fundamentals) - A walkthrough video on how to build your own YANG model
 
 ### Jinja2
 
@@ -181,10 +183,12 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 ### RESTCONF
 
  - [What Is RESTCONF](http://sdntutorials.com/what-is-restconf/) - Overview of RESTCONF.
+ - [RESTCONF requests for IOS-XE](https://www.devnetexperttraining.com/articles/restconf-operations) - How to combine HTTP path, method and payload for IOS-XE restconf operations
 
 ### NETCONF
 
  - [What Is NETCONF](http://sdntutorials.com/what-is-netconf/) - Overview of NETCONF.
+ - [NETCONF message layers](https://www.devnetexperttraining.com/articles/netconf-anatomy) - A view into the payload of NETCONF XML documents and layers
 
 ## Python
 
@@ -192,6 +196,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [Learn Python the Hardway](https://learnpythonthehardway.org) - Learn Python The Hard Way takes you from absolute zero to able to read and write basic Python, giving you the tools to understand other documentation and books about Python.
  - [Python at Codecademy](https://www.codecademy.com/learn/learn-python-3) - Learn Python by Codecademy.
  - [Python Programming Guides and Tutorials - Python Central](https://pythoncentral.io/) - Experienced Python programmers and enthusiasts from around the world that are eager to share their experience.
+ - [Python data structures](https://www.devnetexperttraining.com/articles/python-looping) - Examples on how to access data in nested structures of lists and dicts
 
 ## Go
 
