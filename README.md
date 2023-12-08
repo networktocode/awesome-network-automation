@@ -27,6 +27,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
   - [Puppet](#puppet)
   - [Salt](#salt)
   - [StackStorm](#stackstorm)
+  - [SuzieQ](#suzieq)
   - [Products](#products)
   - [Library](#library)
   - [Non-Core Ansible Modules](#non-core-ansible-modules)
@@ -272,6 +273,12 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [StackStorm Youtube](https://www.youtube.com/channel/UCColc5CuBJ8-1SnALnkDz8Q) - Various intro, marketing, interviews, and technical product talks.
  - [Stackstorm Docs](https://docs.stackstorm.com) - Documentation repository for latest version of StackStorm.
  - [StackStorm Intro on Software Gone Wild](https://blog.ipspace.net/2016/11/stackstorm-101-on-software-gone-wild.html) - SGW team talk with StackStorm (including Matt Oswalt) to discuss StackStorm.
+ 
+ ## SuzieQ
+ - [Github Repository](https://github.com/netenglabs/suzieq) is the first open-source, agentless, multi-vendor network observability application
+ - [Quick Install](https://suzieq.readthedocs.io/en/latest/getting_started/)
+ - [Online Documentation](https://suzieq.readthedocs.io/en/latest/)
+ - [Youtube Videos](https://www.youtube.com/@suzieqproject7168)
 
 ## Products
 
@@ -292,7 +299,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [FreeZTP](https://github.com/PackeTsar/freeztp) - FreeZTP is an open-source Zero-Touch Provisioning system for Cisco IOS campus switches and routers.
  - [gNMIc](https://gnmic.kmrd.dev) - gNMI CLI client and collector.
  - [Hierarchical Configuration](https://github.com/netdevops/hier_config) - Hierarchical Configuration is a Python library that is able to take a running configuration of a network device, compare it to its intended configuration, and build the remediation steps necessary bring a device into spec with its intended configuration.
- - [inet-henge](https://github.com/codeout/inet-henge) - Generate d3.js based Network Diagram from JSON data.
+ - [inet-henge](inet-henge) - Generate d3.js based Network Diagram from JSON data.
  - [Jinja2](http://jinja.pocoo.org/) - A full-featured template engine for Python.
  - [NAPALM](https://github.com/napalm-automation/napalm) - NAPALM (Network Automation and Programmability Abstraction Layer with Multivendor support) is a Python library that implements a set of functions to interact with different router vendor devices using a unified API.
  - [Need To Graph](https://github.com/dmulyalin/N2G) - A library to generate diagrams in yWorks GraphML, diagrams.net/draw.io or JSON formats using structured data or show commands output.
@@ -405,7 +412,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [Forward Networks](https://forwardnetworks.com) - Forward Enterprise documents, searches, verifies, and predicts the behavior of your network by creating an always-accurate software copy of your entire network infrastructure for both on-prem and cloud.
  - [Juniper WANDL](https://www.juniper.net/us/en/products-services/sdn/wandl/) - Juniper WANDL provides traffic engineering
 models that enable capacity planning, network optimization and what-if scenario analysis for carrier networks.
- - [SusieQ](https://github.com/netenglabs/suzieq) - Suzieq is both a framework and an application using that framework, that is focused on improving the observability of your network.
+ - [SuzieQ](https://github.com/netenglabs/suzieq) - SuzieQ is a agentless, multi-vendor network observability application.
 
 # Backups
 
@@ -466,6 +473,7 @@ models that enable capacity planning, network optimization and what-if scenario 
 - [NetMRI](https://www.infoblox.com/products/netmri/) - Vendor Agnostic NCCM tool with with policy engine and multi-vendor device lifecycle/vulnerability management. (Infoblox product)
 - [NetYCE](https://netyce.com/) NetYCE lets you be in control of any and all of your networks, using its unique Design Driven Networking approach. Not stopping at network devices, but orchestrate end-to-end including firewalls, DDI (DNS, DHCP, IPAM) and other 3rd party tooling. Deploy your networks as Designed.
 - [PacketFront](https://pfsw.com/) - PacketFront BECS and BBE is a vendor-agnostic network, service and resource orchestration system for residential, enterprise and data center networks.
+- [SuzieQ Enterprise Edition](https://stardustsystems.net) - The enterprise edition of the [suzieq](#suzieq) open source project.
 
 # Network Vendor Products
 - [Cisco DNA Center](https://developer.cisco.com/dnacenter/) - Cisco DNA Center automates campus networks for faster workflows, faster troubleshooting through more visibility, and policy-driven security (inc. [SDA](https://www.cisco.com/c/en/us/solutions/enterprise-networks/software-defined-access/index.html)).
