@@ -27,6 +27,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
   - [Puppet](#puppet)
   - [Salt](#salt)
   - [StackStorm](#stackstorm)
+  - [SuzieQ](#suzieq)
   - [Products](#products)
   - [Library](#library)
   - [Non-Core Ansible Modules](#non-core-ansible-modules)
@@ -272,6 +273,12 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [StackStorm Youtube](https://www.youtube.com/channel/UCColc5CuBJ8-1SnALnkDz8Q) - Various intro, marketing, interviews, and technical product talks.
  - [Stackstorm Docs](https://docs.stackstorm.com) - Documentation repository for latest version of StackStorm.
  - [StackStorm Intro on Software Gone Wild](https://blog.ipspace.net/2016/11/stackstorm-101-on-software-gone-wild.html) - SGW team talk with StackStorm (including Matt Oswalt) to discuss StackStorm.
+ 
+ ## SuzieQ
+
+ - [SuzieQ Documentation](https://suzieq.readthedocs.io/en/latest/) - All official documentation including project overview, quick start, configuration guide, etc.
+ - [SuzieQ Repository](https://github.com/netenglabs/suzieq) - Open-source code for the SuzieQ project.
+ - [SuzieQ Youtube](https://www.youtube.com/@suzieqproject7168) - Official youtube home of the SuzieQ project providing community meetups and demonstrations of the project in action.
 
 ## Products
 
@@ -405,7 +412,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [Forward Networks](https://forwardnetworks.com) - Forward Enterprise documents, searches, verifies, and predicts the behavior of your network by creating an always-accurate software copy of your entire network infrastructure for both on-prem and cloud.
  - [Juniper WANDL](https://www.juniper.net/us/en/products-services/sdn/wandl/) - Juniper WANDL provides traffic engineering
 models that enable capacity planning, network optimization and what-if scenario analysis for carrier networks.
- - [SusieQ](https://github.com/netenglabs/suzieq) - Suzieq is both a framework and an application using that framework, that is focused on improving the observability of your network.
+ - [SuzieQ](https://github.com/netenglabs/suzieq) - SuzieQ is a agentless, multi-vendor network observability application.
 
 # Backups
 
@@ -466,6 +473,7 @@ models that enable capacity planning, network optimization and what-if scenario 
 - [NetMRI](https://www.infoblox.com/products/netmri/) - Vendor Agnostic NCCM tool with with policy engine and multi-vendor device lifecycle/vulnerability management. (Infoblox product)
 - [NetYCE](https://netyce.com/) NetYCE lets you be in control of any and all of your networks, using its unique Design Driven Networking approach. Not stopping at network devices, but orchestrate end-to-end including firewalls, DDI (DNS, DHCP, IPAM) and other 3rd party tooling. Deploy your networks as Designed.
 - [PacketFront](https://pfsw.com/) - PacketFront BECS and BBE is a vendor-agnostic network, service and resource orchestration system for residential, enterprise and data center networks.
+- [SuzieQ Enterprise Edition](https://stardustsystems.net) - The enterprise edition of the [suzieq](#suzieq) open source project.
 
 # Network Vendor Products
 - [Cisco DNA Center](https://developer.cisco.com/dnacenter/) - Cisco DNA Center automates campus networks for faster workflows, faster troubleshooting through more visibility, and policy-driven security (inc. [SDA](https://www.cisco.com/c/en/us/solutions/enterprise-networks/software-defined-access/index.html)).
