@@ -275,10 +275,10 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [StackStorm Intro on Software Gone Wild](https://blog.ipspace.net/2016/11/stackstorm-101-on-software-gone-wild.html) - SGW team talk with StackStorm (including Matt Oswalt) to discuss StackStorm.
  
  ## SuzieQ
- - [Github Repository](https://github.com/netenglabs/suzieq) is the first open-source, agentless, multi-vendor network observability application
- - [Quick Install](https://suzieq.readthedocs.io/en/latest/getting_started/)
- - [Online Documentation](https://suzieq.readthedocs.io/en/latest/)
- - [Youtube Videos](https://www.youtube.com/@suzieqproject7168)
+
+ - [SuzieQ Documentation](https://suzieq.readthedocs.io/en/latest/) - All official documentation including project overview, quick start, configuration guide, etc.
+ - [SuzieQ Repository](https://github.com/netenglabs/suzieq) - Open-source code for the SuzieQ project.
+ - [SuzieQ Youtube](https://www.youtube.com/@suzieqproject7168) - Official youtube home of the SuzieQ project providing community meetups and demonstrations of the project in action.
 
 ## Products
 
