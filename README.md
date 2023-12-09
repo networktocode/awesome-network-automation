@@ -350,12 +350,14 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [NetTowel](https://github.com/InfrastructureAsCode-ch/nettowel) - Collection of useful network automation functions for the CLI.
 - [OSPF Watcher](https://github.com/Vadims06/ospfwatcher) - Tracks OSPF topology changes--by establishing a GRE tunnel with network devices--via a history diagram.
 - [Topolograph](https://github.com/Vadims06/topolograph) - Python-based Web tool for visualisation of OSPF/ISIS topologies and making a prediction of network behaviour in case of network's outage.
+- [D2](https://d2lang.com/) - Create beautiful diagrams in minutes. Simple syntax. Endlessly customizable. D2 is the fastest and easiest way to get a mental model from your head onto the screen, then make edits with your team.
 
 ## Network Telemetry
 
 - [InfluxDB](https://www.influxdata.com/) - Made for developers to build time-series-based applications quickly and at scale.
 - [Prometheus](https://prometheus.io/) - Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud.
 - [Telegraf](https://www.influxdata.com/time-series-platform/telegraf/) - elegraf is the open source server agent to help you collect metrics from your stacks, sensors, and systems.
+- [Grafana](https://grafana.com/) - The open observability platform.
 
 ## Online Parser
 
@@ -473,6 +475,8 @@ models that enable capacity planning, network optimization and what-if scenario 
 - [Cisco Viptela](http://viptela.com/) - Viptela provides Software-Defined Wide Area Network (SD-WAN) technology that allows global companies to build cost-effective WANs.
 - [Cumulus Networks NetQ](https://cumulusnetworks.com/products/netq/) - Cumulus NetQ is a highly-scalable, modern network operations tool set that provides visibility into your overlay and underlay networks in real-time. NetQ delivers actionable insights and operational intelligence about the health of your data center — from the container, virtual machine, or host, all the way to the switch and port, enabling a NetDevOps approach.
 - [Oracle Talari](https://www.oracle.com/industries/communications/enterprise-communications/products/talari-platforms.html) - Talari Networks SD-WAN technology.
+- [Arista Validated Designs](https://avd.arista.com/stable/index.html) - AVD is an extensible data model that defines Arista’s Unified Cloud Network architecture as “code”.
+- [Arista Network Test Automation](https://www.anta.ninja/stable/) - ANTA is a Python framework that automates tests for Arista devices.
 
 # Podcasts
 
