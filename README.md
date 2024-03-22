@@ -97,6 +97,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 |            Title            |            Details            |            Year            |
 |-----------------------------|-------------------------------|----------------------------|
+| [Python, Go and Rust for Network Automation](https://www.youtube.com/watch?v=hx1JCsQKkns) | Claus Töpke, NANOG | 2024 |
 | [Nautobot Overview](https://www.youtube.com/watch?v=_vq-rtTRLRk&list=PLinuRwpnsHadCKcgqwnikyMZEWZX1raMB&index=16) | Network to Code, Network Field Day 24 | 2021 |
 | [Automation without Config Deployment](https://www.youtube.com/watch?v=qw6jKa7yLBQ) | Ken Celenza, NANOG | 2021 |
 | [Cisco DevNet Day 2020](https://developer.cisco.com/events/devnetday20/) | Todd Nightingale (Cisco SVP/GM) | 2020 |
