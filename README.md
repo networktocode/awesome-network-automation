@@ -64,7 +64,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [Salt Formulas](https://groups.google.com/forum/#!forum/salt-formulas) - The SaltStack formulas working group.
 - [Salt Networks](https://groups.google.com/forum/#!forum/salt-networks) - A centralized group for talking about network device automation with SaltStack.
 - [Salt Users](https://groups.google.com/forum/#!forum/salt-users) - The official forum of the Salt community.
-- [SaltStack Community Slack ](https://saltstackcommunity.slack.com/) - The official Slack of Saltstack Project.
+- [SaltStack Community Slack](https://saltstackcommunity.slack.com/) - The official Slack of Saltstack Project.
 
 # Events / Meetup
 
@@ -120,7 +120,6 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 | [NAPALM](https://www.youtube.com/watch?v=93q-dHC0u0I) | David Barroso, Elisa Jasinska, NANOG 64 [slide deck](https://www.nanog.org/sites/default/files/meetings/NANOG64/1043/20150601_Jasinska_Network_Automation_And_v1.pdf). | 2015 |
 | [What Is NetDevOps](https://ripe71.ripe.net/archives/video/154/) | Leslie Carr, RIPE71, [slide deck](https://ripe71.ripe.net/wp-content/uploads/presentations/54-LeslieCarr_What_is_NetDevOps_Why_RIPE71.pdf). | 2015 |
 
-
 # Blogs
 
 - [Benoît Claise blog](https://www.claise.be/) - The Network Automation thoughts of Benoît Claise.
@@ -151,201 +150,202 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 ### YAML
 
- - [Getting Started and Basics](http://www.yaml.org/start.html) - Introduction to YAML
- - [Online Validator](https://yaml-online-parser.appspot.com/) - Online YAML Parser.
- - [Sample YAML documents describing common data structures](https://github.com/ipspace/NetOpsWorkshop/tree/master/YAML) - YAML examples courtesy of Ivan Pepelnjak.
- - [YAML Data Validation with JSON Schema](https://infrastructureascode.ch/yaml_validation.html) - Explains how JSON schema can be used to validate YAML files and how syntax highlighting can be added to the IDE for the YAML files.
- - [YAML syntax validator](https://yamllint.readthedocs.io/en/latest/) - YAML online parser.
- - [YAML idiosyncrasies](https://docs.saltstack.com/en/latest/topics/troubleshooting/yaml_idiosyncrasies.html) -- Document with the most common YAML idiosyncrasies, hosted under the SaltStack docs, but not specific to Salt or any other tool.
+- [Getting Started and Basics](http://www.yaml.org/start.html) - Introduction to YAML
+- [Online Validator](https://yaml-online-parser.appspot.com/) - Online YAML Parser.
+- [Sample YAML documents describing common data structures](https://github.com/ipspace/NetOpsWorkshop/tree/master/YAML) - YAML examples courtesy of Ivan Pepelnjak.
+- [YAML Data Validation with JSON Schema](https://infrastructureascode.ch/yaml_validation.html) - Explains how JSON schema can be used to validate YAML files and how syntax highlighting can be added to the IDE for the YAML files.
+- [YAML syntax validator](https://yamllint.readthedocs.io/en/latest/) - YAML online parser.
+- [YAML idiosyncrasies](https://docs.saltstack.com/en/latest/topics/troubleshooting/yaml_idiosyncrasies.html) -- Document with the most common YAML idiosyncrasies, hosted under the SaltStack docs, but not specific to Salt or any other tool.
 
 ### JSON
 
- - [Awesome JSON](https://github.com/burningtree/awesome-json) - A curated list of awesome JSON libraries and resources.
- - [Getting Started and Basics](https://www.codecademy.com/courses/javascript-beginner-en-xTAfX/0/1) - JSON Basics.
- - [JSON diff](https://extendsclass.com/json-diff.html) - An online JSON diff tool.
- - [JSON 2 YAML](https://www.json2yaml.com/) - An online JSON to YAML conversion tool.
+- [Awesome JSON](https://github.com/burningtree/awesome-json) - A curated list of awesome JSON libraries and resources.
+- [Getting Started and Basics](https://www.codecademy.com/courses/javascript-beginner-en-xTAfX/0/1) - JSON Basics.
+- [JSON diff](https://extendsclass.com/json-diff.html) - An online JSON diff tool.
+- [JSON 2 YAML](https://www.json2yaml.com/) - An online JSON to YAML conversion tool.
 
 ### XML
 
- - [XML to JSON converter online](http://www.utilities-online.info/xmltojson/) - XML to JSON and JSON to XML converter online.
+- [XML to JSON converter online](http://www.utilities-online.info/xmltojson/) - XML to JSON and JSON to XML converter online.
 
 ### YANG
 
- - [Cisco Labs YANG Introduction](https://developer.cisco.com/learning/lab/intro-yang/step/1) - Introducing YANG Data Modeling for the Network.
- - [IETF RFC](https://tools.ietf.org/html/rfc6020) - The IETF RFC on YANG.
- - [YANG for dummies](https://napalm-automation.net/yang-for-dummies/) - NAPALM YANG introduction.
- - [YANG fundamentals](https://www.devnetexperttraining.com/articles/yang-fundamentals) - A walkthrough video on how to build your own YANG model.
+- [Cisco Labs YANG Introduction](https://developer.cisco.com/learning/lab/intro-yang/step/1) - Introducing YANG Data Modeling for the Network.
+- [IETF RFC](https://tools.ietf.org/html/rfc6020) - The IETF RFC on YANG.
+- [YANG for dummies](https://napalm-automation.net/yang-for-dummies/) - NAPALM YANG introduction.
+- [YANG fundamentals](https://www.devnetexperttraining.com/articles/yang-fundamentals) - A walkthrough video on how to build your own YANG model.
 
 ### Jinja2
 
- - [Documentation](http://jinja.pocoo.org/docs/2.10/templates/) - Base documentation for Jinja2.
- - [Sample Jinja2 templates](https://github.com/ipspace/NetOpsWorkshop/tree/master/Jinja2) - Jinja examples courtesy of Ivan Pepelnjak.
+- [Documentation](http://jinja.pocoo.org/docs/2.10/templates/) - Base documentation for Jinja2.
+- [Sample Jinja2 templates](https://github.com/ipspace/NetOpsWorkshop/tree/master/Jinja2) - Jinja examples courtesy of Ivan Pepelnjak.
 
 ## API
 
 ### RESTCONF
 
- - [RESTCONF requests for IOS-XE](https://www.devnetexperttraining.com/articles/restconf-operations) - How to combine HTTP path, method and payload for IOS-XE restconf operations.
- - [What Is RESTCONF](http://sdntutorials.com/what-is-restconf/) - Overview of RESTCONF.
+- [RESTCONF requests for IOS-XE](https://www.devnetexperttraining.com/articles/restconf-operations) - How to combine HTTP path, method and payload for IOS-XE restconf operations.
+- [What Is RESTCONF](http://sdntutorials.com/what-is-restconf/) - Overview of RESTCONF.
 
 ### NETCONF
 
- - [NETCONF message layers](https://www.devnetexperttraining.com/articles/netconf-anatomy) - A view into the payload of NETCONF XML documents and layers.
- - [What Is NETCONF](http://sdntutorials.com/what-is-netconf/) - Overview of NETCONF.
+- [NETCONF message layers](https://www.devnetexperttraining.com/articles/netconf-anatomy) - A view into the payload of NETCONF XML documents and layers.
+- [What Is NETCONF](http://sdntutorials.com/what-is-netconf/) - Overview of NETCONF.
 
 ## Python
 
- - [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
- - [Learn Python the Hardway](https://learnpythonthehardway.org) - Learn Python The Hard Way takes you from absolute zero to able to read and write basic Python, giving you the tools to understand other documentation and books about Python.
- - [Python at Codecademy](https://www.codecademy.com/learn/learn-python-3) - Learn Python by Codecademy.
- - [Python data structures](https://www.devnetexperttraining.com/articles/python-looping) - Examples on how to access data in nested structures of lists and dicts.
- - [Python Programming Guides and Tutorials - Python Central](https://pythoncentral.io/) - Experienced Python programmers and enthusiasts from around the world that are eager to share their experience.
+- [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
+- [Learn Python the Hardway](https://learnpythonthehardway.org) - Learn Python The Hard Way takes you from absolute zero to able to read and write basic Python, giving you the tools to understand other documentation and books about Python.
+- [Python at Codecademy](https://www.codecademy.com/learn/learn-python-3) - Learn Python by Codecademy.
+- [Python data structures](https://www.devnetexperttraining.com/articles/python-looping) - Examples on how to access data in nested structures of lists and dicts.
+- [Python Programming Guides and Tutorials - Python Central](https://pythoncentral.io/) - Experienced Python programmers and enthusiasts from around the world that are eager to share their experience.
 
 ## Go
 
- - [Awesome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries, software and resources.
- - [Getting Started and Basics](https://tour.golang.org/welcome) - Introduction to programming with Go.
- - [JSON-to-Go](https://mholt.github.io/json-to-go/) - This tool instantly converts JSON into a Go type definition.
- - [YAML-to-Go](https://zhwt.github.io/yaml-to-go/) - This tool instantly converts YAML into a Go type definition.
+- [Awesome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries, software and resources.
+- [Getting Started and Basics](https://tour.golang.org/welcome) - Introduction to programming with Go.
+- [JSON-to-Go](https://mholt.github.io/json-to-go/) - This tool instantly converts JSON into a Go type definition.
+- [YAML-to-Go](https://zhwt.github.io/yaml-to-go/) - This tool instantly converts YAML into a Go type definition.
 
 ## Vendor API Docs
 
- - [Arista EAPI](https://eos.arista.com/arista-eapi-101/) - The Arista Command eAPI is a simple and complete API that allows you to configure and monitor your Arista switches.
- - [Cisco DNA Center Platform API](https://developer.cisco.com/docs/dna-center/) - Online documentation of Cisco DNA Center Platform API.
- - [Cisco IOS XE CSR1000V](https://www.cisco.com/c/en/us/td/docs/routers/csr1000/software/restapi/restapi/RESTAPIintro.html) - Cisco IOS XE REST API Management Reference Guide.
-    - [IOS-XE Programmability](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/prog/configuration/177/b_177_programmability_cg.html) - Documentation for Plug and Play, Guestshell, Python API, EEM, NETCONF, RESTCONF, gNMI/gNOI, gRPC and Application Hosting.
- - [Cisco IOS-XR](https://www.cisco.com/c/en/us/td/docs/ios_xr_sw/iosxr_r4-1/xml/programming/guide/xl41apidoc.html) - Cisco IOS-XR API Docs only.
-   - [XR-Docs](https://xrdocs.github.io) - Documentation Blogs and Tutorials on all things IOS-XR An Open, Extensible and Stable Cloud-Scale Network Operating System.
-   - [NX_API Coming soon]() - Coming Soon.
-   - [Cisco NX-API](https://developer.cisco.com/site/nx-api/) - Main DEVNET page for NX-API docs.
- - [Checkpoint Management API](https://sc1.checkpoint.com/documents/latest/APIs/#web/) - Checkpoint Management REST API docs.
- - [Cumulus Networks HTTP API](https://docs.cumulusnetworks.com/cumulus-linux/System-Configuration/HTTP-API/) - Cumulus Networks REST API docs.
- - Extreme Networks:
-   - [EXOS REST API](https://github.com/extremenetworks/EXOS_Apps/tree/master/REST) - Documentation and examples for ExtremeSwitching ExtremeXOS RESTCONF API.
-   - [EXOS JSONRPC Interface](https://github.com/extremenetworks/EXOS_Apps/tree/master/JSONRPC) - Documentation and examples for ExtremeSwitching ExtremeXOS JSONRPC API.
-   - [EXOS Python API](https://api.extremenetworks.com/EXOS/ProgramInterfaces/PYTHONAPI/?_ga=2.86707664.93471558.1615766490-270125121.1613692686) - Documentation for writing Python applications that run on ExtremeXOS based switches.
- - [F5](https://devcentral.f5.com/d/icontrolr-rest-api-user-guide-version-1300-241) - REST API User Guide, Version 13.0.0.
- - [Infoblox Perl API](https://demogm1.infoblox.com/api/doc/) and [Infoblox REST API](https://demogm1.infoblox.com/wapidoc/)
- - [Juniper JUNOS API](https://www.juniper.net/documentation/en_US/junos/information-products/pathway-pages/rest-api/rest-api.html) - JUNOS REST API Guide.
- - [Meraki Dashboard API](https://dashboard.meraki.com/api_docs) - Manage network environments within Meraki's cloud management tools.
-   - [Meraki Dashboard API What's New](https://create.meraki.io/whats-new/) - Documentation of changes to API endpoints.
- - [Palo Alto Networks PAN-OS API](https://www.paloaltonetworks.com/documentation/80/pan-os/xml-api) - PAN-OS 8.0 XML API Reference.
+- [Arista EAPI](https://eos.arista.com/arista-eapi-101/) - The Arista Command eAPI is a simple and complete API that allows you to configure and monitor your Arista switches.
+- [Cisco DNA Center Platform API](https://developer.cisco.com/docs/dna-center/) - Online documentation of Cisco DNA Center Platform API.
+- [Cisco IOS XE CSR1000V](https://www.cisco.com/c/en/us/td/docs/routers/csr1000/software/restapi/restapi/RESTAPIintro.html) - Cisco IOS XE REST API Management Reference Guide.
+  - [IOS-XE Programmability](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/prog/configuration/177/b_177_programmability_cg.html) - Documentation for Plug and Play, Guestshell, Python API, EEM, NETCONF, RESTCONF, gNMI/gNOI, gRPC and Application Hosting.
+- [Cisco IOS-XR](https://www.cisco.com/c/en/us/td/docs/ios_xr_sw/iosxr_r4-1/xml/programming/guide/xl41apidoc.html) - Cisco IOS-XR API Docs only.
+  - [XR-Docs](https://xrdocs.github.io) - Documentation Blogs and Tutorials on all things IOS-XR An Open, Extensible and Stable Cloud-Scale Network Operating System.
+  - [NX_API Coming soon]() - Coming Soon.
+  - [Cisco NX-API](https://developer.cisco.com/site/nx-api/) - Main DEVNET page for NX-API docs.
+- [Checkpoint Management API](https://sc1.checkpoint.com/documents/latest/APIs/#web/) - Checkpoint Management REST API docs.
+- [Cumulus Networks HTTP API](https://docs.cumulusnetworks.com/cumulus-linux/System-Configuration/HTTP-API/) - Cumulus Networks REST API docs.
+- Extreme Networks:
+  - [EXOS REST API](https://github.com/extremenetworks/EXOS_Apps/tree/master/REST) - Documentation and examples for ExtremeSwitching ExtremeXOS RESTCONF API.
+  - [EXOS JSONRPC Interface](https://github.com/extremenetworks/EXOS_Apps/tree/master/JSONRPC) - Documentation and examples for ExtremeSwitching ExtremeXOS JSONRPC API.
+  - [EXOS Python API](https://api.extremenetworks.com/EXOS/ProgramInterfaces/PYTHONAPI/?_ga=2.86707664.93471558.1615766490-270125121.1613692686) - Documentation for writing Python applications that run on ExtremeXOS based switches.
+- [F5](https://devcentral.f5.com/d/icontrolr-rest-api-user-guide-version-1300-241) - REST API User Guide, Version 13.0.0.
+- [Infoblox Perl API](https://demogm1.infoblox.com/api/doc/) and [Infoblox REST API](https://demogm1.infoblox.com/wapidoc/)
+- [Juniper JUNOS API](https://www.juniper.net/documentation/en_US/junos/information-products/pathway-pages/rest-api/rest-api.html) - JUNOS REST API Guide.
+- [Meraki Dashboard API](https://dashboard.meraki.com/api_docs) - Manage network environments within Meraki's cloud management tools.
+  - [Meraki Dashboard API What's New](https://create.meraki.io/whats-new/) - Documentation of changes to API endpoints.
+- [Palo Alto Networks PAN-OS API](https://www.paloaltonetworks.com/documentation/80/pan-os/xml-api) - PAN-OS 8.0 XML API Reference.
 
 # Open Source Projects
 
 ## Ansible
 
- - [Getting Started with the ios_config Ansible Module](https://www.youtube.com/watch?v=WXLUgDmvHDI) - YouTube video by Jason Edelman of NetworkToCode introducing the ios_config Ansible module
- - [Sample network automation Ansible playbooks](https://github.com/ipspace/ansible-examples) - Ansible playbooks geared towards network engineers, courtesy of Ivan Pepelnjak.
+- [Getting Started with the ios_config Ansible Module](https://www.youtube.com/watch?v=WXLUgDmvHDI) - YouTube video by Jason Edelman of NetworkToCode introducing the ios_config Ansible module
+- [Sample network automation Ansible playbooks](https://github.com/ipspace/ansible-examples) - Ansible playbooks geared towards network engineers, courtesy of Ivan Pepelnjak.
 
 ## Batfish
- - [Home Page](https://bit.ly/2R0Mefx) - Batfish.org home page with tutorials, talks and technical papers detailing the research behind Batfish.
- - Getting Started with Batfish
-    - [Documentation](https://batfish.readthedocs.io) - Getting Started Documentation for Batfish.
-    - [Jupyter Notebook](https://github.com/batfish/pybatfish/tree/master/jupyter_notebooks) - Jupyter Notebooks showing how to use Batfish for configuration, ACL, routing, forwarding, etc... analysis.
-    - [Video](https://www.youtube.com/playlist?list=PLUXUN_5CNTWJeMUqbUFcdi2qPnm_2mit3) - YouTube videos explaining how to use Batfish.
+
+- [Home Page](https://bit.ly/2R0Mefx) - Batfish.org home page with tutorials, talks and technical papers detailing the research behind Batfish.
+- Getting Started with Batfish
+  - [Documentation](https://batfish.readthedocs.io) - Getting Started Documentation for Batfish.
+  - [Jupyter Notebook](https://github.com/batfish/pybatfish/tree/master/jupyter_notebooks) - Jupyter Notebooks showing how to use Batfish for configuration, ACL, routing, forwarding, etc... analysis.
+  - [Video](https://www.youtube.com/playlist?list=PLUXUN_5CNTWJeMUqbUFcdi2qPnm_2mit3) - YouTube videos explaining how to use Batfish.
 
 ## Chef
 
- - [Using Chef Client with Cisco NX-OS](https://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus9000/sw/7-x/programmability/guide/b_Cisco_Nexus_9000_Series_NX-OS_Programmability_Guide_7x/b_Cisco_Nexus_9000_Series_NX-OS_Programmability_Guide_7x_chapter_01110.html) - Using Chef Client with Cisco NX-OS
+- [Using Chef Client with Cisco NX-OS](https://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus9000/sw/7-x/programmability/guide/b_Cisco_Nexus_9000_Series_NX-OS_Programmability_Guide_7x/b_Cisco_Nexus_9000_Series_NX-OS_Programmability_Guide_7x_chapter_01110.html) - Using Chef Client with Cisco NX-OS
 
 ## Puppet
 
- - [Managing a Cisco switch with Puppet](http://www.scottyob.com/2012/12/08/my-experiences-of-managing-a-cisco-switch-with-puppet/) - My experiences of managing a Cisco switch with Puppet.
+- [Managing a Cisco switch with Puppet](http://www.scottyob.com/2012/12/08/my-experiences-of-managing-a-cisco-switch-with-puppet/) - My experiences of managing a Cisco switch with Puppet.
 
 ## Salt
 
- - [Napalm-Salt Repository](https://github.com/napalm-automation/napalm-salt) - The NAPALM-Salt Repository.
- - [salt-nornir](https://github.com/dmulyalin/salt-nornir) - proxy minion to manage network with SaltStack and Nornir using Netmiko, NAPALM, Scrapli, Ncclient, PyGNMI, PyATS based plugins to name a few.
- - [salt-sproxy](https://github.com/mirceaulinic/salt-sproxy) - Salt plugin to automate the management and configuration of (network) devices at scale, without running (Proxy) Minions.
- - [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - Salt in 10 minutes.
- - [Salt high availability and fault tolerance](https://docs.saltstack.com/en/latest/topics/highavailability/index.html) - Salt high availability and fault tolerance.
- - [Salt RIPE-74](https://ripe74.ripe.net/presentations/18-RIPE-74-Network-automation-at-scale-up-and-running-in-60-minutes.pdf) - Event-driven network automation using Salt: up and running in 60 minutes.
- - [Salt 2016.11](https://docs.saltstack.com/en/develop/topics/releases/2016.11.0.html#network-automation-napalm) - Salt 2016.11 (Carbon) release notes.
- - [Salt 2017.7](https://docs.saltstack.com/en/develop/topics/releases/2017.7.0.html#network-automation) - Salt 2017.7 (Nitrogen) release notes.
- - [SaltStack fundamentals](https://docs.saltstack.com/en/getstarted/fundamentals/) - Getting Started Guide walks you through the fundamental concepts you need to learn as you start using SaltStack.
- - [SaltStack configuration management](https://docs.saltstack.com/en/getstarted/config/) - SaltStack Configuration Management.
- - [SaltStack Network Automation](https://docs.saltstack.com/en/develop/topics/network_automation/index.html) - SaltStack Network Automation Overview.
- - [Using Salt at scale](https://docs.saltstack.com/en/latest/topics/tutorials/intro_scale.html) - Using Salt at scale.
+- [Napalm-Salt Repository](https://github.com/napalm-automation/napalm-salt) - The NAPALM-Salt Repository.
+- [salt-nornir](https://github.com/dmulyalin/salt-nornir) - proxy minion to manage network with SaltStack and Nornir using Netmiko, NAPALM, Scrapli, Ncclient, PyGNMI, PyATS based plugins to name a few.
+- [salt-sproxy](https://github.com/mirceaulinic/salt-sproxy) - Salt plugin to automate the management and configuration of (network) devices at scale, without running (Proxy) Minions.
+- [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - Salt in 10 minutes.
+- [Salt high availability and fault tolerance](https://docs.saltstack.com/en/latest/topics/highavailability/index.html) - Salt high availability and fault tolerance.
+- [Salt RIPE-74](https://ripe74.ripe.net/presentations/18-RIPE-74-Network-automation-at-scale-up-and-running-in-60-minutes.pdf) - Event-driven network automation using Salt: up and running in 60 minutes.
+- [Salt 2016.11](https://docs.saltstack.com/en/develop/topics/releases/2016.11.0.html#network-automation-napalm) - Salt 2016.11 (Carbon) release notes.
+- [Salt 2017.7](https://docs.saltstack.com/en/develop/topics/releases/2017.7.0.html#network-automation) - Salt 2017.7 (Nitrogen) release notes.
+- [SaltStack fundamentals](https://docs.saltstack.com/en/getstarted/fundamentals/) - Getting Started Guide walks you through the fundamental concepts you need to learn as you start using SaltStack.
+- [SaltStack configuration management](https://docs.saltstack.com/en/getstarted/config/) - SaltStack Configuration Management.
+- [SaltStack Network Automation](https://docs.saltstack.com/en/develop/topics/network_automation/index.html) - SaltStack Network Automation Overview.
+- [Using Salt at scale](https://docs.saltstack.com/en/latest/topics/tutorials/intro_scale.html) - Using Salt at scale.
 
 ## StackStorm
- - [StackStorm Repository](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation commonly used for auto-remediation, security responses, facilitated troubleshooting, complex deployments, and more. Includes rules engine, workflow, 1800+ integrations, native ChatOps and so forth.
- - [StackStorm Installer](https://docs.stackstorm.com/install/index.html) - Ready to install StackStorm? Here’s an overview of how to get your system up and running.
- - [StackStorm Youtube](https://www.youtube.com/channel/UCColc5CuBJ8-1SnALnkDz8Q) - Various intro, marketing, interviews, and technical product talks.
- - [Stackstorm Docs](https://docs.stackstorm.com) - Documentation repository for latest version of StackStorm.
- - [StackStorm Intro on Software Gone Wild](https://blog.ipspace.net/2016/11/stackstorm-101-on-software-gone-wild.html) - SGW team talk with StackStorm (including Matt Oswalt) to discuss StackStorm.
- 
- ## SuzieQ
 
- - [SuzieQ Documentation](https://suzieq.readthedocs.io/en/latest/) - All official documentation including project overview, quick start, configuration guide, etc.
- - [SuzieQ Repository](https://github.com/netenglabs/suzieq) - Open-source code for the SuzieQ project.
- - [SuzieQ Youtube](https://www.youtube.com/@suzieqproject7168) - Official youtube home of the SuzieQ project providing community meetups and demonstrations of the project in action.
+- [StackStorm Repository](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation commonly used for auto-remediation, security responses, facilitated troubleshooting, complex deployments, and more. Includes rules engine, workflow, 1800+ integrations, native ChatOps and so forth.
+- [StackStorm Installer](https://docs.stackstorm.com/install/index.html) - Ready to install StackStorm? Here’s an overview of how to get your system up and running.
+- [StackStorm Youtube](https://www.youtube.com/channel/UCColc5CuBJ8-1SnALnkDz8Q) - Various intro, marketing, interviews, and technical product talks.
+- [Stackstorm Docs](https://docs.stackstorm.com) - Documentation repository for latest version of StackStorm.
+- [StackStorm Intro on Software Gone Wild](https://blog.ipspace.net/2016/11/stackstorm-101-on-software-gone-wild.html) - SGW team talk with StackStorm (including Matt Oswalt) to discuss StackStorm.
+
+## SuzieQ
+
+- [SuzieQ Documentation](https://suzieq.readthedocs.io/en/latest/) - All official documentation including project overview, quick start, configuration guide, etc.
+- [SuzieQ Repository](https://github.com/netenglabs/suzieq) - Open-source code for the SuzieQ project.
+- [SuzieQ Youtube](https://www.youtube.com/@suzieqproject7168) - Official youtube home of the SuzieQ project providing community meetups and demonstrations of the project in action.
 
 ## Products
 
- - [eNMS](https://github.com/afourmy/eNMS) - A vendor-agnostic NMS for carrier-grade network visualization and network automation.
- - [Nautobot](https://github.com/nautobot/nautobot) - Nautobot is a Network Source of Truth and Network Automation Platform.
- - [netpalm](https://github.com/tbotnz/netpalm) - netpalm is a ReST broker and abstraction layer for NAPALM, Netmiko, NCCLIENT or a Python Script.
- - [NSoT](https://github.com/dropbox/nsot) - Network Source of Truth (NSoT) is a source of truth database and repository for tracking inventory and metadata of network entities to ease management and automation of network infrastructure.
- - [Rundeck](https://rundeck.org/) - Job scheduler and runbook (and Ansible playbook) automation.
+- [eNMS](https://github.com/afourmy/eNMS) - A vendor-agnostic NMS for carrier-grade network visualization and network automation.
+- [Nautobot](https://github.com/nautobot/nautobot) - Nautobot is a Network Source of Truth and Network Automation Platform.
+- [netpalm](https://github.com/tbotnz/netpalm) - netpalm is a ReST broker and abstraction layer for NAPALM, Netmiko, NCCLIENT or a Python Script.
+- [NSoT](https://github.com/dropbox/nsot) - Network Source of Truth (NSoT) is a source of truth database and repository for tracking inventory and metadata of network entities to ease management and automation of network infrastructure.
+- [Rundeck](https://rundeck.org/) - Job scheduler and runbook (and Ansible playbook) automation.
 
 ## Library
 
- - [Aerleon](https://github.com/aerleon/aerleon) - Multi-platform ACL generation system with plugin support, YAML-based config, and a Python API. Fork of Capirca.
- - [Capirca](https://github.com/google/capirca) - Multi-platform ACL generation system; can output Juniper/IOS/etc ACLs from the same policy.
- - [Cisco Genie Parsers](https://pubhub.devnetcloud.com/media/genie-feature-browser/docs/#/parsers) - Genie Parsers by Cisco
- - [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations.
- - [Cisco virl2_client](https://developer.cisco.com/docs/virl2-client/) - Documentation for the VIRL 2 (aka CML) API Client. Use this library to create Python scripts to interact with CML.
- - [EasySNMP](https://github.com/kamakazikamikaze/easysnmp) - Easy to use and very fast SNMP library that uses Net-SNMP.
- - [FreeZTP](https://github.com/PackeTsar/freeztp) - FreeZTP is an open-source Zero-Touch Provisioning system for Cisco IOS campus switches and routers.
- - [gNMIc](https://gnmic.kmrd.dev) - gNMI CLI client and collector.
- - [Hierarchical Configuration](https://github.com/netdevops/hier_config) - Hierarchical Configuration is a Python library that is able to take a running configuration of a network device, compare it to its intended configuration, and build the remediation steps necessary bring a device into spec with its intended configuration.
- - [inet-henge](https://github.com/codeout/inet-henge) - Generate d3.js based Network Diagram from JSON data.
- - [Jinja2](http://jinja.pocoo.org/) - A full-featured template engine for Python.
- - [NAPALM](https://github.com/napalm-automation/napalm) - NAPALM (Network Automation and Programmability Abstraction Layer with Multivendor support) is a Python library that implements a set of functions to interact with different router vendor devices using a unified API.
- - [Need To Graph](https://github.com/dmulyalin/N2G) - A library to generate diagrams in yWorks GraphML, diagrams.net/draw.io or JSON formats using structured data or show commands output.
- - [netaddr](https://github.com/drkjam/netaddr) - Network address manipulation that supports a number of techniques (supernetting and subnetting).
- - [Netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices.
- - [Nornir](https://github.com/nornir-automation/nornir) - Nornir is a pure Python automation framework intended to be used directly from Python.
- - [NUTS](https://github.com/network-unit-testing-system) - Network Unit Testing System is a Pytest plugin enabling writing network tests with YAML files.
- - [PyGNMI](https://github.com/akarneliuk/pygnmi) - Pure Python implementation of gNMI client to interact with network functions.
- - [SEC - Simple Event Correlator](https://simple-evcorr.github.io/) - SEC is an event correlation tool for advanced event processing which can be harnessed for event log monitoring, for network and security management, for fraud detection, and for any other task which involves event correlation.
- - [Template Text Parser](https://github.com/dmulyalin/ttp) - CLI tool and Python module for parsing semi-structured text into structured data. Similar syntax to Jinja templating, but in reverse. TTP Templates [collection](https://github.com/dmulyalin/ttp_templates).
- - [TextFSM](https://github.com/google/textfsm) - Python module for parsing semi-structured text into Python tables.
-
+- [Aerleon](https://github.com/aerleon/aerleon) - Multi-platform ACL generation system with plugin support, YAML-based config, and a Python API. Fork of Capirca.
+- [Capirca](https://github.com/google/capirca) - Multi-platform ACL generation system; can output Juniper/IOS/etc ACLs from the same policy.
+- [Cisco Genie Parsers](https://pubhub.devnetcloud.com/media/genie-feature-browser/docs/#/parsers) - Genie Parsers by Cisco
+- [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) - Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations.
+- [Cisco virl2_client](https://developer.cisco.com/docs/virl2-client/) - Documentation for the VIRL 2 (aka CML) API Client. Use this library to create Python scripts to interact with CML.
+- [EasySNMP](https://github.com/kamakazikamikaze/easysnmp) - Easy to use and very fast SNMP library that uses Net-SNMP.
+- [FreeZTP](https://github.com/PackeTsar/freeztp) - FreeZTP is an open-source Zero-Touch Provisioning system for Cisco IOS campus switches and routers.
+- [gNMIc](https://gnmic.kmrd.dev) - gNMI CLI client and collector.
+- [Hierarchical Configuration](https://github.com/netdevops/hier_config) - Hierarchical Configuration is a Python library that is able to take a running configuration of a network device, compare it to its intended configuration, and build the remediation steps necessary bring a device into spec with its intended configuration.
+- [inet-henge](https://github.com/codeout/inet-henge) - Generate d3.js based Network Diagram from JSON data.
+- [Jinja2](http://jinja.pocoo.org/) - A full-featured template engine for Python.
+- [NAPALM](https://github.com/napalm-automation/napalm) - NAPALM (Network Automation and Programmability Abstraction Layer with Multivendor support) is a Python library that implements a set of functions to interact with different router vendor devices using a unified API.
+- [Need To Graph](https://github.com/dmulyalin/N2G) - A library to generate diagrams in yWorks GraphML, diagrams.net/draw.io or JSON formats using structured data or show commands output.
+- [netaddr](https://github.com/drkjam/netaddr) - Network address manipulation that supports a number of techniques (supernetting and subnetting).
+- [Netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices.
+- [Nornir](https://github.com/nornir-automation/nornir) - Nornir is a pure Python automation framework intended to be used directly from Python.
+- [NUTS](https://github.com/network-unit-testing-system) - Network Unit Testing System is a Pytest plugin enabling writing network tests with YAML files.
+- [PyGNMI](https://github.com/akarneliuk/pygnmi) - Pure Python implementation of gNMI client to interact with network functions.
+- [SEC - Simple Event Correlator](https://simple-evcorr.github.io/) - SEC is an event correlation tool for advanced event processing which can be harnessed for event log monitoring, for network and security management, for fraud detection, and for any other task which involves event correlation.
+- [Template Text Parser](https://github.com/dmulyalin/ttp) - CLI tool and Python module for parsing semi-structured text into structured data. Similar syntax to Jinja templating, but in reverse. TTP Templates [collection](https://github.com/dmulyalin/ttp_templates).
+- [TextFSM](https://github.com/google/textfsm) - Python module for parsing semi-structured text into Python tables.
 
 ## Non-Core Ansible Modules
 
- - [ansible-junos-stdlib](https://github.com/Juniper/ansible-junos-stdlib) - Junos OS modules for Ansible.
- - [ansible-mysql-query](https://github.com/zauberpony/ansible-mysql-query) - Ansible module to modify MySQL database records.
- - [ara](https://github.com/openstack/ara) - Ansible Runtime Analysis.
- - [FortiManager-Ansible](https://github.com/networktocode/fortimanager-ansible) - Ansible module to work with FortiManager.
- - [Infoblox-Ansible](https://github.com/infobloxopen/infoblox-ansible) - Ansible module to work with Infoblox.
- - [IP Infusion OcNOS Ansible module](https://github.com/IPInfusion/OcNOS) - Ansible module, SNMP MIB files, and YANG files for OcNOS.
- - [Napalm-Ansible](https://github.com/napalm-automation/napalm-ansible) - Collection of Ansible modules that use napalm to retrieve data or modify configuration on networking devices.
- - [Netscaler-Ansible](https://github.com/networktocode/netscaler-ansible) - Ansible module to work with Netscalers.
- - [NTC Ansible](https://github.com/networktocode/ntc-ansible) - Multi-vendor Ansible modules for Network Automation.
- - [pan-os-ansible](https://github.com/PaloAltoNetworks/pan-os-ansible) - Ansible modules for working with Palo Alto Networks PAN-OS.
+- [ansible-junos-stdlib](https://github.com/Juniper/ansible-junos-stdlib) - Junos OS modules for Ansible.
+- [ansible-mysql-query](https://github.com/zauberpony/ansible-mysql-query) - Ansible module to modify MySQL database records.
+- [ara](https://github.com/openstack/ara) - Ansible Runtime Analysis.
+- [FortiManager-Ansible](https://github.com/networktocode/fortimanager-ansible) - Ansible module to work with FortiManager.
+- [Infoblox-Ansible](https://github.com/infobloxopen/infoblox-ansible) - Ansible module to work with Infoblox.
+- [IP Infusion OcNOS Ansible module](https://github.com/IPInfusion/OcNOS) - Ansible module, SNMP MIB files, and YANG files for OcNOS.
+- [Napalm-Ansible](https://github.com/napalm-automation/napalm-ansible) - Collection of Ansible modules that use napalm to retrieve data or modify configuration on networking devices.
+- [Netscaler-Ansible](https://github.com/networktocode/netscaler-ansible) - Ansible module to work with Netscalers.
+- [NTC Ansible](https://github.com/networktocode/ntc-ansible) - Multi-vendor Ansible modules for Network Automation.
+- [pan-os-ansible](https://github.com/PaloAltoNetworks/pan-os-ansible) - Ansible modules for working with Palo Alto Networks PAN-OS.
 
 ## Pre-written Salt States (Formulas)
 
- - [napalm-install-formula](https://github.com/saltstack-formulas/napalm-install-formula) - Salt formula to simplify the installation of the necessary packages and system dependencies for NAPALM.
- - [napalm-ntp-formula](https://github.com/saltstack-formulas/napalm-ntp-formula) - Formula to manage the NTP configuration on network devices, following the OpenConfig system YANG model.
+- [napalm-install-formula](https://github.com/saltstack-formulas/napalm-install-formula) - Salt formula to simplify the installation of the necessary packages and system dependencies for NAPALM.
+- [napalm-ntp-formula](https://github.com/saltstack-formulas/napalm-ntp-formula) - Formula to manage the NTP configuration on network devices, following the OpenConfig system YANG model.
 
 ## Vendor Abstraction Library
 
- - [clicrud](https://github.com/davidjohngee/clicrud) - Brocade specific (MLX/VDX/ICX/CER/CES) CLI driver (Telnet & SSH).
- - [dnacentersdk](https://github.com/cisco-en-programmability/dnacentersdk) - Python library for Cisco DNA Center Platform API.
- - [f5-common-python](https://github.com/F5Networks/f5-common-python) - Python SDK for configuration and monitoring of F5 BIG-IP devices via the iControl REST API.
- - [Infoblox Python Module](https://github.com/infobloxopen/infoblox-client) - Python wrapper for REST API
- - [Infoblox Go Client](https://github.com/infobloxopen/infoblox-go-client) - Go wrapper for REST API
- - [pan-python](https://github.com/kevinsteves/pan-python) - Multi-tool set for Palo Alto Networks PAN-OS, Panorama, WildFire and AutoFocus.
- - [pandevice](https://github.com/PaloAltoNetworks/pan-os-python) - Device framework for interacting with Palo Alto Networks devices.
- - [pyeapi](https://github.com/arista-eosplus/pyeapi) - Python library for Arista EOS.
- - [pyfg](https://github.com/spotify/pyfg) - Python library for Fortinet.
- - [pyiosxr](https://github.com/fooelisa/pyiosxr) - Python library for Cisco IOSXR.
- - [pyntc](https://github.com/networktocode/pyntc) - Python library focused on tasks related to device level and OS management.
- - [py-junos-eznc](https://github.com/Juniper/py-junos-eznc) - Python library for Junos automation.
+- [clicrud](https://github.com/davidjohngee/clicrud) - Brocade specific (MLX/VDX/ICX/CER/CES) CLI driver (Telnet & SSH).
+- [dnacentersdk](https://github.com/cisco-en-programmability/dnacentersdk) - Python library for Cisco DNA Center Platform API.
+- [f5-common-python](https://github.com/F5Networks/f5-common-python) - Python SDK for configuration and monitoring of F5 BIG-IP devices via the iControl REST API.
+- [Infoblox Python Module](https://github.com/infobloxopen/infoblox-client) - Python wrapper for REST API
+- [Infoblox Go Client](https://github.com/infobloxopen/infoblox-go-client) - Go wrapper for REST API
+- [pan-python](https://github.com/kevinsteves/pan-python) - Multi-tool set for Palo Alto Networks PAN-OS, Panorama, WildFire and AutoFocus.
+- [pandevice](https://github.com/PaloAltoNetworks/pan-os-python) - Device framework for interacting with Palo Alto Networks devices.
+- [pyeapi](https://github.com/arista-eosplus/pyeapi) - Python library for Arista EOS.
+- [pyfg](https://github.com/spotify/pyfg) - Python library for Fortinet.
+- [pyiosxr](https://github.com/fooelisa/pyiosxr) - Python library for Cisco IOSXR.
+- [pyntc](https://github.com/networktocode/pyntc) - Python library focused on tasks related to device level and OS management.
+- [py-junos-eznc](https://github.com/Juniper/py-junos-eznc) - Python library for Junos automation.
 
 ## Tools
 
@@ -369,51 +369,50 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 ### Jinja2
 
- - [J2Live - TTL255](https://j2live.ttl255.com/) - Online Jinja2 parser. Additional support for Ansible and Salt filters.
- - [Jinja 101](https://jinja101.infrastructureascode.ch/) - Online Jinja2 parser with Ansible, SaltStack and Stackstorm filter support. Jinja2 environment settings can be configured.
- - [TD4a](https://td4a.codethenetwork.com/) - Advanced online rendering tool.
- - [textfsm.nornir.tech](https://textfsm.nornir.tech/) - Online development tool for Jinja2 templates and more.
+- [J2Live - TTL255](https://j2live.ttl255.com/) - Online Jinja2 parser. Additional support for Ansible and Salt filters.
+- [Jinja 101](https://jinja101.infrastructureascode.ch/) - Online Jinja2 parser with Ansible, SaltStack and Stackstorm filter support. Jinja2 environment settings can be configured.
+- [TD4a](https://td4a.codethenetwork.com/) - Advanced online rendering tool.
+- [textfsm.nornir.tech](https://textfsm.nornir.tech/) - Online development tool for Jinja2 templates and more.
 
 ### TextFSM
 
- - [textfsm.nornir.tech](https://textfsm.nornir.tech/) - Online development tool for TextFSM templates and more.
- - [TextFSM 101](https://textfsm101.infrastructureascode.ch/) - Simple online TextFSM parser with examples.
-
+- [textfsm.nornir.tech](https://textfsm.nornir.tech/) - Online development tool for TextFSM templates and more.
+- [TextFSM 101](https://textfsm101.infrastructureascode.ch/) - Simple online TextFSM parser with examples.
 
 ### TTP
 
- - [textfsm.nornir.tech](https://textfsm.nornir.tech/) - Online development tool for TTP templates and more.
- - [TTP 101](https://ttp101.infrastructureascode.ch/) - Simple TTP online parser with easy examples.
+- [textfsm.nornir.tech](https://textfsm.nornir.tech/) - Online development tool for TTP templates and more.
+- [TTP 101](https://ttp101.infrastructureascode.ch/) - Simple TTP online parser with easy examples.
 
 # Hypervisors and Containers
 
- - [Docker](https://www.docker.com/) - Docker is a software technology providing operating system-level virtualization also known as containers, promoted by the company Docker, Inc.
- - [KVM](https://www.linux-kvm.org/page/Main_Page) - KVM (Kernel-based Virtual Machine) is a full virtualization solution build into the Linux Kernel
- - [Proxmox](https://www.proxmox.com/en/proxmox-ve) - Proxmox is an open source virtualization platform that provides an easy web interface (and REST API) for KVM and LXC.
- - [QEMU](https://www.qemu.org/) - QEMU is a generic and open source machine emulator and virtualizer. When using KVM, QEMU can virtualize x86, server and embedded PowerPC, 64-bit POWER, S390, 32-bit and 64-bit ARM, and MIPS guests.
- - [Vagrant](https://www.vagrantup.com/) - Vagrant enables users to create and configure lightweight, reproducible, and portable development environments.
- - [VirtualBox](https://www.virtualbox.org/) - VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
- - [Vmware ESXi](https://www.vmware.com/products/esxi-and-esx.html) - VMware ESXi is a purpose-built bare-metal hypervisor that installs directly onto a physical server.
+- [Docker](https://www.docker.com/) - Docker is a software technology providing operating system-level virtualization also known as containers, promoted by the company Docker, Inc.
+- [KVM](https://www.linux-kvm.org/page/Main_Page) - KVM (Kernel-based Virtual Machine) is a full virtualization solution build into the Linux Kernel
+- [Proxmox](https://www.proxmox.com/en/proxmox-ve) - Proxmox is an open source virtualization platform that provides an easy web interface (and REST API) for KVM and LXC.
+- [QEMU](https://www.qemu.org/) - QEMU is a generic and open source machine emulator and virtualizer. When using KVM, QEMU can virtualize x86, server and embedded PowerPC, 64-bit POWER, S390, 32-bit and 64-bit ARM, and MIPS guests.
+- [Vagrant](https://www.vagrantup.com/) - Vagrant enables users to create and configure lightweight, reproducible, and portable development environments.
+- [VirtualBox](https://www.virtualbox.org/) - VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
+- [Vmware ESXi](https://www.vmware.com/products/esxi-and-esx.html) - VMware ESXi is a purpose-built bare-metal hypervisor that installs directly onto a physical server.
 
 # Network Emulators
 
- - [CML](https://www.cisco.com/c/en/us/products/cloud-systems-management/modeling-labs/index.html) - Cisco Modeling Labs (CML), which replaces VIRL, is a network emulator with both an API and GUI frontend.
- - [Container-Lab](https://github.com/srl-wim/container-lab) - Containerlab provides a framework for orchestrating networking labs with containers. It starts the containers, builds a virtual wiring between them to create lab topologies of users choice and manages labs lifecycle.
- - [EVE-NG](http://www.eve-ng.com/) - The Emulated Virtual Environment for Network, Security and DevOps professionals.
- - [GNS3](https://www.gns3.com/) - Graphical Network Simulator-3.
- - [Mininet](http://mininet.org/) - Mininet creates a realistic virtual network, running real kernel, switch and application code, on a single machine (VM, cloud or native), in seconds, with a single command.
- - [netlab](https://github.com/ipspace/netlab) - Brings infrastructure-as-code concepts to networking labs. You'll describe your high-level network topology and routing design in a YAML file, and the tools in this repository will create configs for VirtualBox/libvirt/containerlab, Ansible inventory, IPv4/v6 addressing, VLANs and VRFs, OSPF, EIGRP, IS-IS, BGP, BFD, MPLS, MPLS/VPN, VXLAN, EVPN and Segment Routing.
- - [UNetLab](https://www.routereflector.com/unetlab/) - Unified Networking Lab.
- - [VRNetLab](https://github.com/plajjan/vrnetlab) - Run your favourite virtual routers in docker for convenient labbing, development and testing.
+- [CML](https://www.cisco.com/c/en/us/products/cloud-systems-management/modeling-labs/index.html) - Cisco Modeling Labs (CML), which replaces VIRL, is a network emulator with both an API and GUI frontend.
+- [Container-Lab](https://github.com/srl-wim/container-lab) - Containerlab provides a framework for orchestrating networking labs with containers. It starts the containers, builds a virtual wiring between them to create lab topologies of users choice and manages labs lifecycle.
+- [EVE-NG](http://www.eve-ng.com/) - The Emulated Virtual Environment for Network, Security and DevOps professionals.
+- [GNS3](https://www.gns3.com/) - Graphical Network Simulator-3.
+- [Mininet](http://mininet.org/) - Mininet creates a realistic virtual network, running real kernel, switch and application code, on a single machine (VM, cloud or native), in seconds, with a single command.
+- [netlab](https://github.com/ipspace/netlab) - Brings infrastructure-as-code concepts to networking labs. You'll describe your high-level network topology and routing design in a YAML file, and the tools in this repository will create configs for VirtualBox/libvirt/containerlab, Ansible inventory, IPv4/v6 addressing, VLANs and VRFs, OSPF, EIGRP, IS-IS, BGP, BFD, MPLS, MPLS/VPN, VXLAN, EVPN and Segment Routing.
+- [UNetLab](https://www.routereflector.com/unetlab/) - Unified Networking Lab.
+- [VRNetLab](https://github.com/plajjan/vrnetlab) - Run your favourite virtual routers in docker for convenient labbing, development and testing.
 
 # Network Simulators
 
- - [Batfish](https://github.com/batfish/batfish) - Batfish provides a model-based simulation for multi-vendor networks, that enables routing, forwarding, security, compliance, and what-if scenario analysis of a network (or proposed change to a network).
- - [Cisco WAN Automation Engine](https://www.cisco.com/c/en/us/products/routers/wae-planning/index.html) - Cisco WAE, formerly known as Cariden MATE, provides a multi-vendor network simulation that enables capacity planning and what-if scenario analysis for carrier networks.
- - [Forward Networks](https://forwardnetworks.com) - Forward Enterprise documents, searches, verifies, and predicts the behavior of your network by creating an always-accurate software copy of your entire network infrastructure for both on-prem and cloud.
- - [Juniper WANDL](https://www.juniper.net/us/en/products-services/sdn/wandl/) - Juniper WANDL provides traffic engineering
+- [Batfish](https://github.com/batfish/batfish) - Batfish provides a model-based simulation for multi-vendor networks, that enables routing, forwarding, security, compliance, and what-if scenario analysis of a network (or proposed change to a network).
+- [Cisco WAN Automation Engine](https://www.cisco.com/c/en/us/products/routers/wae-planning/index.html) - Cisco WAE, formerly known as Cariden MATE, provides a multi-vendor network simulation that enables capacity planning and what-if scenario analysis for carrier networks.
+- [Forward Networks](https://forwardnetworks.com) - Forward Enterprise documents, searches, verifies, and predicts the behavior of your network by creating an always-accurate software copy of your entire network infrastructure for both on-prem and cloud.
+- [Juniper WANDL](https://www.juniper.net/us/en/products-services/sdn/wandl/) - Juniper WANDL provides traffic engineering
 models that enable capacity planning, network optimization and what-if scenario analysis for carrier networks.
- - [SuzieQ](https://github.com/netenglabs/suzieq) - SuzieQ is a agentless, multi-vendor network observability application.
+- [SuzieQ](https://github.com/netenglabs/suzieq) - SuzieQ is a agentless, multi-vendor network observability application.
 
 # Backups
 
@@ -421,12 +420,14 @@ models that enable capacity planning, network optimization and what-if scenario 
 - [fetchconfig](https://github.com/udhos/fetchconfig) - fetchconfig is a Perl script for retrieving configuration of multiple devices.
 - [Gerty](https://github.com/ssinyagin/gerty) - Universal framework for device management automation. Eventually a replacement for RANCID... and much more.
 - [Jazigo](https://github.com/udhos/jazigo) - Jazigo is a tool written in Go for retrieving configuration for multiple devices, similar to rancid, fetchconfig, oxidized, Sweet.
+- [Network Configuration Backup](https://github.com/jeremyschulman/netcfgbu) - The netcfgbu tool was built specifically to backup network operating system (NOS) configurations that are monolithic in nature. That is to say the entire configuration can be captured using a command such as "show running-config". Any NOS that provides a monolithic configuration should be supported by netcfgbu.
 - [Oxidized](https://github.com/ytti/oxidized) - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
 - [RANCID](https://www.shrubbery.net/rancid) - RANCID monitors a router's (or more generally a device's) configuration, including software and hardware (cards, serial numbers, etc) and uses CVS (Concurrent Version System), Subversion or Git to maintain history of changes.
 - [Sweet](https://github.com/AppliedTrust/sweet) - Network device configuration backups and change alerts for the 21st century - inspired by RANCID!
 - [Unimus](https://unimus.net) - Configuration backup with an easy to use Web GUI. From nothing to backing-up 1000 routers in 15 minutes.
 
 # IPAM
+
 - [bluecat](https://bluecatnetworks.com/adaptive-dns/bluecat-integrity/) - BlueCat provides network intelligence and insight into the relationship between devices, users and IP addresses that can be put into action to improve security and ensure reliable, always-on business connectivity.
 - [Device42](https://www.device42.com) - Automatically maintain an up-to-date inventory of your physical, virtual, and cloud servers and containers, network components, software, services, applications, and their inter-relationships and inter-dependencies. Integrations, REST APIs and webhooks to automate your workflows with a modern CMDB as a single source of truth. Comes with powerful Data Center Infrastructure Management, IP Address Management and Application Mappings.  Mostly leverages SNMP or vendor provided APIs that are well adopted/documented.
 - [Infoblox](https://www.infoblox.com/) - Industry leader in DNS, DHCP, and IP address management, the category known as DDI.
@@ -437,6 +438,7 @@ models that enable capacity planning, network optimization and what-if scenario 
 - [TeemIP](https://sourceforge.net/projects/teemip/) - TeemIp is an open source, WEB based, IP Adress Management (IPAM) tool that provides comprehensive IP Management capabilities. It allows you to manage your IPv4 and IPv6 spaces through a simple and powerful user interface: track user requests, discover and allocate IPs, manage your IP plan and your subnet space in accordance with best in class IP Management practices.
 
 # Configuration Management
+
 - [Jerikan](https://github.com/jerikan-network/cmdb) - Network wide CMDB combining single source of truth in YAML, configs in Jinja2 and deployment with Ansible.
 - [ManageEngine](https://www.manageengine.com/network-configuration-manager/) - Network Configuration Manager is a multi vendor network change, configuration and compliance management (NCCCM) solution for switches, routers, firewalls and other network devices.
 - [NetMRI](https://www.infoblox.com/products/netmri/) - Vendor Agnostic NCCM tool with with policy engine and multi-vendor device lifecycle/vulnerability management. (Infoblox product)
@@ -464,10 +466,11 @@ models that enable capacity planning, network optimization and what-if scenario 
 - [The Unicorn Project](https://itrevolution.com/the-unicorn-project/) - See the concepts of Agile and DevOps following a Developer viewpoint.
 
 # Vendor Agnostic Products
+
 - [Anuta Networks ATOM](https://www.anutanetworks.com/anuta-atom-overview/) - Monitoring & Closed-Loop Automation for Multi-Vendor Networks.
 - [Apstra](https://www.apstra.com/products/) - The Apstra Operating System (AOS) is a vendor-agnostic distributed operating system for the data center network that enables business agility, dramatically scales operational efficiency, and reduces downtime.
 - [Cisco NSO](https://cisco.com/go/nso) - NSO (former Tail-f NCS) is a multi-vendor automation and orchestration platform for physical and virtual networks for over 80+ vendors. NSO provides YANG-based programmability through a wide variety of interfaces including CLI, RESTCONF, NETCONF, Java, Python and web UI.
- - [Forward Networks](https://forwardnetworks.com) - Forward Enterprise documents, searches, verifies, and predicts the behavior of your network by creating an always-accurate software copy of your entire network infrastructure for both on-prem and cloud.
+- [Forward Networks](https://forwardnetworks.com) - Forward Enterprise documents, searches, verifies, and predicts the behavior of your network by creating an always-accurate software copy of your entire network infrastructure for both on-prem and cloud.
 - [Glue](http://gluenetworks.com/about-us-the-glue-team/) - With Gluware, the Glue Networks vision and team are continuing to trail-blaze at the forefront of the networking industry with multi-vendor orchestration solutions for Data Center, WAN and LAN networks.
 - [Intentionet](https://www.intentionet.com/) - Intentionet provides a hosted or on-premise network validation software solution based on [Batfish](http://www.batfish.org). Intentionet Sage's model-based network simulation enables pre-commit validation for all network changes, ensuring only correct changes are pushed to the network, thereby reducing outages and breaches while improving network agility.
 - [IP Fabric](https://ipfabric.io/) - Network assurance tool with vendor agnostic network discovery, inventory, modelling and mapping of on-prem and cloud networks.  Snapshots create a point-in-time view to verify that network behaves as intended after changes. GUI supports your network documentation with accurate, live network representation, and API used to keep all your SoT, automation tooling and monitoring up to date.
@@ -477,6 +480,7 @@ models that enable capacity planning, network optimization and what-if scenario 
 - [SuzieQ Enterprise Edition](https://stardustsystems.net) - The enterprise edition of the [suzieq](#suzieq) open source project.
 
 # Network Vendor Products
+
 - [Cisco DNA Center](https://developer.cisco.com/dnacenter/) - Cisco DNA Center automates campus networks for faster workflows, faster troubleshooting through more visibility, and policy-driven security (inc. [SDA](https://www.cisco.com/c/en/us/solutions/enterprise-networks/software-defined-access/index.html)).
 - [Cisco Meraki](https://meraki.cisco.com/) - Cisco Meraki is the leader in cloud controlled WiFi, routing, and security. Secure and scalable, Cisco Meraki enterprise networks simply work.
 - [Cisco Viptela](http://viptela.com/) - Viptela provides Software-Defined Wide Area Network (SD-WAN) technology that allows global companies to build cost-effective WANs.
