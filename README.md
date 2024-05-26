@@ -353,12 +353,13 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 - [Batfish](https://github.com/batfish/batfish) - Open-source network validation application. Multi-vendor configuration parser with a detailed modeled based simulation to analyze all aspects of network behavior (routing, forwarding, security, etc...).
 - [Drawthe.net](https://github.com/cidrblock/drawthe.net) - Draw network diagrams described in YAML files.
+- [IS-IS Watcher](https://github.com/Vadims06/isiswatcher) - Tracks IS-IS topology changes by establishing a GRE tunnel with network devices via a history diagram.
 - [napalm-logs](https://github.com/napalm-automation/napalm-logs) - Cross-vendor normalisation for network syslog messages, following the OpenConfig and IETF YANG models.
 - [Network-Conditions-Emulator](https://github.com/marty90/Network-Conditions-Emulator) - Artificially limit bandwidth, delay and loss rate on selected interfaces.
 - [netconan](https://github.com/intentionet/netconan) - Network Configuration Anonymizer
 - [NetCopa](https://github.com/cidrblock/netcopa) - Network device configuration parser ("industry standard" -> YAML converter).
 - [NetTowel](https://github.com/InfrastructureAsCode-ch/nettowel) - Collection of useful network automation functions for the CLI.
-- [OSPF Watcher](https://github.com/Vadims06/ospfwatcher) - Tracks OSPF topology changes--by establishing a GRE tunnel with network devices--via a history diagram.
+- [OSPF Watcher](https://github.com/Vadims06/ospfwatcher) - Tracks OSPF topology changes by establishing a GRE tunnel with network devices via a history diagram.
 - [Topolograph](https://github.com/Vadims06/topolograph) - Python-based Web tool for visualisation of OSPF/ISIS topologies and making a prediction of network behaviour in case of network's outage.
 
 ## Network Telemetry
