@@ -250,6 +250,14 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
  - [Using Chef Client with Cisco NX-OS](https://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus9000/sw/7-x/programmability/guide/b_Cisco_Nexus_9000_Series_NX-OS_Programmability_Guide_7x/b_Cisco_Nexus_9000_Series_NX-OS_Programmability_Guide_7x_chapter_01110.html) - Using Chef Client with Cisco NX-OS
 
+## Clixon
+
+ - [Home Page](https://clicon.org) - Clicon home page with links to the different projects with code and documentation.
+
+   - [Clixon](https://github.com/clicon/clixon) - Clixon provides an interactive CLI, NETCONF, and RESTCONF configuration interface for a YANG-based device. It generates the interfaces from YANG models, uses an embedded database with transaction support.
+
+   - [Clixon Controller](https://github.com/clicon/clixon-controller) - The Clixon controller is an open-source tool for network automation of devices based on NETCONF and YANG.
+
 ## Puppet
 
  - [Managing a Cisco switch with Puppet](http://www.scottyob.com/2012/12/08/my-experiences-of-managing-a-cisco-switch-with-puppet/) - My experiences of managing a Cisco switch with Puppet.
