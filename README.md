@@ -24,6 +24,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
   - [Ansible](#ansible)
   - [Batfish](#batfish)
   - [Chef](#chef)
+  - [Clixon](#clixon)
   - [Puppet](#puppet)
   - [Salt](#salt)
   - [StackStorm](#stackstorm)
