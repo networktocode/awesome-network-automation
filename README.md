@@ -254,9 +254,8 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 ## Infrahub
 
-- [Infrahub GitHub Repo](https://github.com/opsmill/infrahub) - Infrahub offers a central hub to manage the data, templates and playbooks that powers your infrastructure by combining the version control and branch management capabilities of Git with the flexible data model and UI of a graph database.
-- Getting Started with Infrahub
-  - [Infrahub Documentation](https://docs.infrahub.app/) - Including overview, getting started and FAQ.
+- [Infrahub GitHub Repo](https://github.com/opsmill/infrahub) - Infrahub - A new approach to Infrastructure Management.
+- [Infrahub Documentation](https://docs.infrahub.app/) - Including overview, getting started, and FAQ.
 
 ## Puppet
 
