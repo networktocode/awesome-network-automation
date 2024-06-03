@@ -252,6 +252,11 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
  - [Using Chef Client with Cisco NX-OS](https://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus9000/sw/7-x/programmability/guide/b_Cisco_Nexus_9000_Series_NX-OS_Programmability_Guide_7x/b_Cisco_Nexus_9000_Series_NX-OS_Programmability_Guide_7x_chapter_01110.html) - Using Chef Client with Cisco NX-OS
 
+## Infrahub
+
+- [Infrahub GitHub Repo](https://github.com/opsmill/infrahub) - Infrahub - A new approach to Infrastructure Management.
+- [Infrahub Documentation](https://docs.infrahub.app/) - Including overview, getting started, and FAQ.
+
 ## Puppet
 
  - [Managing a Cisco switch with Puppet](http://www.scottyob.com/2012/12/08/my-experiences-of-managing-a-cisco-switch-with-puppet/) - My experiences of managing a Cisco switch with Puppet.
