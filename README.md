@@ -60,7 +60,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [Ansible Google Groups](https://groups.google.com/forum/#!forum/ansible-project) - Ansible's mailing list and forum!
 - [IRC Ansible](https://docs.ansible.com/ansible/community.html#irc-channel) - Ansible IRC Channels.
 - [Chef Community](https://community.chef.io/) - The complete offical list of Chef Community resources.
-- [Network Automation Forum](https://networkautomation.forum/) - In person gathering around Network Automation
+- [Network Automation Forum](https://networkautomation.forum/) - A conference focused on Network Automation.
 - [Network to Code Slack](http://slack.networktocode.com) - The NTC Slack is a vendor and product agnostic home/pseudo-home to many popular Network Automation solution repositories, such as Nautobot, NAPALM, Netmiko, Nornir, NSoT, and so on. Over 17,000 members meet here to discuss topics related to Network Automation.
 - [Puppet Community](https://puppet.com/community/) - The complete offical list of Puppet Community resources.
 - [Salt Formulas](https://groups.google.com/forum/#!forum/salt-formulas) - The SaltStack formulas working group.
