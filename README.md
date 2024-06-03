@@ -2,6 +2,7 @@
 
 Network Automation is a cross between the discipline of [Network Infrastructure](https://github.com/sindresorhus/awesome#networking) and the discipline of Programming. This list was created to serve as a one-stop shop for information related to Network Automation.
 
+- [Awesome Network Automation ](#awesome-network-automation-)
 - [Community](#community)
 - [Events / Meetup](#events--meetup)
 - [Training](#training)
@@ -27,6 +28,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
   - [Puppet](#puppet)
   - [Salt](#salt)
   - [StackStorm](#stackstorm)
+  - [SuzieQ](#suzieq)
   - [Products](#products)
   - [Library](#library)
   - [Non-Core Ansible Modules](#non-core-ansible-modules)
@@ -58,6 +60,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [Ansible Google Groups](https://groups.google.com/forum/#!forum/ansible-project) - Ansible's mailing list and forum!
 - [IRC Ansible](https://docs.ansible.com/ansible/community.html#irc-channel) - Ansible IRC Channels.
 - [Chef Community](https://community.chef.io/) - The complete offical list of Chef Community resources.
+- [Network Automation Forum](https://networkautomation.forum/) - A conference focused on Network Automation.
 - [Network to Code Slack](http://slack.networktocode.com) - The NTC Slack is a vendor and product agnostic home/pseudo-home to many popular Network Automation solution repositories, such as Nautobot, NAPALM, Netmiko, Nornir, NSoT, and so on. Over 17,000 members meet here to discuss topics related to Network Automation.
 - [Puppet Community](https://puppet.com/community/) - The complete offical list of Puppet Community resources.
 - [Salt Formulas](https://groups.google.com/forum/#!forum/salt-formulas) - The SaltStack formulas working group.
@@ -96,6 +99,8 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 |            Title            |            Details            |            Year            |
 |-----------------------------|-------------------------------|----------------------------|
+| [Python, Go and Rust for Network Automation](https://www.youtube.com/watch?v=hx1JCsQKkns) | Claus Töpke, NANOG | 2024 |
+| [Text Parsing Strategies for Network Devices](https://www.youtube.com/watch?v=3ael6w4a948) | Ruairi Carroll, DKNOG | 2023 |
 | [Nautobot Overview](https://www.youtube.com/watch?v=_vq-rtTRLRk&list=PLinuRwpnsHadCKcgqwnikyMZEWZX1raMB&index=16) | Network to Code, Network Field Day 24 | 2021 |
 | [Automation without Config Deployment](https://www.youtube.com/watch?v=qw6jKa7yLBQ) | Ken Celenza, NANOG | 2021 |
 | [Cisco DevNet Day 2020](https://developer.cisco.com/events/devnetday20/) | Todd Nightingale (Cisco SVP/GM) | 2020 |
@@ -247,6 +252,11 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
  - [Using Chef Client with Cisco NX-OS](https://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus9000/sw/7-x/programmability/guide/b_Cisco_Nexus_9000_Series_NX-OS_Programmability_Guide_7x/b_Cisco_Nexus_9000_Series_NX-OS_Programmability_Guide_7x_chapter_01110.html) - Using Chef Client with Cisco NX-OS
 
+## Infrahub
+
+- [Infrahub GitHub Repo](https://github.com/opsmill/infrahub) - Infrahub - A new approach to Infrastructure Management.
+- [Infrahub Documentation](https://docs.infrahub.app/) - Including overview, getting started, and FAQ.
+
 ## Puppet
 
  - [Managing a Cisco switch with Puppet](http://www.scottyob.com/2012/12/08/my-experiences-of-managing-a-cisco-switch-with-puppet/) - My experiences of managing a Cisco switch with Puppet.
@@ -272,6 +282,12 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [StackStorm Youtube](https://www.youtube.com/channel/UCColc5CuBJ8-1SnALnkDz8Q) - Various intro, marketing, interviews, and technical product talks.
  - [Stackstorm Docs](https://docs.stackstorm.com) - Documentation repository for latest version of StackStorm.
  - [StackStorm Intro on Software Gone Wild](https://blog.ipspace.net/2016/11/stackstorm-101-on-software-gone-wild.html) - SGW team talk with StackStorm (including Matt Oswalt) to discuss StackStorm.
+ 
+ ## SuzieQ
+
+ - [SuzieQ Documentation](https://suzieq.readthedocs.io/en/latest/) - All official documentation including project overview, quick start, configuration guide, etc.
+ - [SuzieQ Repository](https://github.com/netenglabs/suzieq) - Open-source code for the SuzieQ project.
+ - [SuzieQ Youtube](https://www.youtube.com/@suzieqproject7168) - Official youtube home of the SuzieQ project providing community meetups and demonstrations of the project in action.
 
 ## Products
 
@@ -298,6 +314,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [Need To Graph](https://github.com/dmulyalin/N2G) - A library to generate diagrams in yWorks GraphML, diagrams.net/draw.io or JSON formats using structured data or show commands output.
  - [netaddr](https://github.com/drkjam/netaddr) - Network address manipulation that supports a number of techniques (supernetting and subnetting).
  - [Netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices.
+ - [Netutils](https://github.com/networktocode/netutils) - A Python library that is a collection of functions that are used in the common network automation tasks.
  - [Nornir](https://github.com/nornir-automation/nornir) - Nornir is a pure Python automation framework intended to be used directly from Python.
  - [NUTS](https://github.com/network-unit-testing-system) - Network Unit Testing System is a Pytest plugin enabling writing network tests with YAML files.
  - [PyGNMI](https://github.com/akarneliuk/pygnmi) - Pure Python implementation of gNMI client to interact with network functions.
@@ -342,21 +359,22 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 ## Tools
 
 - [Batfish](https://github.com/batfish/batfish) - Open-source network validation application. Multi-vendor configuration parser with a detailed modeled based simulation to analyze all aspects of network behavior (routing, forwarding, security, etc...).
+- [D2](https://d2lang.com/) - Create beautiful diagrams in minutes. Simple syntax. Endlessly customizable. D2 is the fastest and easiest way to get a mental model from your head onto the screen, then make edits with your team.
 - [Drawthe.net](https://github.com/cidrblock/drawthe.net) - Draw network diagrams described in YAML files.
+- [IS-IS Watcher](https://github.com/Vadims06/isiswatcher) - Tracks IS-IS topology changes by establishing a GRE tunnel with network devices via a history diagram.
 - [napalm-logs](https://github.com/napalm-automation/napalm-logs) - Cross-vendor normalisation for network syslog messages, following the OpenConfig and IETF YANG models.
 - [Network-Conditions-Emulator](https://github.com/marty90/Network-Conditions-Emulator) - Artificially limit bandwidth, delay and loss rate on selected interfaces.
 - [netconan](https://github.com/intentionet/netconan) - Network Configuration Anonymizer
 - [NetCopa](https://github.com/cidrblock/netcopa) - Network device configuration parser ("industry standard" -> YAML converter).
 - [NetTowel](https://github.com/InfrastructureAsCode-ch/nettowel) - Collection of useful network automation functions for the CLI.
-- [OSPF Watcher](https://github.com/Vadims06/ospfwatcher) - Tracks OSPF topology changes--by establishing a GRE tunnel with network devices--via a history diagram.
+- [OSPF Watcher](https://github.com/Vadims06/ospfwatcher) - Tracks OSPF topology changes by establishing a GRE tunnel with network devices via a history diagram.
 - [Topolograph](https://github.com/Vadims06/topolograph) - Python-based Web tool for visualisation of OSPF/ISIS topologies and making a prediction of network behaviour in case of network's outage.
-- [D2](https://d2lang.com/) - Create beautiful diagrams in minutes. Simple syntax. Endlessly customizable. D2 is the fastest and easiest way to get a mental model from your head onto the screen, then make edits with your team.
 
 ## Network Telemetry
 
 - [InfluxDB](https://www.influxdata.com/) - Made for developers to build time-series-based applications quickly and at scale.
 - [Prometheus](https://prometheus.io/) - Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud.
-- [Telegraf](https://www.influxdata.com/time-series-platform/telegraf/) - elegraf is the open source server agent to help you collect metrics from your stacks, sensors, and systems.
+- [Telegraf](https://www.influxdata.com/time-series-platform/telegraf/) - Telegraf is the open source server agent to help you collect metrics from your stacks, sensors, and systems.
 - [Grafana](https://grafana.com/) - The open observability platform.
 
 ## Online Parser
@@ -407,7 +425,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [Forward Networks](https://forwardnetworks.com) - Forward Enterprise documents, searches, verifies, and predicts the behavior of your network by creating an always-accurate software copy of your entire network infrastructure for both on-prem and cloud.
  - [Juniper WANDL](https://www.juniper.net/us/en/products-services/sdn/wandl/) - Juniper WANDL provides traffic engineering
 models that enable capacity planning, network optimization and what-if scenario analysis for carrier networks.
- - [SusieQ](https://github.com/netenglabs/suzieq) - Suzieq is both a framework and an application using that framework, that is focused on improving the observability of your network.
+ - [SuzieQ](https://github.com/netenglabs/suzieq) - SuzieQ is a agentless, multi-vendor network observability application.
 
 # Backups
 
@@ -468,6 +486,7 @@ models that enable capacity planning, network optimization and what-if scenario 
 - [NetMRI](https://www.infoblox.com/products/netmri/) - Vendor Agnostic NCCM tool with with policy engine and multi-vendor device lifecycle/vulnerability management. (Infoblox product)
 - [NetYCE](https://netyce.com/) NetYCE lets you be in control of any and all of your networks, using its unique Design Driven Networking approach. Not stopping at network devices, but orchestrate end-to-end including firewalls, DDI (DNS, DHCP, IPAM) and other 3rd party tooling. Deploy your networks as Designed.
 - [PacketFront](https://pfsw.com/) - PacketFront BECS and BBE is a vendor-agnostic network, service and resource orchestration system for residential, enterprise and data center networks.
+- [SuzieQ Enterprise Edition](https://stardustsystems.net) - The enterprise edition of the [suzieq](#suzieq) open source project.
 
 # Network Vendor Products
 - [Cisco DNA Center](https://developer.cisco.com/dnacenter/) - Cisco DNA Center automates campus networks for faster workflows, faster troubleshooting through more visibility, and policy-driven security (inc. [SDA](https://www.cisco.com/c/en/us/solutions/enterprise-networks/software-defined-access/index.html)).
@@ -475,8 +494,6 @@ models that enable capacity planning, network optimization and what-if scenario 
 - [Cisco Viptela](http://viptela.com/) - Viptela provides Software-Defined Wide Area Network (SD-WAN) technology that allows global companies to build cost-effective WANs.
 - [Cumulus Networks NetQ](https://cumulusnetworks.com/products/netq/) - Cumulus NetQ is a highly-scalable, modern network operations tool set that provides visibility into your overlay and underlay networks in real-time. NetQ delivers actionable insights and operational intelligence about the health of your data center — from the container, virtual machine, or host, all the way to the switch and port, enabling a NetDevOps approach.
 - [Oracle Talari](https://www.oracle.com/industries/communications/enterprise-communications/products/talari-platforms.html) - Talari Networks SD-WAN technology.
-- [Arista Validated Designs](https://avd.arista.com/stable/index.html) - AVD is an extensible data model that defines Arista’s Unified Cloud Network architecture as “code”.
-- [Arista Network Test Automation](https://www.anta.ninja/stable/) - ANTA is a Python framework that automates tests for Arista devices.
 
 # Podcasts
 
