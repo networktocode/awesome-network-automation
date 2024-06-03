@@ -96,6 +96,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [Python for Network Engineers](https://pynet.twb-tech.com/class.html) - Learn skills that make you better at network automation and that improve your capability to use programming to scale your work.
 
 # Presentations
+
 |            Title            |            Details            |            Year            |
 |-----------------------------|-------------------------------|----------------------------|
 | [Nautobot Overview](https://www.youtube.com/watch?v=_vq-rtTRLRk&list=PLinuRwpnsHadCKcgqwnikyMZEWZX1raMB&index=16) | Network to Code, Network Field Day 24 | 2021 |
