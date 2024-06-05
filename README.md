@@ -253,10 +253,8 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 ## Clixon
 
- - [Home Page](https://clicon.org) - Clicon home page with links to the different projects with code and documentation.
-
-   - [Clixon](https://github.com/clicon/clixon) - Clixon provides an interactive CLI, NETCONF, and RESTCONF configuration interface for a YANG-based device. It generates the interfaces from YANG models, uses an embedded database with transaction support. That means you can feed Clixon with one or more YANG specifications and it will create an interactive CLI together with RESTCONF and NETCONF interfaces and an configuration database which can be added to any networking device.
-
+ - [Home Page](https://clicon.org) - Clixon home page with links to the different projects with code and documentation.
+   - [Clixon](https://github.com/clicon/clixon) - Clixon provides an interactive CLI, NETCONF, and RESTCONF configuration interface for a YANG-based device. 
    - [Clixon Controller](https://github.com/clicon/clixon-controller) - The Clixon controller is an open-source tool for network automation of devices based on NETCONF and YANG.
 
 ## Puppet
