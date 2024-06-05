@@ -2,6 +2,7 @@
 
 Network Automation is a cross between the discipline of [Network Infrastructure](https://github.com/sindresorhus/awesome#networking) and the discipline of Programming. This list was created to serve as a one-stop shop for information related to Network Automation.
 
+- [Awesome Network Automation ](#awesome-network-automation-)
 - [Community](#community)
 - [Events / Meetup](#events--meetup)
 - [Training](#training)
@@ -60,6 +61,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [Ansible Google Groups](https://groups.google.com/forum/#!forum/ansible-project) - Ansible's mailing list and forum!
 - [IRC Ansible](https://docs.ansible.com/ansible/community.html#irc-channel) - Ansible IRC Channels.
 - [Chef Community](https://community.chef.io/) - The complete offical list of Chef Community resources.
+- [Network Automation Forum](https://networkautomation.forum/) - A conference focused on Network Automation.
 - [Network to Code Slack](http://slack.networktocode.com) - The NTC Slack is a vendor and product agnostic home/pseudo-home to many popular Network Automation solution repositories, such as Nautobot, NAPALM, Netmiko, Nornir, NSoT, and so on. Over 17,000 members meet here to discuss topics related to Network Automation.
 - [Puppet Community](https://puppet.com/community/) - The complete offical list of Puppet Community resources.
 - [Salt Formulas](https://groups.google.com/forum/#!forum/salt-formulas) - The SaltStack formulas working group.
@@ -253,9 +255,14 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 ## Clixon
 
- - [Home Page](https://clicon.org) - Clixon home page with links to the different projects with code and documentation.
-   - [Clixon](https://github.com/clicon/clixon) - Clixon provides an interactive CLI, NETCONF, and RESTCONF configuration interface for a YANG-based device. 
-   - [Clixon Controller](https://github.com/clicon/clixon-controller) - The Clixon controller is an open-source tool for network automation of devices based on NETCONF and YANG.
+ - [Clixon Home Page](https://clicon.org) - Clixon home page with links to the different projects with code and documentation.
+ - [Clixon Code](https://github.com/clicon/clixon) - Clixon provides an interactive CLI, NETCONF, and RESTCONF configuration interface for a YANG-based device. 
+ - [Clixon Controller Code](https://github.com/clicon/clixon-controller) - The Clixon controller is an open-source tool for network automation of devices based on NETCONF and YANG.
+
+## Infrahub
+
+- [Infrahub GitHub Repo](https://github.com/opsmill/infrahub) - Infrahub - A new approach to Infrastructure Management.
+- [Infrahub Documentation](https://docs.infrahub.app/) - Including overview, getting started, and FAQ.
 
 ## Puppet
 
@@ -359,6 +366,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 ## Tools
 
 - [Batfish](https://github.com/batfish/batfish) - Open-source network validation application. Multi-vendor configuration parser with a detailed modeled based simulation to analyze all aspects of network behavior (routing, forwarding, security, etc...).
+- [D2](https://d2lang.com/) - Create beautiful diagrams in minutes. Simple syntax. Endlessly customizable. D2 is the fastest and easiest way to get a mental model from your head onto the screen, then make edits with your team.
 - [Drawthe.net](https://github.com/cidrblock/drawthe.net) - Draw network diagrams described in YAML files.
 - [IS-IS Watcher](https://github.com/Vadims06/isiswatcher) - Tracks IS-IS topology changes by establishing a GRE tunnel with network devices via a history diagram.
 - [napalm-logs](https://github.com/napalm-automation/napalm-logs) - Cross-vendor normalisation for network syslog messages, following the OpenConfig and IETF YANG models.
@@ -374,6 +382,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [InfluxDB](https://www.influxdata.com/) - Made for developers to build time-series-based applications quickly and at scale.
 - [Prometheus](https://prometheus.io/) - Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud.
 - [Telegraf](https://www.influxdata.com/time-series-platform/telegraf/) - Telegraf is the open source server agent to help you collect metrics from your stacks, sensors, and systems.
+- [Grafana](https://grafana.com/) - The open observability platform.
 
 ## Online Parser
 
