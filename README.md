@@ -419,12 +419,12 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [CML](https://www.cisco.com/c/en/us/products/cloud-systems-management/modeling-labs/index.html) - Cisco Modeling Labs (CML), which replaces VIRL, is a network emulator with both an API and GUI frontend.
  - [Container-Lab](https://github.com/srl-wim/container-lab) - Containerlab provides a framework for orchestrating networking labs with containers. It starts the containers, builds a virtual wiring between them to create lab topologies of users choice and manages labs lifecycle.
  - [EVE-NG](http://www.eve-ng.com/) - The Emulated Virtual Environment for Network, Security and DevOps professionals.
+ - [FakeNOS](https://fakenos.github.io/fakenos/) -  Emulate any NOS CLI interactions over SSH with little effort in a ligthweight mode. You can even create your own NOS. Perfectly suited for testing automation scripts and tools.
  - [GNS3](https://www.gns3.com/) - Graphical Network Simulator-3.
  - [Mininet](http://mininet.org/) - Mininet creates a realistic virtual network, running real kernel, switch and application code, on a single machine (VM, cloud or native), in seconds, with a single command.
  - [netlab](https://github.com/ipspace/netlab) - Brings infrastructure-as-code concepts to networking labs. You'll describe your high-level network topology and routing design in a YAML file, and the tools in this repository will create configs for VirtualBox/libvirt/containerlab, Ansible inventory, IPv4/v6 addressing, VLANs and VRFs, OSPF, EIGRP, IS-IS, BGP, BFD, MPLS, MPLS/VPN, VXLAN, EVPN and Segment Routing.
  - [UNetLab](https://www.routereflector.com/unetlab/) - Unified Networking Lab.
  - [VRNetLab](https://github.com/plajjan/vrnetlab) - Run your favourite virtual routers in docker for convenient labbing, development and testing.
- - [FakeNOS](https://fakenos.github.io/fakenos/) -  Emulate any NOS CLI interactions over SSH with little effort in a ligthweight mode. You can even create your own NOS. Perfectly suited for testing automation scripts and tools.
 
 # Network Simulators
 
