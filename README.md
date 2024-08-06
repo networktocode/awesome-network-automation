@@ -178,7 +178,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [Cisco Labs YANG Introduction](https://developer.cisco.com/learning/lab/intro-yang/step/1) - Introducing YANG Data Modeling for the Network.
  - [IETF RFC](https://tools.ietf.org/html/rfc6020) - The IETF RFC on YANG.
  - [YANG for dummies](https://napalm-automation.net/yang-for-dummies/) - NAPALM YANG introduction.
- - [YANG fundamentals](https://www.devnetexperttraining.com/articles/yang-fundamentals) - A walkthrough video on how to build your own YANG model.
+ - [YANG fundamentals](https://www.devnetexperttraining.com/devnet-articles/yang-fundamentals) - A walkthrough video on how to build your own YANG model.
 
 ### Jinja2
 
