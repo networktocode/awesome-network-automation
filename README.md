@@ -190,12 +190,10 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 ### RESTCONF
 
  - [RESTCONF requests for IOS-XE](https://www.devnetexperttraining.com/articles/restconf-operations) - How to combine HTTP path, method and payload for IOS-XE restconf operations.
- - [What Is RESTCONF](http://sdntutorials.com/what-is-restconf/) - Overview of RESTCONF.
 
 ### NETCONF
 
  - [NETCONF message layers](https://www.devnetexperttraining.com/articles/netconf-anatomy) - A view into the payload of NETCONF XML documents and layers.
- - [What Is NETCONF](http://sdntutorials.com/what-is-netconf/) - Overview of NETCONF.
 
 ## Python
 
