@@ -349,8 +349,8 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 ## Vendor Abstraction Library
 
- - [cvprac](https://github.com/aristanetworks/cvprac) - Python library for Arista CVP.
  - [clicrud](https://github.com/davidjohngee/clicrud) - Brocade specific (MLX/VDX/ICX/CER/CES) CLI driver (Telnet & SSH).
+ - [cvprac](https://github.com/aristanetworks/cvprac) - Python library for Arista CVP.
  - [dnacentersdk](https://github.com/cisco-en-programmability/dnacentersdk) - Python library for Cisco DNA Center Platform API.
  - [f5-common-python](https://github.com/F5Networks/f5-common-python) - Python SDK for configuration and monitoring of F5 BIG-IP devices via the iControl REST API.
  - [Infoblox Python Module](https://github.com/infobloxopen/infoblox-client) - Python wrapper for REST API
