@@ -476,7 +476,7 @@ models that enable capacity planning, network optimization and what-if scenario 
 
 # Network Vendor Products
 
-- [Arista CloudVision](https://avd.arista.com/stable/index.html) is a modern, multi-domain management platform that leverages cloud networking principles to deliver a simplified NetOps experience.
+- [Arista CloudVision](https://www.arista.com/en/products/eos/eos-cloudvision) - CloudVision is Arista’s modern, multi-domain management platform that leverages cloud networking principles to deliver a simplified NetOps experience.
 - [Cisco DNA Center](https://developer.cisco.com/dnacenter/) - Cisco DNA Center automates campus networks for faster workflows, faster troubleshooting through more visibility, and policy-driven security (inc. [SDA](https://www.cisco.com/c/en/us/solutions/enterprise-networks/software-defined-access/index.html)).
 - [Cisco Meraki](https://meraki.cisco.com/) - Cisco Meraki is the leader in cloud controlled WiFi, routing, and security. Secure and scalable, Cisco Meraki enterprise networks simply work.
 - [Cisco Viptela](http://viptela.com/) - Viptela provides Software-Defined Wide Area Network (SD-WAN) technology that allows global companies to build cost-effective WANs.
