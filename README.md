@@ -23,6 +23,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
   - [Vendor API Docs](#vendor-api-docs)
 - [Open Source Projects](#open-source-projects)
   - [Ansible](#ansible)
+  - [Arista](#arista)
   - [Batfish](#batfish)
   - [Chef](#chef)
   - [Clixon](#clixon)
@@ -239,6 +240,11 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
  - [Getting Started with the ios_config Ansible Module](https://www.youtube.com/watch?v=WXLUgDmvHDI) - YouTube video by Jason Edelman of NetworkToCode introducing the ios_config Ansible module
  - [Sample network automation Ansible playbooks](https://github.com/ipspace/ansible-examples) - Ansible playbooks geared towards network engineers, courtesy of Ivan Pepelnjak.
+
+## Arista
+
+ - [Arista Validated Designs](https://avd.arista.com/stable/index.html) - AVD is an extensible data model that defines Arista’s Unified Cloud Network architecture as “code”.
+ - [Arista Network Test Automation](https://anta.arista.com/stable/) - ANTA is a Python framework that automates tests for Arista devices.
 
 ## Batfish
  - [Home Page](https://bit.ly/2R0Mefx) - Batfish.org home page with tutorials, talks and technical papers detailing the research behind Batfish.
@@ -499,6 +505,8 @@ models that enable capacity planning, network optimization and what-if scenario 
 - [SuzieQ Enterprise Edition](https://stardustsystems.net) - The enterprise edition of the [suzieq](#suzieq) open source project.
 
 # Network Vendor Products
+
+- [Arista CloudVision](https://www.arista.com/en/products/eos/eos-cloudvision) - CloudVision is Arista’s modern, multi-domain management platform that leverages cloud networking principles to deliver a simplified NetOps experience.
 - [Cisco DNA Center](https://developer.cisco.com/dnacenter/) - Cisco DNA Center automates campus networks for faster workflows, faster troubleshooting through more visibility, and policy-driven security (inc. [SDA](https://www.cisco.com/c/en/us/solutions/enterprise-networks/software-defined-access/index.html)).
 - [Cisco Meraki](https://meraki.cisco.com/) - Cisco Meraki is the leader in cloud controlled WiFi, routing, and security. Secure and scalable, Cisco Meraki enterprise networks simply work.
 - [Cisco Viptela](http://viptela.com/) - Viptela provides Software-Defined Wide Area Network (SD-WAN) technology that allows global companies to build cost-effective WANs.
