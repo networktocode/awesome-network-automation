@@ -21,6 +21,8 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
   - [Python](#python)
   - [Go](#go)
   - [Vendor API Docs](#vendor-api-docs)
+  - [Git](#git)
+  - [RegEx](#regex)
 - [Open Source Projects](#open-source-projects)
   - [Ansible](#ansible)
   - [Arista](#arista)
@@ -199,10 +201,11 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 ## Python
 
  - [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
- - [Learn Python the Hardway](https://learnpythonthehardway.org) - Learn Python The Hard Way takes you from absolute zero to able to read and write basic Python, giving you the tools to understand other documentation and books about Python.
+ - [Learn Python the Hard Way](https://learnpythonthehardway.org) - Learn Python The Hard Way takes you from absolute zero to able to read and write basic Python, giving you the tools to understand other documentation and books about Python.
  - [Python at Codecademy](https://www.codecademy.com/learn/learn-python-3) - Learn Python by Codecademy.
  - [Python data structures](https://www.devnetexperttraining.com/articles/python-looping) - Examples on how to access data in nested structures of lists and dicts.
  - [Python Programming Guides and Tutorials - Python Central](https://pythoncentral.io/) - Experienced Python programmers and enthusiasts from around the world that are eager to share their experience.
+ - [Real Python](https://www.realpython.com) - Real Python is a leading provider of online Python education. They regularly publish new articles, books, courses, and videos of basic to advanced Python concepts.
 
 ## Go
 
@@ -233,6 +236,16 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [Meraki Dashboard API](https://dashboard.meraki.com/api_docs) - Manage network environments within Meraki's cloud management tools.
    - [Meraki Dashboard API What's New](https://create.meraki.io/whats-new/) - Documentation of changes to API endpoints.
  - [Palo Alto Networks PAN-OS API](https://www.paloaltonetworks.com/documentation/80/pan-os/xml-api) - PAN-OS 8.0 XML API Reference.
+
+ ## Git
+
+- [Learn Git Branching](https://learngitbranching.js.org/) - Learn Git Branching helps learn Git concepts through a series of small interactive lessons in which the learner is able to actually execute the git commands inside of the shell in the browser and visually observe the results of the commands.
+- [Learn Git Branching Sandbox](https://learngitbranching.js.org/?NODEMO) - This is a sandbox for practicing any git concepts you desire. Provides a shell and visual feedback of the results of your git commands.
+
+## Regex
+
+- [Regular Expressions 101](https://regex101.com/r/KtD6ib/1) - Regular Expressions 101 provides tools for developing and testing any regex you need in whatever language you select. A regex sandbox is provided to help you see the results of your regex.
+- [W3 Schools Python RegEx](https://www.w3schools.com/python/python_regex.asp) - W3 Schools Python RegEx section is a straightforward and easy cheatsheet for developing regexes.
 
 # Open Source Projects
 
@@ -388,7 +401,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [InfluxDB](https://www.influxdata.com/) - Made for developers to build time-series-based applications quickly and at scale.
 - [Prometheus](https://prometheus.io/) - Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud.
 - [Telegraf](https://www.influxdata.com/time-series-platform/telegraf/) - Telegraf is the open source server agent to help you collect metrics from your stacks, sensors, and systems.
-- [Grafana](https://grafana.com/) - The open observability platform.
+- [Grafana](https://grafana.com/) - An open source observability platform.
 
 ## Online Parser
 
@@ -476,6 +489,7 @@ models that enable capacity planning, network optimization and what-if scenario 
 
 - [Ansible for DevOps](https://www.ansiblefordevops.com/) - Learn Ansible concepts from an industry leading Ansible expert, with associated Vagrant files for ease of learning
 - [Ansible: Up and Running](https://shop.oreilly.com/product/0636920035626.do) - Automating Configuration Management and Deployment the Easy Way.
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Automate the Boring Stuff with Python is an excellent introduction to programming concepts with a focus on Python. The concepts are made easier to learn by practicing them with hands on real world examples and projects.
 - [Cloud Native Data Center Networking](https://www.oreilly.com/library/view/cloud-native-data/9781492045595/) - If you want to study, build, or simply validate your thinking about modern cloud native data center networks, this is your book. Whether you’re pursuing a multitenant private cloud, a network for running machine learning, or an enterprise data center, author Dinesh Dutt takes you through the steps necessary to design a data center that’s affordable, high capacity, easy to manage, agile, and reliable.
 - [Effective DevOps](https://www.amazon.com/Effective-DevOps-Building-Collaboration-Affinity/dp/1491926309/) - Learn cultural and organizational best practices on how to make a good DevOps team
 - [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561) - This pocket guide is the perfect on-the-job companion to Git, the distributed version control system. It provides a compact, readable introduction to Git for new users, as well as a reference to common commands and procedures for those of you with Git experience.
