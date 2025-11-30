@@ -313,6 +313,11 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [SuzieQ Repository](https://github.com/netenglabs/suzieq) - Open-source code for the SuzieQ project.
  - [SuzieQ Youtube](https://www.youtube.com/@suzieqproject7168) - Official youtube home of the SuzieQ project providing community meetups and demonstrations of the project in action.
 
+ ## Keploy
+
+ - [Keploy GitHub Repo](https://github.com/keploy/keploy) - Keploy - Open-source toolkit for API, database, and network automation testing.
+ - [Keploy Documentation](https://docs.keploy.io/) - Overview, getting started, guides, and FAQ.
+
 ## Products
 
  - [eNMS](https://github.com/afourmy/eNMS) - A vendor-agnostic NMS for carrier-grade network visualization and network automation.
