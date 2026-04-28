@@ -288,7 +288,6 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 ## Salt
 
  - [Napalm-Salt Repository](https://github.com/napalm-automation/napalm-salt) - The NAPALM-Salt Repository.
- - [salt-nornir](https://github.com/dmulyalin/salt-nornir) - proxy minion to manage network with SaltStack and Nornir using Netmiko, NAPALM, Scrapli, Ncclient, PyGNMI, PyATS based plugins to name a few.
  - [salt-sproxy](https://github.com/mirceaulinic/salt-sproxy) - Salt plugin to automate the management and configuration of (network) devices at scale, without running (Proxy) Minions.
  - [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - Salt in 10 minutes.
  - [Salt high availability and fault tolerance](https://docs.saltstack.com/en/latest/topics/highavailability/index.html) - Salt high availability and fault tolerance.
@@ -320,6 +319,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [netpalm](https://github.com/tbotnz/netpalm) - netpalm is a ReST broker and abstraction layer for NAPALM, Netmiko, NCCLIENT or a Python Script.
  - [NSoT](https://github.com/dropbox/nsot) - Network Source of Truth (NSoT) is a source of truth database and repository for tracking inventory and metadata of network entities to ease management and automation of network infrastructure.
  - [Rundeck](https://rundeck.org/) - Job scheduler and runbook (and Ansible playbook) automation.
+ - [NORFAB](https://github.com/norfablabs/NORFAB) - Network Automation Fabric is a distributed task automation and orchestration framework built for real-world networks.
 
 ## Library
 
@@ -346,7 +346,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [Template Text Parser](https://github.com/dmulyalin/ttp) - CLI tool and Python module for parsing semi-structured text into structured data. Similar syntax to Jinja templating, but in reverse. TTP Templates [collection](https://github.com/dmulyalin/ttp_templates).
  - [TextFSM](https://github.com/google/textfsm) - Python module for parsing semi-structured text into Python tables.
  - [YAPYANG](https://github.com/nomios-opensource/yapyang) - Python package that helps translate YANG data models to Python.
-
+ - [PICLE](https://github.com/norfablabs/picle) - Python Interactive Command Line Shells helps you build interactive CLI shells from Pydantic v2 models. Think of it as your model tree becomes the command tree.
 
 ## Non-Core Ansible Modules
 
