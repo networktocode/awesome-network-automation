@@ -374,6 +374,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [f5-common-python](https://github.com/F5Networks/f5-common-python) - Python SDK for configuration and monitoring of F5 BIG-IP devices via the iControl REST API.
  - [Infoblox Python Module](https://github.com/infobloxopen/infoblox-client) - Python wrapper for REST API
  - [Infoblox Go Client](https://github.com/infobloxopen/infoblox-go-client) - Go wrapper for REST API
+ - [mediacast-netcatalog](https://github.com/Mediacastnet/mediacast-netcatalog) - Vendor command catalog + version matcher + protocol probe for multi-vendor network switches (Cisco IOS-XE/NX-OS, Aruba AOS-CX, Juniper Junos, Arista EOS, HPE ProCurve, Cisco Meraki MS). Rust core with Python bindings via PyO3.
  - [pan-python](https://github.com/kevinsteves/pan-python) - Multi-tool set for Palo Alto Networks PAN-OS, Panorama, WildFire and AutoFocus.
  - [pandevice](https://github.com/PaloAltoNetworks/pan-os-python) - Device framework for interacting with Palo Alto Networks devices.
  - [pyeapi](https://github.com/arista-eosplus/pyeapi) - Python library for Arista EOS.
