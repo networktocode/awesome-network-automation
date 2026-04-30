@@ -29,6 +29,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
   - [Batfish](#batfish)
   - [Chef](#chef)
   - [Clixon](#clixon)
+  - [Infrahub](#infrahub)
   - [Puppet](#puppet)
   - [Salt](#salt)
   - [StackStorm](#stackstorm)
@@ -64,6 +65,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [Ansible Google Groups](https://groups.google.com/forum/#!forum/ansible-project) - Ansible's mailing list and forum!
 - [IRC Ansible](https://docs.ansible.com/ansible/community.html#irc-channel) - Ansible IRC Channels.
 - [Chef Community](https://community.chef.io/) - The complete offical list of Chef Community resources.
+- [Infrahub Community](https://discord.gg/opsmill)
 - [Network Automation Forum](https://networkautomation.forum/) - A conference focused on Network Automation.
 - [Network to Code Slack](http://slack.networktocode.com) - The NTC Slack is a vendor and product agnostic home/pseudo-home to many popular Network Automation solution repositories, such as Nautobot, NAPALM, Netmiko, Nornir, NSoT, and so on. Over 17,000 members meet here to discuss topics related to Network Automation.
 - [Puppet Community](https://puppet.com/community/) - The complete offical list of Puppet Community resources.
@@ -78,7 +80,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [Ansible Fest](https://www.ansible.com/ansiblefest) - AnsibleFest is a day-long conference bringing together Ansible users, developers and industry partners to share best practices, case studies and Ansible news.
 - [Ansible NYC Meetup](https://www.meetup.com/Ansible-NYC/) - Local NYC Ansible user meetup.
 - [Chef Summits](https://www.chef.io/summits/) - Chef community summit schedule.
-- [London Network Automation Meetup](https://www.meetup.com/London-Network-Automation-Meetup/) - A community of network engineers, who have interest in the new buzz of network automation.
+- [London Network Automation Meetup](https://www.linkedin.com/company/london-network-automation-meetup/) - A community of network engineers, who have interest in the new buzz of network automation.
 - [Minnesota Network User Group](https://www.meetup.com/mn-nug/) - Minnesota Network User Group, quarterly meetup of network users.
 - [NANOG](https://www.nanog.org) - North American Network Operators' Group with fair share of automation presentations/discussions.
 - [Network to Coders Meetup](https://www.meetup.com/Network-to-Coders/) - Maybe this can pressure NTC to finally setup an event for the 140+ NTC meetup members.
@@ -97,12 +99,14 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [Network to Code](https://www.networktocode.com/training/) - Network Automation Training including Python, Ansible, DevOps, and much more.
 - [Network Programmability Basics - Cisco](https://developer.cisco.com/video/net-prog-basics/) - Jumpstart your journey into network programmability with this expert-led video course by Cisco DevNet.
 - [Nick Russo study resources](http://njrusmc.net/jobaid/jobaid.html) - Collection of DevNet certification study resources, such as study plans and Postman collections.
+- [Packet Coders](https://www.packetcoders.io/) - Gain Practical Real-World Knowledge with Packet Coders' On-Demand Training, Labs, and Private Code Repositories.
 - [Python for Network Engineers](https://pynet.twb-tech.com/class.html) - Learn skills that make you better at network automation and that improve your capability to use programming to scale your work.
 
 # Presentations
 
 |            Title            |            Details            |            Year            |
 |-----------------------------|-------------------------------|----------------------------|
+| [Building Trustworthy Network Automation, From Principles to Practice](https://youtu.be/G3XqT-UhQ6Q?si=-rUcYwtAcJPV0YAb) | Damien Garros, Autocon3 | 2025 |
 | [Python, Go and Rust for Network Automation](https://www.youtube.com/watch?v=hx1JCsQKkns) | Claus Töpke, NANOG | 2024 |
 | [Text Parsing Strategies for Network Devices](https://www.youtube.com/watch?v=3ael6w4a948) | Ruairi Carroll, DKNOG | 2023 |
 | [Nautobot Overview](https://www.youtube.com/watch?v=_vq-rtTRLRk&list=PLinuRwpnsHadCKcgqwnikyMZEWZX1raMB&index=16) | Network to Code, Network Field Day 24 | 2021 |
@@ -146,6 +150,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [Network OP](https://networkop.co.uk/) - The Network Automation thoughts of Michael Kashin.
 - [NWMichl Blog](https://nwmichl.net/) - The Network Automation thoughts of Michael Schön.
 - [Open-Source Routing and Network Simulation - Brian Linkletter](https://www.brianlinkletter.com/) - Blog about the open-source network emulation and network simulation tools by Brian Linkletter.
+- [OpsMill Blog](https://opsmill.com/blog/) - Business strategy & technical deep dives for powering infrastructure automation
 - [Packet Coders](https://packetcoders.io/tag/blog) - The Network Automation thoughts of Rick Donato.
 - [Packet Life](http://packetlife.net/) - The Network Automation thoughts of Jeremy Stretch.
 - [Python for Network Engineers](https://pynet.twb-tech.com/blog/) - Articles on Netmiko, NAPALM, and Ansible by Kirk Byers.
