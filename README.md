@@ -448,6 +448,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
  - [GNS3](https://www.gns3.com/) - Graphical Network Simulator-3.
  - [Mininet](http://mininet.org/) - Mininet creates a realistic virtual network, running real kernel, switch and application code, on a single machine (VM, cloud or native), in seconds, with a single command.
+ - [NetPilot](https://netpilot.io) - AI agent for network labs. Describe any network in plain English; the agent builds topology, generates vendor-specific configs (Cisco, Juniper, Arista, Nokia, Palo Alto, Fortinet), and deploys to cloud with real CLIs — in 2 minutes.
  - [netlab](https://github.com/ipspace/netlab) - Brings infrastructure-as-code concepts to networking labs. You'll describe your high-level network topology and routing design in a YAML file, and the tools in this repository will create configs for VirtualBox/libvirt/containerlab, Ansible inventory, IPv4/v6 addressing, VLANs and VRFs, OSPF, EIGRP, IS-IS, BGP, BFD, MPLS, MPLS/VPN, VXLAN, EVPN and Segment Routing.
  - [UNetLab](https://www.routereflector.com/unetlab/) - Unified Networking Lab.
  - [VRNetLab](https://github.com/plajjan/vrnetlab) - Run your favourite virtual routers in docker for convenient labbing, development and testing.
