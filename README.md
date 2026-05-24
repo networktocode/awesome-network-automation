@@ -397,6 +397,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [Network-Conditions-Emulator](https://github.com/marty90/Network-Conditions-Emulator) - Artificially limit bandwidth, delay and loss rate on selected interfaces.
 - [netconan](https://github.com/intentionet/netconan) - Network Configuration Anonymizer
 - [NetCopa](https://github.com/cidrblock/netcopa) - Network device configuration parser ("industry standard" -> YAML converter).
+- [NetCopilot](https://github.com/AnasProgrammer2/netcopilot) - Cross-platform SSH/Telnet/Serial client with ARIA, an AI agent that autonomously runs diagnostic commands and explains root causes across Cisco (IOS/IOS-XE/NX-OS/ASA), Juniper, Arista, Nokia SR-OS, Huawei VRP, MikroTik, Fortinet, Palo Alto, and F5.
 - [NetTowel](https://github.com/InfrastructureAsCode-ch/nettowel) - Collection of useful network automation functions for the CLI.
 - [OSPF Watcher](https://github.com/Vadims06/ospfwatcher) - Tracks OSPF topology changes by establishing a GRE tunnel with network devices via a history diagram.
 - [Topolograph](https://github.com/Vadims06/topolograph) - Python-based Web tool for visualisation of OSPF/ISIS topologies and making a prediction of network behaviour in case of network's outage.
