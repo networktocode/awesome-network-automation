@@ -398,15 +398,17 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [netconan](https://github.com/intentionet/netconan) - Network Configuration Anonymizer
 - [NetCopa](https://github.com/cidrblock/netcopa) - Network device configuration parser ("industry standard" -> YAML converter).
 - [NetTowel](https://github.com/InfrastructureAsCode-ch/nettowel) - Collection of useful network automation functions for the CLI.
+- [nethawk](https://github.com/Flowtriq/nethawk) - Real-time terminal-based network traffic analyzer with protocol breakdown and bandwidth monitoring. Written in Go.
 - [OSPF Watcher](https://github.com/Vadims06/ospfwatcher) - Tracks OSPF topology changes by establishing a GRE tunnel with network devices via a history diagram.
 - [Topolograph](https://github.com/Vadims06/topolograph) - Python-based Web tool for visualisation of OSPF/ISIS topologies and making a prediction of network behaviour in case of network's outage.
 
 ## Network Telemetry
 
+- [ftagent-lite](https://github.com/Flowtriq/ftagent-lite) - Lightweight network traffic monitor that detects anomalies using adaptive baselines with sFlow, NetFlow, and IPFIX support, plus raw packet capture. MIT licensed, Python.
+- [Grafana](https://grafana.com/) - An open source observability platform.
 - [InfluxDB](https://www.influxdata.com/) - Made for developers to build time-series-based applications quickly and at scale.
 - [Prometheus](https://prometheus.io/) - Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud.
 - [Telegraf](https://www.influxdata.com/time-series-platform/telegraf/) - Telegraf is the open source server agent to help you collect metrics from your stacks, sensors, and systems.
-- [Grafana](https://grafana.com/) - An open source observability platform.
 
 ## Online Parser
 
