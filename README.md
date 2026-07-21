@@ -405,6 +405,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 - [InfluxDB](https://www.influxdata.com/) - Made for developers to build time-series-based applications quickly and at scale.
 - [Prometheus](https://prometheus.io/) - Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Autonomous AI pentesting platform (GPL-3.0) covering web, AD and Kubernetes, where the LLM never sees real IPs or credentials (local privacy gateway).
 - [Telegraf](https://www.influxdata.com/time-series-platform/telegraf/) - Telegraf is the open source server agent to help you collect metrics from your stacks, sensors, and systems.
 - [Grafana](https://grafana.com/) - An open source observability platform.
 
