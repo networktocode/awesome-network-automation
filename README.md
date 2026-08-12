@@ -344,6 +344,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [netaddr](https://github.com/drkjam/netaddr) - Network address manipulation that supports a number of techniques (supernetting and subnetting).
  - [Netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices.
  - [Netutils](https://github.com/networktocode/netutils) - A Python library that is a collection of functions that are used in the common network automation tasks.
+ - [niwaki](https://github.com/k3l0-dev/niwaki) - Typed Python SDK for Cisco ACI: a declarative design DSL validated locally before any push, dry-run plan/diff, deterministic fabric snapshots, and a reverse importer that turns an existing fabric into replayable Python code.
  - [Nornir](https://github.com/nornir-automation/nornir) - Nornir is a pure Python automation framework intended to be used directly from Python.
  - [NUTS](https://github.com/network-unit-testing-system) - Network Unit Testing System is a Pytest plugin enabling writing network tests with YAML files.
  - [PyGNMI](https://github.com/akarneliuk/pygnmi) - Pure Python implementation of gNMI client to interact with network functions.
