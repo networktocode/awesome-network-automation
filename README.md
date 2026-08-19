@@ -96,11 +96,13 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [DevNet Expert Training](https://www.devnetexperttraining.com) - Training resources targeting the Cisco Certified DevNet Expert exam topics, including bootcamp courses by Andreas Baekdahl.
 - [GNS3 Academy - Instructor David Bombal](https://academy.gns3.com/courses/author/12794) - Offers an inexpensive set of introductions to Ansible and Python for Network Engineers, among other courses.
 - [ipSpace.net](https://www.ipspace.net/Training) - Numerous courses, webinars, and videos covering SDN, network automation, cloud computing, virtualization technologies, IPv6, VPNs, and much more.
+- [Model-Driven Network Configuration Tutorial](https://martimy.github.io/model-driven-configuration-tutorial) - Hands-on lab using Containerlab, NETCONF, gNMI, and YANG to configure Nokia SR Linux and Arista cEOS devices, focused on understanding the model layer before automation tooling.
 - [Network to Code](https://www.networktocode.com/training/) - Network Automation Training including Python, Ansible, DevOps, and much more.
 - [Network Programmability Basics - Cisco](https://developer.cisco.com/video/net-prog-basics/) - Jumpstart your journey into network programmability with this expert-led video course by Cisco DevNet.
 - [Nick Russo study resources](http://njrusmc.net/jobaid/jobaid.html) - Collection of DevNet certification study resources, such as study plans and Postman collections.
 - [Packet Coders](https://www.packetcoders.io/) - Gain Practical Real-World Knowledge with Packet Coders' On-Demand Training, Labs, and Private Code Repositories.
 - [Python for Network Engineers](https://pynet.twb-tech.com/class.html) - Learn skills that make you better at network automation and that improve your capability to use programming to scale your work.
+
 
 # Presentations
 
