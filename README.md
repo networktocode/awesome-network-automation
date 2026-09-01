@@ -358,6 +358,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 
 ## Non-Core Ansible Modules
 
+ - [ansible-eosl](https://github.com/EOSL-AI/ansible-eosl) - Module and lookup plugin that audit network hardware part numbers against manufacturer end-of-life dates, with the vendor bulletin URL on every result.
  - [ansible-junos-stdlib](https://github.com/Juniper/ansible-junos-stdlib) - Junos OS modules for Ansible.
  - [ansible-mysql-query](https://github.com/zauberpony/ansible-mysql-query) - Ansible module to modify MySQL database records.
  - [ara](https://github.com/openstack/ara) - Ansible Runtime Analysis.
