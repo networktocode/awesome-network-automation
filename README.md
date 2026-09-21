@@ -328,6 +328,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [netpalm](https://github.com/tbotnz/netpalm) - netpalm is a ReST broker and abstraction layer for NAPALM, Netmiko, NCCLIENT or a Python Script.
  - [NSoT](https://github.com/dropbox/nsot) - Network Source of Truth (NSoT) is a source of truth database and repository for tracking inventory and metadata of network entities to ease management and automation of network infrastructure.
  - [Rundeck](https://rundeck.org/) - Job scheduler and runbook (and Ansible playbook) automation.
+ - [Rustinion](https://rustinion.com) - Cross-platform device management and monitoring agent (Windows/macOS/Linux/BSD/OpenWRT) written in Rust; includes native package-manager patch automation for OpenWRT/pfSense/OPNsense edge devices alongside standard endpoints.
 
 ## Library
 
