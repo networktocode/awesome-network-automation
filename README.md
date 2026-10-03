@@ -525,6 +525,7 @@ models that enable capacity planning, network optimization and what-if scenario 
 - [NetMRI](https://www.infoblox.com/products/netmri/) - Vendor Agnostic NCCM tool with with policy engine and multi-vendor device lifecycle/vulnerability management. (Infoblox product)
 - [NetYCE](https://netyce.com/) NetYCE lets you be in control of any and all of your networks, using its unique Design Driven Networking approach. Not stopping at network devices, but orchestrate end-to-end including firewalls, DDI (DNS, DHCP, IPAM) and other 3rd party tooling. Deploy your networks as Designed.
 - [PacketFront](https://pfsw.com/) - PacketFront BECS and BBE is a vendor-agnostic network, service and resource orchestration system for residential, enterprise and data center networks.
+- [Rustinion](https://rustinion.com/) - Cross-platform, memory-safe device management and monitoring agent (Rust) with native support for OpenWRT/pfSense/OPNsense edge devices alongside Linux, Windows, macOS and BSD -- patches and monitors network edge hardware most MDM/RMM tools cannot reach.
 - [SuzieQ Enterprise Edition](https://stardustsystems.net) - The enterprise edition of the [suzieq](#suzieq) open source project.
 
 # Network Vendor Products
