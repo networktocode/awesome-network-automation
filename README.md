@@ -394,6 +394,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 ## Tools
 
 - [Batfish](https://github.com/batfish/batfish) - Open-source network validation application. Multi-vendor configuration parser with a detailed modeled based simulation to analyze all aspects of network behavior (routing, forwarding, security, etc...).
+- [cisco-switch-config](https://github.com/hansstudy/cisco-switch-config) - Claude skill that audits Cisco IOS and IOS-XE switch running-configs offline and generates hardened baselines. Findings come with paste-ready fixes cited to DISA STIG, NSA, CISA, and Cisco guidance.
 - [D2](https://d2lang.com/) - Create beautiful diagrams in minutes. Simple syntax. Endlessly customizable. D2 is the fastest and easiest way to get a mental model from your head onto the screen, then make edits with your team.
 - [Drawthe.net](https://github.com/cidrblock/drawthe.net) - Draw network diagrams described in YAML files.
 - [IS-IS Watcher](https://github.com/Vadims06/isiswatcher) - Tracks IS-IS topology changes by establishing a GRE tunnel with network devices via a history diagram.
@@ -403,6 +404,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [NetCopa](https://github.com/cidrblock/netcopa) - Network device configuration parser ("industry standard" -> YAML converter).
 - [NetTowel](https://github.com/InfrastructureAsCode-ch/nettowel) - Collection of useful network automation functions for the CLI.
 - [OSPF Watcher](https://github.com/Vadims06/ospfwatcher) - Tracks OSPF topology changes by establishing a GRE tunnel with network devices via a history diagram.
+- [PortProof](https://github.com/hansstudy/portproof) - PowerShell script that probes a declared list of source, target, and port requirements and returns a pass/fail matrix with HTML, CSV, and JSON reports. Exits non-zero when a required path fails, so a change window can gate on it.
 - [Topolograph](https://github.com/Vadims06/topolograph) - Python-based Web tool for visualisation of OSPF/ISIS topologies and making a prediction of network behaviour in case of network's outage.
 
 ## Network Telemetry
