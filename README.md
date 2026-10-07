@@ -394,6 +394,8 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 ## Tools
 
 - [Batfish](https://github.com/batfish/batfish) - Open-source network validation application. Multi-vendor configuration parser with a detailed modeled based simulation to analyze all aspects of network behavior (routing, forwarding, security, etc...).
+- [cisco-config-drift](https://github.com/korpus91/cisco-config-drift) - Read-only configuration drift detection for Cisco IOS / IOS-XE. Baselines running-config with Netmiko and reports unified diffs, ignoring volatile lines.
+- [cisco-interface-health](https://github.com/korpus91/cisco-interface-health) - Offline parser for Cisco `show interfaces` output that ranks CRC, duplex mismatch, err-disabled, drop and flapping findings. Installable from PyPI.
 - [D2](https://d2lang.com/) - Create beautiful diagrams in minutes. Simple syntax. Endlessly customizable. D2 is the fastest and easiest way to get a mental model from your head onto the screen, then make edits with your team.
 - [Drawthe.net](https://github.com/cidrblock/drawthe.net) - Draw network diagrams described in YAML files.
 - [IS-IS Watcher](https://github.com/Vadims06/isiswatcher) - Tracks IS-IS topology changes by establishing a GRE tunnel with network devices via a history diagram.
