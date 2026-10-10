@@ -363,6 +363,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [ansible-mysql-query](https://github.com/zauberpony/ansible-mysql-query) - Ansible module to modify MySQL database records.
  - [ara](https://github.com/openstack/ara) - Ansible Runtime Analysis.
  - [FortiManager-Ansible](https://github.com/networktocode/fortimanager-ansible) - Ansible module to work with FortiManager.
+ - [genieacs-ansible](https://github.com/GeiserX/genieacs-ansible) - Ansible collection for GenieACS (TR-069 ACS) with a dynamic inventory of CPE devices and modules for device tasks, presets and provisions.
  - [Infoblox-Ansible](https://github.com/infobloxopen/infoblox-ansible) - Ansible module to work with Infoblox.
  - [IP Infusion OcNOS Ansible module](https://github.com/IPInfusion/OcNOS) - Ansible module, SNMP MIB files, and YANG files for OcNOS.
  - [Napalm-Ansible](https://github.com/napalm-automation/napalm-ansible) - Collection of Ansible modules that use napalm to retrieve data or modify configuration on networking devices.
