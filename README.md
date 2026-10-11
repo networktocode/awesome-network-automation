@@ -404,6 +404,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [NetCopa](https://github.com/cidrblock/netcopa) - Network device configuration parser ("industry standard" -> YAML converter).
 - [NetTowel](https://github.com/InfrastructureAsCode-ch/nettowel) - Collection of useful network automation functions for the CLI.
 - [OSPF Watcher](https://github.com/Vadims06/ospfwatcher) - Tracks OSPF topology changes by establishing a GRE tunnel with network devices via a history diagram.
+- [TopoAI](https://www.topoai.cc/) - AI-assisted network topology diagram first drafts from sanitized natural-language infrastructure scenarios, ready for draw.io refinement.
 - [Topolograph](https://github.com/Vadims06/topolograph) - Python-based Web tool for visualisation of OSPF/ISIS topologies and making a prediction of network behaviour in case of network's outage.
 
 ## Network Telemetry
