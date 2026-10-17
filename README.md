@@ -102,6 +102,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [Nick Russo study resources](http://njrusmc.net/jobaid/jobaid.html) - Collection of DevNet certification study resources, such as study plans and Postman collections.
 - [Packet Coders](https://www.packetcoders.io/) - Gain Practical Real-World Knowledge with Packet Coders' On-Demand Training, Labs, and Private Code Repositories.
 - [Python for Network Engineers](https://pynet.twb-tech.com/class.html) - Learn skills that make you better at network automation and that improve your capability to use programming to scale your work.
+- [Relay Rack 1](https://relayrack1.com/configs/automation/) - Free network automation guides with ready-to-use Python, Netmiko, Ansible and NETCONF/RESTCONF/YANG examples, plus Cisco Modeling Labs files to practice on.
 
 
 # Presentations
