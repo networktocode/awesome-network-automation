@@ -412,6 +412,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [Prometheus](https://prometheus.io/) - Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud.
 - [Telegraf](https://www.influxdata.com/time-series-platform/telegraf/) - Telegraf is the open source server agent to help you collect metrics from your stacks, sensors, and systems.
 - [Grafana](https://grafana.com/) - An open source observability platform.
+- [Splice](https://github.com/Open-Ireland-Testbed/splice) - A gNMI server for devices that only speak NETCONF. It reads the device's YANG models and serves their data over gNMI, with no vendor-specific code.
 
 ## Online Parser
 
