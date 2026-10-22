@@ -241,6 +241,9 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
    - [EXOS Python API](https://api.extremenetworks.com/EXOS/ProgramInterfaces/PYTHONAPI/?_ga=2.86707664.93471558.1615766490-270125121.1613692686) - Documentation for writing Python applications that run on ExtremeXOS based switches.
  - [F5](https://devcentral.f5.com/d/icontrolr-rest-api-user-guide-version-1300-241) - REST API User Guide, Version 13.0.0.
  - [Infoblox Perl API](https://demogm1.infoblox.com/api/doc/) and [Infoblox REST API](https://demogm1.infoblox.com/wapidoc/)
+ - IP Infusion OcNOS:
+   - [OcNOS NETCONF User Manual](https://documentation.ipinfusion.com/ocnos-sp-netconf-user-manual-7.0/Default.htm) - NETCONF and YANG on OcNOS, including candidate datastore, confirmed commit and validate.
+   - [OcNOS Streaming Telemetry Guide](https://documentation.ipinfusion.com/ocnos-sp-streaming-telemetry-7.0/Default.htm) - gNMI dial-in and dial-out telemetry with OpenConfig and native YANG models.
  - [Juniper JUNOS API](https://www.juniper.net/documentation/en_US/junos/information-products/pathway-pages/rest-api/rest-api.html) - JUNOS REST API Guide.
  - [Meraki Dashboard API](https://dashboard.meraki.com/api_docs) - Manage network environments within Meraki's cloud management tools.
    - [Meraki Dashboard API What's New](https://create.meraki.io/whats-new/) - Documentation of changes to API endpoints.
@@ -365,6 +368,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
  - [FortiManager-Ansible](https://github.com/networktocode/fortimanager-ansible) - Ansible module to work with FortiManager.
  - [genieacs-ansible](https://github.com/GeiserX/genieacs-ansible) - Ansible collection for GenieACS (TR-069 ACS) with a dynamic inventory of CPE devices and modules for device tasks, presets and provisions.
  - [Infoblox-Ansible](https://github.com/infobloxopen/infoblox-ansible) - Ansible module to work with Infoblox.
+ - [IP Infusion OcNOS Ansible collection](https://github.com/IPInfusion/ocnos-ansible-collection) - Ansible collection for OcNOS (ipinfusion.ocnos on Ansible Galaxy).
  - [IP Infusion OcNOS Ansible module](https://github.com/IPInfusion/OcNOS) - Ansible module, SNMP MIB files, and YANG files for OcNOS.
  - [Napalm-Ansible](https://github.com/napalm-automation/napalm-ansible) - Collection of Ansible modules that use napalm to retrieve data or modify configuration on networking devices.
  - [Netscaler-Ansible](https://github.com/networktocode/netscaler-ansible) - Ansible module to work with Netscalers.
