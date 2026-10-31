@@ -476,6 +476,7 @@ models that enable capacity planning, network optimization and what-if scenario 
 - [fetchconfig](https://github.com/udhos/fetchconfig) - fetchconfig is a Perl script for retrieving configuration of multiple devices.
 - [Gerty](https://github.com/ssinyagin/gerty) - Universal framework for device management automation. Eventually a replacement for RANCID... and much more.
 - [Jazigo](https://github.com/udhos/jazigo) - Jazigo is a tool written in Go for retrieving configuration for multiple devices, similar to rancid, fetchconfig, oxidized, Sweet.
+- [NetLedger](https://github.com/SalamoneJack/NetLedger) - Network configuration backup to Git with risk-scored change summaries, health checks and a web console. Built on NAPALM.
 - [Oxidized](https://github.com/ytti/oxidized) - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
 - [RANCID](https://www.shrubbery.net/rancid) - RANCID monitors a router's (or more generally a device's) configuration, including software and hardware (cards, serial numbers, etc) and uses CVS (Concurrent Version System), Subversion or Git to maintain history of changes.
 - [Sweet](https://github.com/AppliedTrust/sweet) - Network device configuration backups and change alerts for the 21st century - inspired by RANCID!
