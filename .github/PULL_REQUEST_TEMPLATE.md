@@ -33,6 +33,7 @@ To be added, a project, company, or resource should be **established and activel
 maintained**. We generally look for **at least one** of the following. Please check
 everything that applies and give us the supporting details.
 
+
 - [ ] **Maintained for 6+ months** with regular, meaningful activity (commits, releases, posts, episodes, etc.)
 - [ ] **Meaningful community adoption** (e.g. several hundred GitHub stars, active contributors beyond the author, real downloads/users)
 - [ ] **A significant milestone** (e.g. funding round, acquisition, major conference talk, notable production usage)
