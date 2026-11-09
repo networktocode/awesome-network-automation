@@ -408,6 +408,7 @@ Network Automation is a cross between the discipline of [Network Infrastructure]
 - [netconan](https://github.com/intentionet/netconan) - Network Configuration Anonymizer
 - [NetCopa](https://github.com/cidrblock/netcopa) - Network device configuration parser ("industry standard" -> YAML converter).
 - [NetTowel](https://github.com/InfrastructureAsCode-ch/nettowel) - Collection of useful network automation functions for the CLI.
+- [netcfg-vault](https://github.com/BG8CFB/netcfg-vault) - CLI to batch backup network device configurations (H3C/Huawei/Cisco/Ruijie), diff changes, and store them in AES-256-GCM encrypted vaults.
 - [OSPF Watcher](https://github.com/Vadims06/ospfwatcher) - Tracks OSPF topology changes by establishing a GRE tunnel with network devices via a history diagram.
 - [Topolograph](https://github.com/Vadims06/topolograph) - Python-based Web tool for visualisation of OSPF/ISIS topologies and making a prediction of network behaviour in case of network's outage.
 
